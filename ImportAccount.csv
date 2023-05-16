@@ -1,0 +1,759 @@
+Account|Parent|Alias: Default|Data Storage|Aggregation (EPBCS)
+A68300|Sales & Marketing|68300-Corporate Media|never share|+
+A68650|Sales & Marketing|68650-Reputation Mgmt|never share|+
+A71600|Production Expenses|71600-Production Telephone|never share|+
+A72200|Production Expenses|72200-Production Site Repairs|never share|+
+A73600|Production Expenses|73600-Temporary Toilets|never share|+
+A74100|Production Expenses|74100-Production - Misc Expense|never share|+
+A92100|Interest & Real Estate Taxes|92100-Real Estate Taxes|never share|+
+Misc|Net Income|null|dynamic calc|+
+A93700|Misc|93700-Gain (Loss) on Sale of Investments|never share|+
+A93270|Misc|93270-Sale of Front Foot Benefit Chg|never share|+
+A99300|Total Units Started|99300-Units Started - DX|never share|+
+Total Units Settled|Total Units|null|dynamic calc|+
+A49600|Total Title Policy Income|49600-PA Title Policy Income|never share|+
+A49760|Total Title Policy Income|49760-GA Title Policy Income|never share|+
+A89140|TOTAL EXPENSES|89140-Medical Insurance|dynamic calc|+
+A89270|TOTAL EXPENSES|89270-Dues & Subscriptions|never share|+
+A80750|General & Administrative Expenses|80750-Life  & Disability Insurance|never share|+
+A80850|General & Administrative Expenses|80850-401(K) Matching|never share|+
+A81100|General & Administrative Expenses|81100-Covid-Related Expenses|never share|+
+A81700|General & Administrative Expenses|81700-Telephone|never share|+
+A82100|General & Administrative Expenses|82100-Computer Support|never share|+
+A83200|General & Administrative Expenses|83200-Insurance - Prof & TPA Fees|never share|+
+A84050|General & Administrative Expenses|84050-Accounting|never share|+
+A85200|General & Administrative Expenses|85200-Dues & Subscriptions|never share|+
+Interest & Real Estate Taxes|Net Income|null|dynamic calc|-
+A90150|Interest & Real Estate Taxes|90150-Interest Exp - Fifth Third Bank|never share|+
+A90950|Interest & Real Estate Taxes|90950-Interest Expense - Homebuilding|never share|+
+A91100|Interest & Real Estate Taxes|91100-Loan Fees & Points|never share|+
+A53500|Cost of Sales|53500-Options Cost of Sales - 2o2|never share|+
+A53510|Cost of Sales|53510-Site Cost of Sales - 2o2|never share|+
+A61150|Variable Costs|61150-DRBR Service Fees|never share|+
+A44000|Land Development Income|44000-Sales - Developed Lots|never share|+
+A60100|Sales & Marketing|60100-Sales Salaries|never share|+
+A62150|Sales & Marketing|62150-Advertising - Billboards|never share|+
+A62500|Sales & Marketing|62500-Advertising - Web Links & Ads|never share|+
+Lots Ahead (Behind)|Lot Inventory|null|dynamic calc|+
+Total Sales|WIP Units|null|dynamic calc|+
+Total Bonus|Total Comm, Salary, Bonus|null|dynamic calc|+
+Management Bonus|Total G&A Bonus|null|never share|+
+Settlement Bonus|Total Sales Bonus|null|never share|+
+G&A Auto Allowance|Total Auto Allowance|null|never share|+
+Area Production Mgr AA|Production Auto Allowance|null|never share|+
+A77250|Warranty Service Expenses|77250-Warranty - Vehicle Allowance|never share|+
+A77250|Total Auto Allowance|77250-Warranty - Vehicle Allowance|shared|+
+Inv Adj/Impairments/LD Spend|Inventory|null|never share|+
+Inv Adj/Impairments/LD Spend|Total Inventory|null|shared|+
+Inv Adj/Impairments|Inventory|null|never share|+
+Inv Adj/Impairments|Total Inventory|null|shared|+
+Lots Remaining (Unpaved)|Land Development|null|never share|+
+Left to Settle|Land Development|null|never share|+
+Total Lots|Community Information|null|never share|+
+Approved Lots|Community Information|null|never share|+
+SmartList_Counts|Community Information|null|label only|+
+SF|SmartList_Counts|Single Family|never share|+
+No Category|SmartList_Counts|null|never share|+
+Building Fees|Total WIP Inventory|null|never share|+
+Lot Cost|Total WIP Inventory|null|never share|+
+Revised GM $|Community Gross Margin|null|never share|+
+Sales counselor (New)|Total Sales Salaries|null|never share|+
+Total Warranty Salaries|Total Comm, Salary|null|dynamic calc|+
+Design Center|Total GA Headcount|null|never share|+
+A89430|TOTAL EXPENSES|89430-Contract Closers|never share|+
+A89630|TOTAL EXPENSES|89630-Equipment Expense (postage mach)|never share|+
+Total Capture|Keystone|null|dynamic calc|+
+LD Spend Budget CTC|Land Development|null|never share|+
+LD Capitalized Interest|Land Development|null|never share|+
+Letters of Credit - Performance|Land Development|null|never share|+
+Sold_NotStarted_Owned|Calc_Members|null|never share|+
+Subordinated Debt|Total Liabilities|null|dynamic calc|+
+A33000|Equity|33000-Member Distributions - Rycrew|never share|+
+A39998|Retained Earning|39998-Retained Earnings|never share|+
+Revenue|Gross Margin|null|dynamic calc|+
+A50509|Cost of Sales|50509-Standard Cost of Sales - SF|never share|+
+A50520|Cost of Sales|50520-Building Fees - SF|never share|+
+A50401|Cost of Sales|50401-PPA Amortization|never share|+
+A14101|Total Inventory|14101-Land and Land Dev. Charged to COS|shared|+
+A14101|Inventory|14101-Land and Land Dev. Charged to COS|never share|+
+A20160|Accounts Payable & Accrued Expenses|20160-Retainage Payable|never share|+
+A20170|Accounts Payable & Accrued Expenses|20170-V-Card Liability|never share|+
+A21310|Accounts Payable & Accrued Expenses|21310-Accrued Deferred Compensation|never share|+
+A21350|Accounts Payable & Accrued Expenses|21350-Accrued Legal|never share|+
+A21355|Accounts Payable & Accrued Expenses|21355-Accrued Warranty - Fielding|never share|+
+A25350|Accounts Payable & Accrued Expenses|25350-401K & FlexPlan Withheld|never share|+
+A31000|Equity|31000-Member Equity - Rycrew|never share|+
+A43100|Revenue|43100-Sales - Dup/Villas - Options|never share|+
+A50500|Cost of Sales|50500-Options Cost of Sales - SF|never share|+
+A51509|Cost of Sales|51509-Standard Cost of Sales - TH|never share|+
+Land Acquisition|Inventory|null|never share|+
+Land Acquisition|Total Inventory|null|shared|+
+A19050 Beg Balance|A19050|19050-Project Deposits Beg Balance|never share|+
+A19050 Adj|A19050|19050-Project Deposit Adds (Subtract)|never share|+
+A10200|Cash|10200-Cash- JP Morgan|never share|+
+A12130|Prepaid Expenses & Other Assets|12130-Due From RyCrew - Other|never share|+
+A12300|Prepaid Expenses & Other Assets|12300-Due To/From - Keystone Title Company|never share|+
+A12320|Prepaid Expenses & Other Assets|12320-Due To/From - Preserve at Barleywood|never share|+
+A12470|Prepaid Expenses & Other Assets|12470-Due To/From DRB Georgia LLC|never share|+
+A18151|PP&E|18151-A/D Leasehold Improvements|never share|+
+A65050|Sales & Marketing|65050-Sales Supplies|never share|+
+A66100|Sales & Marketing|66100-Sales Business Meals|never share|+
+A68200|Sales & Marketing|68200-Professional Fees|never share|+
+A70400|Production Expenses|70400-Truck Allowance|never share|+
+A73100|Production Expenses|73100-Production Supplies|never share|+
+A73060|Production Expenses|73060-Production Overhead Contra|never share|+
+A94150|Misc|94150-Contract Deposits Forfeited|never share|+
+A93500|Misc|93500-Discounts Earned|never share|+
+Investment|Net Income|null|dynamic calc|+
+A89230|TOTAL EXPENSES|89230-Courier/ Fed Ex/postage|never share|+
+A80050|Total Comm, Salary|80050-Office Salaries|shared|+
+A80050|General & Administrative Expenses|80050-Office Salaries|never share|+
+A81800|General & Administrative Expenses|81800-Cleaning - Maintenance|never share|+
+A82150|General & Administrative Expenses|82150-Computer Software|never share|+
+A83650|General & Administrative Expenses|83650-Sales & Use Tax Expense|never share|+
+A83700|General & Administrative Expenses|83700-Licensing Fees|never share|+
+A84150|General & Administrative Expenses|84150-Legal - General Rep|never share|+
+A84200|General & Administrative Expenses|84200-Legal - Defense & Settlement|never share|+
+A84250|General & Administrative Expenses|84250-Other Professional Fees|never share|+
+A90050|Interest & Real Estate Taxes|90050-Interest Expense - BMW|never share|+
+A51100|Cost of Sales|51100-Lot Cost of Sales - Purchased Lots - TH|never share|+
+A52500|Cost of Sales|52500-Options Cost of Sales - DX|never share|+
+A52700|Cost of Sales|52700-Est. Cost to Complete - Underage - DX|never share|+
+A53305|Cost of Sales|53305-Lot Market Value Contra - 2o2|never share|+
+A53600|Cost of Sales|53600-Est Cost to Complete - Overage - 2o2|never share|+
+A77500|Variable Costs|77500-Warranty - Reserve - Overages|never share|+
+A77600|Variable Costs|77600-Warranty - Reserve - Underages|never share|+
+A60250|Total Auto Allowance|60250-Sales Vehicle Allowance|shared|+
+A60250|Sales & Marketing|60250-Sales Vehicle Allowance|never share|+
+A62200|Sales & Marketing|62200-Advertising - Radio & T.V.|never share|+
+A62400|Sales & Marketing|62400-Promotion - Realtors|never share|+
+Backlog|WIP Units|null|never share|+
+Total WIP|WIP Units|null|never share|+
+Remaining Sales|Remaining|null|never share|+
+Sr. Project Mgr|Total Production Salaries|null|never share|+
+Office Bonus Adj|Total G&A Bonus|null|never share|+
+Sales Bonus Adj|Total Sales Bonus|null|never share|+
+Large SF DRB Bonus|Production Bonus|null|never share|+
+A77200|Warranty Service Expenses|77200-Warranty - Bonuses|never share|+
+A77200|Total Bonus|77200-Warranty - Bonuses|shared|+
+Total Auto Allowance|Total Comm, Salary, Bonus|null|dynamic calc|+
+A60250|Total Auto Allowance|60250-Sales Vehicle Allowance|shared|+
+A60250|Sales & Marketing|60250-Sales Vehicle Allowance|never share|+
+Sr. Project Mgt AA|Production Auto Allowance|null|never share|+
+Project Mgr AA|Production Auto Allowance|null|never share|+
+LD Status|Land Development|null|never share|+
+Number of Lots|Land Development|null|never share|+
+HB Job|Land Development|null|never share|+
+Land & Development - Active|Land & Development - Total|null|never share|+
+Active Community|Community Information|null|never share|+
+Unapproved - OP|SmartList_Counts|Unapproved by Land Committee - Option Contract|never share|+
+Options|Total Sales Price|null|never share|+
+Direct Costs|Total WIP Inventory|null|never share|+
+Closing Costs|Total COS|null|never share|+
+Corporate Overhead Charge|Assumptions Input|null|never share|+
+Assistant Warranty Mgr|Total Warranty Salaries|null|never share|+
+Area Production Mgr|Total Production Salaries|null|never share|+
+A89340|TOTAL EXPENSES|89340-Abstractor/Contract Closer Fees|never share|+
+A89510|TOTAL EXPENSES|89510-E&O Insurance|never share|+
+A89520|TOTAL EXPENSES|89520-Fidelity & Surety|never share|+
+A89580|TOTAL EXPENSES|89580-Business Travel|never share|+
+MD Capture|Total Capture|null|never share|+
+PA Capture|Total Capture|null|never share|+
+DE Capture|Total Capture|null|never share|+
+Metrics|Account|null|label only|~
+Units Settled|Units Input|null|never share|+
+Total Starts Trailing|Units Input|null|never share|+
+Total Starts Plug|Units Input|null|never share|+
+Normalized Projected Availability - B Base Only|Bank Covenant Liquidity|null|dynamic calc|+
+Spec Houses BB|Borrowing Base|null|never share|+
+Spec Houses Under Construction (incl models)|Balance Sheet Input|null|dynamic calc|+
+A20150|Accounts Payable & Accrued Expenses|20150-Accounts Payable - Other|never share|+
+A23100|Completion & Service Reserves|23100-Estimated Cost to Complete|never share|+
+A32000|Equity|32000-Member Equity - Sumitomo|never share|+
+A39999|Retained Earning|39999-Current Year Net Earnings|never share|+
+A42000|Revenue|42000-Sales - Townhome|never share|+
+Cost of Sales|Gross Margin|null|dynamic calc|-
+A50200|Cost of Sales|50200-Lot Cost of Sales - Dev Lots - SF|never share|+
+A50600|Cost of Sales|50600-Est. Cost to Complete - Overage - SF|never share|+
+A50800|Cost of Sales|50800-Closing Costs - SF|never share|+
+A51500|Cost of Sales|51500-Options Cost of Sales - TH|never share|+
+A13950|Inventory|13950-Warranty Service Costs|never share|+
+A14100|Inventory|14100-Cost of Land and Land Development|never share|+
+A14100|Total Inventory|14100-Cost of Land and Land Development|shared|+
+Cash|Total Other Assets|null|dynamic calc|+
+A10601|Cash|10601-Operating Account (New GA)|dynamic calc|+
+A10610|Cash|10610-Division Permits|never share|+
+A11200|Settlement Proceeds Receivable|11200-Settlements Receivable - House Closings|never share|+
+A15050|Prepaid Expenses & Other Assets|15050-Prepaid Expenses|never share|+
+A15175|Prepaid Expenses & Other Assets|15175-Prepaid Commissions - Clearing|never share|+
+PP&E|Total Other Assets|null|dynamic calc|+
+A18051|PP&E|18051-A/D Office Furniture, Fixtures & Equip.|never share|+
+A17000|Total Other Assets|17000-ROU Lease Asset|never share|+
+A20010|Accounts Payable & Accrued Expenses|20010-Knight Acuisition - Earnout|never share|+
+A20100|Accounts Payable & Accrued Expenses|20100-Accounts Payable|never share|+
+A63203|Sales & Marketing|63203-Elevate - Ad Agency/Prof Fees|never share|+
+A63450|Sales & Marketing|63450-Model Design Fees/Accessories|never share|+
+A64050|Sales & Marketing|64050-Sales Trailer Rent|never share|+
+A66050|Sales & Marketing|66050-Sales Travel|never share|+
+A66150|Sales & Marketing|66150-Sales Business Entertainment|never share|+
+Director of Production|Total Production Salaries|null|never share|+
+Reduction - B Base limits|Borrowing Base|null|never share|+
+Reduction - B Base in excess of total loan amount|Total Borrowing Base Adjustments|null|dynamic calc|+
+Adjust for Normalized Liquidity|Normalized Projected Availability - B Base Only|null|never share|+
+Sold Houses Under Construction|Balance Sheet Input|null|dynamic calc|+
+Flat Fee Sales Commission|Community Information Annual|Flat Fee Sales Comm|never share|+
+A25050|Accounts Payable & Accrued Expenses|25050-Federal Payroll Tax Withheld|never share|+
+Completion & Service Reserves|Total Liabilities|null|dynamic calc|+
+A24010|Customer Deposits|24010-Customer Deposits - other|never share|+
+A26680|Bridge Loan|26680-N/P - Other|never share|+
+ROU Assets|Balance Sheet|null|never share|+
+Net Income|Income Statement|null|dynamic calc|+
+A43200|Revenue|43200-Sales - Dup/Villas - Incentive|never share|+
+A43270|Revenue|43270-Sales - 2o2 - Incentive|never share|+
+A13941|Inventory|13941-WIP Accrual|dynamic calc|+
+A14102|Inventory|14102-Developed Lots Trnsfrd to Homebldg|never share|+
+A14102|Total Inventory|14102-Developed Lots Trnsfrd to Homebldg|shared|+
+Inv Adj/Impairments|Inventory|null|never share|~
+Inv Adj/Impairments|Total Inventory|null|shared|~
+A10100|Cash|10100-Checking - CERIDIAN Payroll|never share|+
+A10620|Escrow Deposits|10620-Escrow Bank Account|never share|+
+A12020|Prepaid Expenses & Other Assets|12020-Due To/From - DRB Enterprises|never share|+
+A12460|Prepaid Expenses & Other Assets|12460-Due To/From DRB Eastern Shore LLC|never share|+
+A12495|Prepaid Expenses & Other Assets|12495-Due To/From DDDRB Investments LLC|never share|+
+A15155|Prepaid Expenses & Other Assets|15155-Sales System Receivables|never share|+
+Total Liabilities and Equity|Balance Sheet|null|dynamic calc|+
+A20011|Accounts Payable & Accrued Expenses|20011-Knight Acquisition - Indemnity Holdback|never share|+
+A63550|Sales & Marketing|63550-Model Moving & Storage|never share|+
+A65200|Sales & Marketing|65200-Sales Equipment|never share|+
+A67050|Sales & Marketing|67050-Spec House Maintenance|never share|+
+A67150|Sales & Marketing|67150-Spec Lot Maintenance|never share|+
+A67350|Sales & Marketing|67350-Entry Monuments/Signs|never share|+
+A68050|Sales & Marketing|68050-Training & Seminars|never share|+
+A68400|Sales & Marketing|68400-Corp Branding - Digital|never share|+
+A73550|Production Expenses|73550-Dumpsters|never share|+
+A75100|Production Expenses|75100-Production Travel|never share|+
+A75300|Production Expenses|75300-Production Business Entertainment|never share|+
+A73050|Production Expenses|73050-Capitalized  Prod OH Amort|never share|+
+A77100|Warranty Service Expenses|77100-Warranty - Salaries|never share|+
+A93100|Misc|93100-Miscellaneous Income|never share|+
+A93600|Misc|93600-Manufacturer's Rebates|never share|+
+A94050|Misc|94050-Corporate Overhead Allocation|never share|+
+A94100|Misc|94100-Other Expense|never share|+
+A93350|Investment|93350-Investment Income - DDDRB|never share|+
+Total Units|Income Statement|null|dynamic calc|~
+A99200|Total Units Started|99200-Units Started - SF|never share|+
+A99325|Total Fee Build Units|99325-Units Started - FB|never share|~
+Keystone|Account|null|label only|+
+A49700|Total Title Policy Income|49700-NC Title Policy Income|never share|+
+A89110|TOTAL EXPENSES|89110-Payroll  Burden (13%)|dynamic calc|+
+A77800|Warranty Service Expenses|77800-Warranty Service Supplies|never share|+
+A80700|General & Administrative Expenses|80700-Group Insurance|never share|+
+A81150|General & Administrative Expenses|81150-Employee Referral Bonus|never share|+
+A81250|General & Administrative Expenses|81250-Help Wanted|never share|+
+A81850|General & Administrative Expenses|81850-Furniture & Fix. Exp <$1,000|never share|+
+A84100|General & Administrative Expenses|84100-Bank Fees|never share|+
+A85100|General & Administrative Expenses|85100-In-House Training|never share|+
+A51510|Cost of Sales|51510-Site Cost of Sales - TH|never share|+
+A52400|Cost of Sales|52400-House Cost of Sales - DX|never share|+
+A53200|Cost of Sales|53200-Lot Cost of Sales - Developed Lots - 2o2|never share|+
+A53300|Cost of Sales|53300-Lot Market Value Adjustment - 2o2|never share|+
+Total Operating Expenses|Net Income|null|dynamic calc|-
+A62350|Sales & Marketing|62350-Sales Promotion - DRB Website|never share|+
+House Starts|Lot Inventory|null|dynamic calc|+
+Beginning Lot Inventory|Lot Inventory|null|never share|+
+Beginning Lots Ahead (Behind)|Lot Inventory|null|never share|+
+Sold, Under Construction|Total Sales|null|shared|+
+Sold, Under Construction|Inventory|null|never share|+
+Sold, Not Started|Inventory|null|never share|+
+Sold, Not Started|Total Sales|null|shared|+
+Small SF DRB Bonus|Production Bonus|null|never share|+
+A14100|Inventory|14100-Cost of Land and Land Development|never share|+
+A14100|Total Inventory|14100-Cost of Land and Land Development|shared|+
+Community Status|Community Information|null|never share|+
+Cycle Time|Community Information|null|never share|+
+A24000|Community Information|24000-Customer Deposits|shared|+
+A24000|Customer Deposits|24000-Customer Deposits|never share|+
+Approved - LD|SmartList_Counts|Approved by Land Committee  - Land Development|never share|+
+Incentive|Total Sales Price|null|never share|+
+Site Costs|Total WIP Inventory|null|never share|+
+Gross Margin %|Community Gross Margin|null|dynamic calc|+
+Revised GM %|Community Gross Margin|null|never share|+
+FICA|Payroll Burden|null|never share|+
+Sales MGT Monthly Salary|Total Sales Salaries|null|never share|+
+Sales On Line|Total Sales Salaries|null|never share|+
+Warranty Mgr|Total Warranty Salaries|null|never share|+
+Total GA Headcount|Total Comm, Salary|Total G&A Headcount|dynamic calc|+
+Purchasing|Total GA Headcount|null|never share|+
+Project Mgt|Total Production Salaries|null|never share|+
+WV Capture|Total Capture|null|never share|+
+Lot Inventory|Units Input|null|never share|+
+Contractual Obligation|Lot Inventory|null|never share|+
+Land Acq Budget CTC|Land Development|null|never share|+
+Letters of Credit - Financial|Land Development|null|never share|+
+Corporate Guarantee|Land Development|null|never share|+
+Bonds - Warranty|Land Development|null|never share|+
+Projected Borrowing Base|Projected Availability - B Base Only|null|dynamic calc|+
+Bank Line|Balance Sheet Input|null|never share|+
+A25375|Accounts Payable & Accrued Expenses|25375-401K & FlexPlan Withheld|never share|+
+Bank Loans|Total Liabilities|null|dynamic calc|+
+A26400|Bank Loans|26400-N/P - Fifth Third Bank|never share|+
+A26400|Projected Availability - B Base Only|26400-N/P - Fifth Third Bank|shared|+
+Income Statement|Account|null|dynamic calc|+
+A41200|Revenue|41200-Sales - SF - Incentive|never share|+
+A43000|Revenue|43000-Sales - Duplex/Villas|never share|+
+A46000|Revenue|46000-Sales - Servicing Revenue|never share|+
+A43250|Revenue|43250-Sales - 2o2|never share|+
+Sold, Under Construction|Total Sales|null|shared|+
+Sold, Under Construction|Inventory|null|never share|+
+Spec Houses|WIP Units|null|shared|+
+Spec Houses|Inventory|null|never share|+
+A10400|Cash|10400-Checking - Bank of America|never share|+
+A10550|Escrow Deposits|10550-Checking - Escrow|never share|+
+A11050|Accounts Receivable|11050-Accounts Receivable|never share|+
+A16550|Intercompany|16550-Investment - Preserve at Barleywood|never share|+
+A12220|Prepaid Expenses & Other Assets|12220-Due To/From - DRB South Carolina LLC|never share|+
+A12440|Prepaid Expenses & Other Assets|12440-Due To/From - DRB Mid-Atlantic Inc.|never share|+
+A12480|Prepaid Expenses & Other Assets|12480-Due To/From DRB Alabama LLC|never share|+
+A13800|Prepaid Expenses & Other Assets|13800-General Contracting Deferred Revenue|never share|+
+A13802|Prepaid Expenses & Other Assets|13802-GC-Billings in Excess of Cost & Est Earn|never share|+
+A15150|Prepaid Expenses & Other Assets|15150-Prepaid Commissions|never share|+
+A19650|Prepaid Expenses & Other Assets|19650-Completion Escrow Deposits|never share|+
+A16350|Investments|16350-Investment - Monocacy Home Mortgage|never share|+
+A21050|Accounts Payable & Accrued Expenses|21050-Accrued Interest|never share|+
+A21150|Accounts Payable & Accrued Expenses|21150-Accrued Salary Bonus & PTO|never share|+
+A21200|Accounts Payable & Accrued Expenses|21200-Accrued Commissions|never share|+
+A23200|Completion & Service Reserves|23200-Service Reserves - General|never share|+
+A28100|Subordinated Debt|28100-N/P - Sumitomo|never share|+
+Retained Earning|Balance Sheet|null|dynamic calc|+
+Gross Margin|Variable Contribution|null|dynamic calc|+
+A41000|Revenue|41000-Sales - Single Family|never share|+
+A41100|Revenue|41100-Sales - SF - Options|never share|+
+A43260|Revenue|43260-Sales - 2o2 - Options|never share|+
+A51300|Cost of Sales|51300-Lot Market Value Adjustment - TH|never share|+
+A51400|Cost of Sales|51400-House Cost of Sales - TH|never share|+
+Balance Sheet|Account|null|dynamic calc|+
+Total Allocation Assets|Total Assets|null|dynamic calc|+
+Deposits on Projects|Total Allocation Assets|null|dynamic calc|+
+A19050|Deposits on Projects|19050-Purchase Deposits|dynamic calc|+
+A16500|Intercompany|16500-Investment - Dan Ryan Builders|never share|+
+A16770|Intercompany|16770-Investment - Fielding-Charlotte|never share|+
+A12420|Prepaid Expenses & Other Assets|12420-Due To/From - DRB North Carolina LLC|never share|+
+A13920|Prepaid Expenses & Other Assets|13920-Interest Capitalized|never share|+
+A19550|Prepaid Expenses & Other Assets|19550-Utility Deposits|never share|+
+A19600|Prepaid Expenses & Other Assets|19600-Security Deposits|never share|+
+A16780|Total Other Assets|16780-Investment - DDDRB Investments|never share|+
+A63500|Sales & Marketing|63500-Model F&F Depreciation|never share|+
+A64150|Sales & Marketing|64150-Trailer Landscaping|never share|+
+A64350|Sales & Marketing|64350-Trailer Removal|never share|+
+A67100|Sales & Marketing|67100-Spec House Utilities|never share|+
+A68100|Sales & Marketing|68100-Dues & Subscriptions|never share|+
+A68600|Sales & Marketing|68600-Corporate Contracts|never share|+
+A71100|Production Expenses|71100-Trailer Set Up Expense|never share|+
+A73250|Production Expenses|73250-Gang Mailboxes|never share|+
+A73500|Production Expenses|73500-Street Cleaning|never share|+
+A73520|Production Expenses|73520-Theft Prevention|never share|+
+A73800|Production Expenses|73800-Temporary Heat|never share|+
+A90350|Interest & Real Estate Taxes|90350-Interest Expense - N/P D Ryan|never share|+
+A93200|Misc|93200-Customer Deposits Forfeited|never share|+
+A93250|Misc|93250-Admin Service Fee Income|never share|+
+A99100|Total Units Sold|99100-Units Sold - TH|never share|+
+A99160|Total Units Sold|99160-Units Sold - 2o2|never share|+
+A99250|Total Units Started|99250-Units Started - TH|never share|+
+Total Liabilities|Total Liabilities and Equity|null|dynamic calc|+
+A63400|Sales & Marketing|63400-Model Cleaning & Maintenance|never share|+
+A64250|Sales & Marketing|64250-Trailer Cleaning & Maintenance|never share|+
+A65150|Sales & Marketing|65150-Sales Telephone|never share|+
+A68350|Sales & Marketing|68350-SEO Search Engine Opt|never share|+
+A63250|Sales & Marketing|63250-Model Conversion|never share|+
+A71300|Production Expenses|71300-Trailer Maintenance|never share|+
+A71400|Production Expenses|71400-Trailer Utilities|never share|+
+A73300|Production Expenses|73300-Equipment Rental|never share|+
+A73400|Production Expenses|73400-Blue Prints|never share|+
+A93800|Misc|93800-Gain (Loss) on Sale of Assets|never share|+
+A99150|Total Units Sold|99150-Units Sold - DX|never share|+
+Total Units Started|Total Units|null|dynamic calc|+
+Keystone Net Income|Keystone|null|dynamic calc|+
+A49000|Total Settlement & Int Income|49000-DRB MD - Settlement Income|never share|+
+TOTAL EXPENSES|Keystone Net Income|null|dynamic calc|-
+A89020|TOTAL EXPENSES|89020-Office Bonuses|never share|+
+A89170|TOTAL EXPENSES|89170-Employee Benefits|dynamic calc|+
+A89240|TOTAL EXPENSES|89240-Telephone|never share|+
+A81550|General & Administrative Expenses|81550-Office Rent|never share|+
+A83050|General & Administrative Expenses|83050-Insurance - Property & Casualty|never share|+
+A83550|General & Administrative Expenses|83550-Franchise Taxes|never share|+
+A83600|General & Administrative Expenses|83600-Personal Property Taxes|never share|+
+A84350|General & Administrative Expenses|84350-Architectural Fees|never share|+
+A85050|General & Administrative Expenses|85050-Seminars & Training|never share|+
+A85650|General & Administrative Expenses|85650-Business Entertainment|never share|+
+A90960|Interest & Real Estate Taxes|90960-Capitalized Interest Expensed - HB|never share|+
+A91200|Interest & Real Estate Taxes|91200-Appraisals & Inspections|never share|+
+A51600|Cost of Sales|51600-Est. Cost to Complete - Overage - TH|never share|+
+A52509|Cost of Sales|52509-Standard Cost of Sales - DX|never share|+
+A52510|Cost of Sales|52510-Site Cost of Sales - DX|never share|+
+A52520|Cost of Sales|52520-Building Fees - DX|never share|+
+A52100|Cost of Sales|52100-Lot Cost of Sales - Purchased Lots - DX|never share|+
+Variable Costs|Variable Contribution|null|dynamic calc|-
+A77400|Variable Costs|77400-Warranty - Service Reserves|never share|+
+Fee Build|Net Income|Fee Build Income|dynamic calc|+
+Sales & Marketing|Total Operating Expenses|null|dynamic calc|+
+A62100|Sales & Marketing|62100-Advertising - Newspaper/Magazine|never share|+
+A62450|Sales & Marketing|62450-Promotion - Printed Materials|never share|+
+A63202|Sales & Marketing|63202-Elevate - Photography|dynamic calc|+
+Remaining Available|Lot Inventory|null|dynamic calc|+
+A80050|Total Comm, Salary|80050-Office Salaries|shared|+
+A80050|General & Administrative Expenses|80050-Office Salaries|never share|+
+Total Sales Bonus|Total Bonus|null|dynamic calc|+
+Sales Bonus|Total Sales Bonus|null|never share|+
+Production Bonus|Total Bonus|null|dynamic calc|+
+Production Auto Allowance|Total Auto Allowance|null|dynamic calc|+
+Land Acquisition|Inventory|null|never share|+
+Land Acquisition|Total Inventory|null|shared|+
+Market Value|Land Development|null|never share|+
+Unapproved Lots|Community Information|null|never share|+
+Base Price|Total Sales Price|null|never share|+
+Total COS|Community Gross Margin|null|dynamic calc|+
+Total WIP Inventory|Total COS|null|dynamic calc|+
+Assumptions Input|Assumptions|null|label only|+
+401K Employer Matching|Payroll Burden|null|never share|+
+3rd party Warranty|Assumptions Input|null|never share|+
+Warranty Service Reserve|Assumptions Input|null|never share|+
+Warranty Over 1yr Perct|Assumptions Input|Warranty Over 1yr %|never share|+
+Payroll increase %|Salary and Bonus Input|null|never share|+
+Office Salaries % Adjustment|Salary and Bonus Input|null|never share|+
+Sr. Project Mgt|Total Production Salaries|null|never share|+
+A89540|TOTAL EXPENSES|89540-Bank Fees|never share|+
+A89550|TOTAL EXPENSES|89550-Legal (bank recon)|never share|+
+A89610|TOTAL EXPENSES|89610-Advertising & Promotion|never share|+
+A89620|TOTAL EXPENSES|89620-Taxes - Other|never share|+
+VA Capture|Total Capture|null|never share|+
+Units Sold|Units Input|null|never share|+
+Balance Sheet Input|Metrics|null|label only|+
+Stale Inventory|Balance Sheet Input|null|never share|+
+Sold, Under Construction BB|Borrowing Base|null|never share|+
+Sold, Not Started BB|Borrowing Base|null|never share|+
+Spec Lot BB|Borrowing Base|null|never share|+
+Total Borrowing Base Adjustments|Projected Borrowing Base|null|dynamic calc|+
+Land A&D Inventory|Balance Sheet Input|null|never share|+
+Community Information Annual|Metrics|null|label only|+
+Sales Bonus Calc Method|Calc_Members|null|never share|+
+A20110|Accounts Payable & Accrued Expenses|20110-Accounts Payable - Reserved Backcharges|never share|+
+Settlement Proceeds Receivable|Accounts Receivable|null|dynamic calc|+
+Prepaid Expenses & Other Assets|Total Other Assets|null|dynamic calc|+
+A12120|Prepaid Expenses & Other Assets|12120-Due From Rycrew - Warranty|never share|+
+A12280|Prepaid Expenses & Other Assets|12280-Due To/From - Monocacy Home Mortgage|never share|+
+A13900|Prepaid Expenses & Other Assets|13900-Finished Lot Onsite L/D|never share|+
+Investments|Total Other Assets|null|dynamic calc|+
+A16150|Investments|16150-RyCrew Investment - DRBE|never share|+
+A16250|Investments|16250-Investment - HEDR Hartland|never share|+
+A18050|PP&E|18050-Office Furniture, Fixtures & Equipment|never share|+
+Accounts Payable & Accrued Expenses|Total Liabilities|null|dynamic calc|+
+A20012|Accounts Payable & Accrued Expenses|20012-Knight Acquisition - Adjust Holdback|never share|+
+A63350|Sales & Marketing|63350-Model Utilities|never share|+
+A68150|Sales & Marketing|68150-Temporary Sales Assistants|never share|+
+A63206|Sales & Marketing|63206-Elevate Homes Expenses|never share|+
+A72100|Production Expenses|72100-Site Engineering|never share|+
+A73700|Production Expenses|73700-Snow Removal & Winter Expenses|never share|+
+A75200|Production Expenses|75200-Production Business Meals|never share|+
+A91300|Interest & Real Estate Taxes|91300-Legal - Loan Related|never share|+
+A90200|Interest & Real Estate Taxes|90200-Interest Exp - BOA|never share|+
+A87000|Interest & Real Estate Taxes|87000-Overhead Allocation|never share|+
+A94000|Misc|94000-Deferred Compensation Expense|never share|+
+A94300|Misc|94300-Inventory Impairments|never share|+
+A99050|Total Units Sold|99050-Units Sold - SF|never share|+
+A99450|Total Units Settled|99450-Units Settled - DX|never share|+
+Total Fee Build Units|Total Units|null|dynamic calc|+
+A99475|Total Fee Build Units|99475-Units Settled - FB|never share|~
+Keystone Total Income|Keystone Net Income|null|dynamic calc|+
+Total Title Policy Income|Keystone Total Income|null|dynamic calc|+
+A49300|Total Title Policy Income|49300-SC Title Policy Income|never share|+
+A49750|Total Title Policy Income|49750-DE Title Policy Income|never share|+
+A89180|TOTAL EXPENSES|89180-Employee Recognition/Events|never share|+
+General & Administrative Expenses|Total Operating Expenses|null|dynamic calc|+
+A81050|General & Administrative Expenses|81050-Employee Recognition/Events|never share|+
+A81650|General & Administrative Expenses|81650-Postage & Delivery|never share|+
+A84300|General & Administrative Expenses|84300-401(K) Administration|never share|+
+A85250|General & Administrative Expenses|85250-Charitable Donations|never share|+
+A85300|General & Administrative Expenses|85300-Temporary Help|never share|+
+A85350|General & Administrative Expenses|85350-Miscellaneous Expense|never share|+
+A90800|Interest & Real Estate Taxes|90800-Interest Allocated to Inventory|never share|+
+A51200|Cost of Sales|51200-Lot Cost of Sales - Developed Lots  - TH|never share|+
+A52800|Cost of Sales|52800-Closing Costs - DX|never share|+
+A53100|Cost of Sales|53100-Lot Cost of Sales - Purchased Lots - 2o2|never share|+
+A53800|Cost of Sales|53800-Closing Costs - 2o2|never share|+
+A63600|Variable Costs|63600-Deferred Marketing Expense|never share|+
+A77300|Variable Costs|77300-Warranty - 3rd Party Enrollment|never share|+
+A93155|Fee Build|93155-General Contracting Expenses|never share|+
+A56100|Fee Build|56100-Fee Build Cost of Sales|never share|+
+A62050|Sales & Marketing|62050-Advertising - Home Shows|never share|+
+Beginning Available|Lot Inventory|null|never share|+
+Spec Houses|WIP Units|null|shared|+
+Spec Houses|Inventory|null|never share|+
+FB Units Settled|Units Input|null|never share|+
+Remaining Settlements|Remaining|null|never share|+
+Project Mgr|Total Production Salaries|null|never share|+
+A60050|Variable Costs|60050-Sales Commissions|never share|+
+A60050|Total Comm, Salary|60050-Sales Commissions|shared|+
+Total G&A Bonus|Total Bonus|null|dynamic calc|+
+Fee Build Bonus|Production Bonus|null|never share|+
+Land & Development - Total|Land Development|null|dynamic calc|+
+SubMarket|Community Information|null|never share|+
+Settled in Prior Year|Community Information|null|never share|+
+Deferred Marketing|Community Information|null|never share|+
+Number of Settlements|Community Gross Margin|null|dynamic calc|+
+Standard Costs|Total WIP Inventory|null|never share|+
+Option Costs|Total WIP Inventory|null|never share|+
+Gross Margin $|Community Gross Margin|null|dynamic calc|+
+Division Expenses|Metrics|null|label only|+
+Salary and Bonus Input|Assumptions|null|never share|+
+Total Comm, Salary, Bonus|Salary and Bonus Input|null|dynamic calc|+
+Total Comm, Salary|Total Comm, Salary, Bonus|null|dynamic calc|+
+Sales Consultant|Total Sales Salaries|null|never share|+
+Sales/Marketing Support|Total Sales Salaries|null|never share|+
+Division Management_Admin|Total GA Headcount|Division Management & Admin|never share|+
+A14101|Total Inventory|14101-Land and Land Dev. Charged to COS|shared|+
+A14101|Inventory|14101-Land and Land Dev. Charged to COS|never share|+
+A14102|Inventory|14102-Developed Lots Trnsfrd to Homebldg|never share|+
+A14102|Total Inventory|14102-Developed Lots Trnsfrd to Homebldg|shared|+
+LD Spend|Inventory|null|never share|+
+LD Spend|Total Inventory|null|shared|+
+HB Job Settlements|Land Development|null|never share|+
+TH|SmartList_Counts|Townhouse|never share|+
+EL|SmartList_Counts|Elevate|never share|+
+Approved - OP|SmartList_Counts|Approved by Land Committee  - Option Contract|never share|+
+2o2|SmartList_Counts|null|never share|+
+Total Sales Price|Community Gross Margin|null|dynamic calc|+
+Lot Cost - Developed|Total COS|null|never share|+
+Settlement Goal|Assumptions Input|Pipeline Settlement Goal|never share|+
+Payroll Burden|Assumptions Input|null|dynamic calc|+
+Corporate Allocation Percentage|Assumptions Input|null|never share|+
+Sales Associate/Assistant|Total Sales Salaries|null|never share|+
+A89560|TOTAL EXPENSES|89560-Computer Support|never share|+
+A89570|TOTAL EXPENSES|89570-Seminars & Training|never share|+
+A89590|TOTAL EXPENSES|89590-Business Entertainment|never share|+
+Units Input|Metrics|null|label only|~
+Units Started|Units Input|null|never share|+
+Projected Purchases|Lot Inventory|null|never share|+
+Projected Availability - B Base Only|Normalized Projected Availability - B Base Only|null|dynamic calc|+
+Borrowing Base|Projected Borrowing Base|Total Borrowing Base|dynamic calc|+
+Land A&D Inventory BB|Borrowing Base|null|never share|+
+Reduction - Other|Total Borrowing Base Adjustments|null|never share|+
+Bank Covenant Liquidity Add Back|Bank Covenant Liquidity|null|never share|+
+A21300|Accounts Payable & Accrued Expenses|21300-Accrued Other|never share|+
+A21450|Accounts Payable & Accrued Expenses|21450-Accrued B&O Taxes|never share|+
+Customer Deposits|Total Liabilities|null|dynamic calc|+
+A27000|Total Liabilities|27000-ROU Lease Liability|never share|+
+Bridge Loan|Total Liabilities|Other Debt|dynamic calc|+
+A34000|Equity|34000-Member Distributions - Sumitomo|never share|+
+Variable Contribution|Net Income|null|dynamic calc|+
+Total Assets|Balance Sheet|null|dynamic calc|+
+Inventory|Total Allocation Assets|null|dynamic calc|+
+Model|WIP Units|null|shared|+
+Model|Inventory|null|never share|+
+A13940|Inventory|13940-Acquisition Premium|never share|+
+A14103|Inventory|14103-Deferred Markup on Trsfrd Lots (Contra)|never share|+
+LD Spend|Inventory|null|never share|~
+LD Spend|Total Inventory|null|shared|~
+Total Other Assets|Total Assets|null|dynamic calc|+
+A10600|Cash|10600-Operating Account|never share|+
+A11675|Accounts Receivable|11675-N/R - Excavation Equipment|never share|+
+Intercompany|Total Other Assets|null|dynamic calc|+
+A16300|Intercompany|16300-Investment - DRB South Carolina|never share|+
+A16400|Intercompany|16400-Investment - DRB Mid-Atlantic Inc|never share|+
+A12140|Prepaid Expenses & Other Assets|12140-Due From Rycrew - ECC|never share|+
+A12430|Prepaid Expenses & Other Assets|12430-Due To/From - Fielding|never share|+
+A13801|Prepaid Expenses & Other Assets|13801-GC-Cost & Est Earn in Excess of Billing|never share|+
+A19700|Prepaid Expenses & Other Assets|19700-L/D Bonds & Repair Escrows|never share|+
+A16450|Investments|16450-Investment - Keystone Title Services|never share|+
+A18150|PP&E|18150-Leasehold Improvements|never share|+
+A19000|Total Other Assets|19000-Goodwill|never share|+
+A13930|Total Other Assets|13930-Capitalized Production Overhead|never share|+
+A64200|Sales & Marketing|64200-Sales Trailer Utilities|never share|+
+A68450|Sales & Marketing|68450-Corp Branding - Print/Other|never share|+
+A68500|Sales & Marketing|68500-Corp Websites - Hosting|never share|+
+A70200|Production Expenses|70200-Production Bonuses|never share|+
+A71200|Production Expenses|71200-Trailer Rental|never share|+
+A71500|Production Expenses|71500-Trailer Removal|never share|+
+A73900|Production Expenses|73900-Safety Expense|never share|+
+A93330|Investment|93330-Investment Income - Keystone|never share|+
+Total Units Sold|Total Units|null|dynamic calc|+
+A99310|Total Units Started|99310-Units Started - 2o2|never share|+
+A99400|Total Units Settled|99400-Units Settled - TH|never share|+
+A89030|TOTAL EXPENSES|89030-Temporary Help|never share|+
+A89210|TOTAL EXPENSES|89210-Rental Expense|never share|+
+A89220|TOTAL EXPENSES|89220-Office Supplies|never share|+
+A89320|TOTAL EXPENSES|89320-Settlement Expense - Recoverable|dynamic calc|+
+A77900|Warranty Service Expenses|77900-Service Dept Tools & Equipment|never share|+
+A80100|General & Administrative Expenses|80100-Office Bonuses|never share|+
+A81750|General & Administrative Expenses|81750-Utilities|never share|+
+A82050|General & Administrative Expenses|82050-Computer Hardware (<$1,000)|never share|+
+A84400|General & Administrative Expenses|84400-Land Site Feas Work & Pre Eng.|never share|+
+A85150|General & Administrative Expenses|85150-Tuition Reimbursement|never share|+
+A85550|General & Administrative Expenses|85550-Business Travel|never share|+
+A51700|Cost of Sales|51700-Est. Cost to Complete - Underage - TH|never share|+
+A53400|Cost of Sales|53400-House Cost of Sales - 2o2|never share|+
+A53509|Cost of Sales|53509-Standard Costs of Sales - 2o2|never share|+
+DRB Realty Revenue|Division Expenses|null|never share|+
+DRB Realty Percentage|Assumptions Input|null|never share|+
+Sales Assistants|Total Sales Salaries|null|never share|+
+Land|Total GA Headcount|null|never share|+
+Contracts_Closing|Total GA Headcount|Contracts/Closing|never share|+
+A89600|TOTAL EXPENSES|89600-Business Meals|never share|+
+SC Capture|Total Capture|null|never share|+
+Total Starts|Units Input|null|never share|+
+Land & Development - Inactive & Closed|Land & Development - Total|null|never share|+
+Bonds - Performance|Land Development|null|never share|+
+Reduction - Letters of Credit|Total Borrowing Base Adjustments|null|never share|+
+Debt to Equity|Balance Sheet Input|Debt to Equity (reclass of Sub Debt from debt to equity)|dynamic calc|+
+A93150|Fee Build|93150-General Contracting Revenue|never share|+
+A46100|Fee Build|46100-Fee Build Revenue|never share|+
+Land Development Income|Net Income|null|dynamic calc|+
+A59100|Land Development Income|59100-Cost of Sales - Developed Lots|never share|-
+A45000|Land Development Income|45000-3rd Party (land) Sales|never share|+
+A93120|Land Development Income|93120-Development Management Fee|never share|+
+A62250|Sales & Marketing|62250-Advertising - Direct Mailings|never share|+
+A62600|Sales & Marketing|62600-Grand Opening Events|never share|+
+A62650|Sales & Marketing|62650-Homeowner Events|never share|+
+A63050|Sales & Marketing|63050-Model Home Rent|never share|+
+A63200|Sales & Marketing|63200-Elevate Homes - Misc.|never share|+
+Remaining Starts|Remaining|null|never share|+
+G&A Settlement Bonus|Total G&A Bonus|null|never share|+
+G&A Misc Bonus|Total G&A Bonus|null|never share|+
+Field 60' Series SF Bonus|Production Bonus|null|never share|+
+Field 70' Series SF Bonus|Production Bonus|null|never share|+
+Production Bonus Adj|Production Bonus|null|never share|+
+Director of Production AA|Production Auto Allowance|null|never share|+
+Superintendent AA|Production Auto Allowance|null|never share|+
+Transfer Value|Land Development|null|never share|+
+Land & Development - Mothballed|Land & Development - Total|null|never share|+
+Remaining Lot Purchases|Remaining|null|dynamic calc|+
+Community Information|Metrics|null|label only|+
+Product Category|Community Information|null|never share|+
+Product Type|Community Information|null|never share|+
+Lot Source|Community Information|null|never share|+
+Projected Deposit Credit|Community Information|null|never share|+
+Sales Commissions|Community Information|Sales Comm|never share|+
+Broker Commissions|Community Information|Broker Comm|never share|+
+DUP|SmartList_Counts|Duplex|never share|+
+Total Homebuilding Inventory|Division Expenses|null|dynamic calc|+
+Assumptions|Metrics|null|label only|+
+Cap'd interest - Development|Assumptions Input|null|never share|+
+Legal Reserve|Assumptions Input|null|never share|+
+Total Sales Salaries|Total Comm, Salary|null|dynamic calc|+
+Total Production Salaries|Total Comm, Salary|null|dynamic calc|+
+A89330|TOTAL EXPENSES|89330-Settlement Exp - Unrecoverable|never share|+
+A89410|TOTAL EXPENSES|89410-Administration Services Fee - DRB|never share|+
+A89650|TOTAL EXPENSES|89650-Miscellaneous Expense|never share|+
+NC Capture|Total Capture|NC (Raleigh) Capture|never share|+
+Actual Purchases|Lot Inventory|null|never share|+
+Bank Covenant Liquidity|Balance Sheet Input|null|dynamic calc|+
+A26400|Bank Loans|26400-N/P - Fifth Third Bank|never share|+
+A26400|Projected Availability - B Base Only|26400-N/P - Fifth Third Bank|shared|+
+Flat Fee Broker Commission|Community Information Annual|Flat Fee Broker Comm|never share|+
+Calc_Members|Account|null|label only|~
+Sold_NotStarted_NotOwned|Calc_Members|null|never share|+
+A24000|Community Information|24000-Customer Deposits|shared|+
+A24000|Customer Deposits|24000-Customer Deposits|never share|+
+A26401|Bank Loans|26401-N/P - FTB Swing Line|never share|+
+Equity|Total Liabilities and Equity|null|dynamic calc|+
+A42100|Revenue|42100-Sales - TH - Options|never share|+
+A42200|Revenue|42200-Sales - TH - Incentive|never share|+
+A50400|Cost of Sales|50400-House Cost of Sales - SF|never share|+
+A50510|Cost of Sales|50510-Site Cost of Sales - SF|never share|+
+A50100|Cost of Sales|50100-Lot Cost of Sales - Purch Lots - SF|never share|+
+A50300|Cost of Sales|50300-Lot Market Value Adjustment|never share|+
+A50700|Cost of Sales|50700-Est. Cost to Complete - Underage - SF|never share|+
+Sold, Not Started|Inventory|null|never share|+
+Sold, Not Started|Total Sales|null|shared|+
+Spec Lot|WIP Units|null|shared|+
+Spec Lot|Inventory|null|never share|+
+Inv Adj/Impairments/LD Spend|Inventory|null|never share|+
+Inv Adj/Impairments/LD Spend|Total Inventory|null|shared|+
+A19050 Purchases|A19050|19050-Project Deposit Lot Purchases|never share|+
+Escrow Deposits|Total Other Assets|Cash Escrow|dynamic calc|+
+Accounts Receivable|Total Other Assets|null|dynamic calc|+
+A11300|Settlement Proceeds Receivable|11300-Settlements Receivable - Other|never share|+
+A16050|Intercompany|16050-Investment - DRB Realty|never share|+
+A16600|Intercompany|16600-Investment - DRB - North Carolina|never share|+
+A12040|Prepaid Expenses & Other Assets|12040-Due To/From - Dan Ryan Builders, Inc.|never share|+
+A12200|Prepaid Expenses & Other Assets|12200-Due To/From - DRB Realty|never share|+
+A16785|Total Other Assets|16785-Investment – HEDR Hartland|never share|+
+A18500|PP&E|18500-Deferred Marketing|never share|+
+A18501|PP&E|18501-DM Accumulated Amortization|never share|+
+A63300|Sales & Marketing|63300-Model Landscaping|never share|+
+A64100|Sales & Marketing|64100-Sales Trailer Setup|never share|+
+A64300|Sales & Marketing|64300-SalesTrailer Moving & Storage|never share|+
+A65100|Sales & Marketing|65100-Sales Postage|never share|+
+A67400|Sales & Marketing|67400-Common Area Maintenance|never share|+
+A68550|Sales & Marketing|68550-Corp Websites - Development|never share|+
+Production Expenses|Total Operating Expenses|null|dynamic calc|+
+A70100|Production Expenses|70100-Production Salaries|never share|+
+A73200|Production Expenses|73200-Tools & Supplies|never share|+
+A73650|Production Expenses|73650-Utilities - Houses under Const.|never share|+
+Warranty Service Expenses|Total Operating Expenses|null|dynamic calc|+
+A93400|Misc|93400-Interest Income|never share|+
+A98999|Misc|98999-Contingency|never share|+
+A49500|Total Title Policy Income|49500-VA Title Policy Income|never share|+
+A77250|Warranty Service Expenses|77250-Warranty - Vehicle Allowance|never share|+
+A77250|Total Auto Allowance|77250-Warranty - Vehicle Allowance|shared|+
+A80550|General & Administrative Expenses|80550-Payroll Tax Expense|never share|+
+A81200|General & Administrative Expenses|81200-Recruiting|never share|+
+A82200|General & Administrative Expenses|82200-System Conversion Expense|never share|+
+A83150|General & Administrative Expenses|83150-Insurance - Claims Paid|never share|+
+A86100|General & Administrative Expenses|86100-Depreciation|never share|+
+A86160|General & Administrative Expenses|86160-Goodwill Amortization|never share|+
+A51800|Cost of Sales|51800-Closing Costs - TH|never share|+
+A52200|Cost of Sales|52200-Lot Cost of Sales - Developed Lots  - DX|never share|+
+A52600|Cost of Sales|52600-Est. Cost to Complete - Overage - DX|never share|+
+A61050|Variable Costs|61050-Broker Commissions|never share|+
+A60150|Sales & Marketing|60150-Sales Bonuses|never share|+
+A62550|Sales & Marketing|62550-Photography|never share|+
+A63150|Sales & Marketing|63150-Model Home Real Estate Tax|never share|+
+WIP Units|Units Input|null|label only|+
+Model|WIP Units|null|shared|+
+Model|Inventory|null|never share|+
+FB Units Started|Units Input|null|never share|+
+Superintendent|Total Production Salaries|null|never share|+
+G&A Start Bonus|Total G&A Bonus|null|never share|+
+Project Mgt AA|Production Auto Allowance|null|never share|+
+Transfers|Land Development|null|never share|+
+Unapproved - LD|SmartList_Counts|Unapproved by Land Committee - Land Development|never share|+
+Bank|Community Information|null|never share|+
+Community Gross Margin|Metrics|null|label only|+
+Active Month|Division Expenses|null|dynamic calc|+
+A99350|Total Units Settled|99350-Units Settled - SF|never share|+
+A99460|Total Units Settled|99460-Units Settled - 2o2|dynamic calc|+
+Projected Closings|Keystone|null|never share|+
+Total Settlement & Int Income|Keystone Total Income|null|dynamic calc|+
+A49100|Total Settlement & Int Income|49100-Non DRB Settlement Income|never share|+
+A49400|Total Title Policy Income|49400-WV Title Policy Income|never share|+
+A89010|TOTAL EXPENSES|89010-Office Salaries|never share|+
+A77200|Warranty Service Expenses|77200-Warranty - Bonuses|never share|+
+A77200|Total Bonus|77200-Warranty - Bonuses|shared|+
+A77700|Warranty Service Expenses|77700-Warranty-Out of Warr Exp >1yr|never share|+
+A80150|General & Administrative Expenses|80150-Admin. Vehicle Allowance|never share|+
+A81600|General & Administrative Expenses|81600-Office Supplies|never share|+
+A82250|General & Administrative Expenses|82250-Equip. Exp - Lease & Maintenance|never share|+
+A83100|General & Administrative Expenses|83100-Insurance - Workman's Comp|never share|+
+A85600|General & Administrative Expenses|85600-Business Meals|never share|+
+A86150|General & Administrative Expenses|86150-Amortization|never share|+
+A90300|Interest & Real Estate Taxes|90300-Interest Exp - Subordinated Debt|never share|+
+A51520|Cost of Sales|51520-Building Fees - TH|never share|+
+A53520|Cost of Sales|53520-Building Fees - 2o2|never share|+
+A53700|Cost of Sales|53700-Est Cost to Complete - Underage 2o2|never share|+
+A60050|Variable Costs|60050-Sales Commissions|never share|+
+A60050|Total Comm, Salary|60050-Sales Commissions|shared|+
+A61100|Variable Costs|61100-Broker Incentive Programs|never share|+
+A59200|Land Development Income|59200-3rd Party Cost of Sales - Developed Lots|never share|-
+A62300|Sales & Marketing|62300-Community Signs & Displays|never share|+
+Ending Lot Inventory|Lot Inventory|null|dynamic calc|+
+Spec Lot|WIP Units|null|shared|+
+Spec Lot|Inventory|null|never share|+
+Remaining|Units Input|null|label only|+
+Production Misc|Total Production Salaries|null|never share|+
+Small TH Bonus|Production Bonus|null|never share|+
+Large TH Bonus|Production Bonus|null|never share|+
+Elev SF Bonus|Production Bonus|null|never share|+
+2o2 Bonus|Production Bonus|null|never share|+
+Sr. Project Mgr AA|Production Auto Allowance|null|never share|+
+Land Development|Metrics|null|label only|+
+Total Inventory|Land Development|null|dynamic calc|+

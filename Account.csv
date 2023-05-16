@@ -1,0 +1,1911 @@
+ACCOUNT,PARENT,ALIAS:_DEFAULT,'STORE',AGGREGATION_(EPBCS)
+A_33100,A_30000,33100-Retained Earnings,Store,+
+A_45000,A_40000,45000-Revenue - Deductions,Store,+
+A_50000,Gross Margin,50000-Material and Goods,Store,+
+A_50200,A_50100,50200-Labor Burden Cost,Store,+
+A_T,A_All_Corp_Acct_V1,T-Total Accounts,Store,+
+A_11103,A_11000,11103-USBNK2 Checking Account,Store,+
+A_12150,A_12000,12150-Factored Receipts,Store,+
+A_12300,A_12000,12300-Allowance for Bad Dept,Store,+
+A_12410,A_12000,12410-Premium and other receivables,Store,+
+A_14200,A_14000,14200-Inventory Material Overhead Value,Store,+
+A_14400,A_14000,14400-Inventory Resource Value,Store,+
+A_14730,A_14000,14730-WIP Overhead Value,Store,+
+A_14750,A_14000,14750-WIP Outside Processing Value,Store,+
+A_15170,A_15100,15170-Office Equipment,Store,+
+A_16150,A_16000,16150-Accum. Depr. Vehicles,Store,+
+A_16160,A_16000,16160-Accum. Depr.  Computers and Software,Store,+
+A_16200,A_16000,16000-Accum. Depr. Right of Use Assets,Store,+
+A_16270,A_16200,16270-Accum. Depr. Right of Use Office Equipment,Store,+
+A_22000,A_20000,22000-Accounts Payables,Store,+
+A_22120,A_22000,22120-Retained Accounts Payable,Store,+
+A_23520,A_23000,23520-Accrued Payroll Taxes,Store,+
+A_52120,A_50100,52120-Purchase Price Variance Inter-Org,Store,+
+A_60521,A_60500,60521-Meals,Store,+
+A_60522,A_60500,60522-Entertainment,Store,+
+A_63160,A_63100,63160-Event Fees,Store,+
+A_63510,A_63100,63510-Office Rent,Store,+
+A_63511,A_63100,63511-Locations Mobilieres,Store,+
+A_63531,A_63100,63531-Cleaning,Store,+
+A_63541,A_63100,63541-Building Maintenance and Repairs,Store,+
+A_63544,A_63100,63544-Facility - Contractor Services,Store,+
+Jun2,WFP Periods,Jun-23,Store,+
+Aug3,WFP Periods,Aug-24,Store,+
+Total FTE Supply,Labor Demand,<none>,Store,+
+FTE Staffed Hours incl OT,Hourly Staffing Details,Total Available Hours,Store,+
+A_63561,A_63100,63561-Business Liability Insurance,Store,+
+A_63610,A_60000,63610-Other Operating Expenses,Store,+
+A_64300,A_64000,64300-Legal Fees Assigned Cost,Store,+
+A_65300,A_65000,65300-Audit Fees,Store,+
+A_68160,A_68000,68160-Depreciation Computers and Software,Store,+
+Allocation - Administration,Allocations In,<none>,Store,+
+Allocations Out,Allocations,<none>,Store,+
+A_78550,A_77001,78550-Rounding,Store,+
+A_78990,A_77001,78990-Suspense P&L,Store,+
+A_79001,A_70000,79001-Taxes,Store,+
+Debt to Equity,Leverage Ratios,<none>,Store,+
+Total Asset Turnover,Activity Ratios,<none>,Store,+
+Loan Assumptions,Lease Accounts,<none>,Store,+
+Loan Term,Loan Assumptions,<none>,Store,+
+CX_NPV,Cash Flow Members,NPV,Store,+
+EPMO_Accounts,Account,<none>,Store,~
+New Employee Job,Workforce - Mass Hiring,<none>,Store,+
+New Employee Entity,Workforce - Mass Hiring,<none>,Store,+
+Override Job Default Salary Grade,Workforce - Mass Hiring,<none>,Store,+
+Changed Entity,Workforce - Mass Hiring,<none>,Store,+
+FTE Hourly Rate,Workforce Accts - Custom,<none>,Store,+
+Current Staff Production,Workforce Accts - Mfg Custom,<none>,Store,+
+Production vs Demand,Workforce Accts - Mfg Custom,<none>,Store,+
+OFS_Facilities Expenses Drivers,OFS_Expense Drivers for Forms,null,Store,null
+OFS_Square Footage,OFS_Facilities Expenses Drivers,null,Store,null
+OFS_Square Footage,OFS_Predefined Facilities Drivers,null,Store,null
+OFS_Repair & Maintenance %,OFS_Facilities Expenses Drivers,null,Store,null
+OFS_Repair & Maintenance %,OFS_Predefined Facilities Drivers,null,Store,null
+First Date,System Members,null,Store,null
+Spread_First,System Members,null,Store,null
+Spread_Actual_365,System Members,null,Store,null
+OCX_periodOffset,System Members,null,Store,null
+OCX_periodicPriorAccumDepr,System Members,null,Store,null
+OFS_Other COS %,OFS_Revenue Drivers on Forms,null,Store,null
+OFS_Other COS %,OFS_Predefined Cost of Sales Drivers,null,Store,null
+IT Chargeback Drivers,OFS_Revenue Drivers on Forms,<none>,Store,+
+OFS_Product Revenue,OFS_Total Revenue,null,Store,null
+OFS_Product Revenue,OFS_Revenue Accounts,null,Store,null
+OFS_Product Revenue,OFS_Project Integration,null,Store,null
+OFS_Support Revenue,OFS_Revenue Accounts,null,Store,null
+OFS_Support Revenue,OFS_Total Revenue,null,Store,null
+OFS_Support Revenue,OFS_Project Integration,null,Store,null
+OFS_Discounts,OFS_Adjustments to Revenue,null,Store,null
+OFS_Discounts,OFS_Revenue Accounts,null,Store,null
+OFS_Returns,OFS_Revenue Accounts,null,Store,null
+OFS_Returns,OFS_Adjustments to Revenue,null,Store,null
+OFS_Other Cost of sales,OFS_Total Cost Of Sales,null,Store,null
+OFS_Other Cost of sales,OFS_Project Integration,null,Store,null
+OFS_Other Cost of sales,OFS_Cost of Sales Accounts,null,Store,null
+OFS_Predefined Travel and Entertainment Drivers,OFS_Predefined Expense Drivers,null,Store,null
+OFS_Predefined Marketing Drivers,OFS_Predefined Expense Drivers,null,Store,null
+OFS_Predefined Outside Services Drivers,OFS_Predefined Expense Drivers,null,Store,null
+Cost per Support Call,IT Spends Expense Drivers,<none>,Store,+
+OFS_Selling Expense Accounts,OFS_Predefined Expense Accounts,null,Store,null
+OFS_Communications,OFS_Total Facilities Expenses,null,Store,null
+OFS_Communications,OFS_Facilities Expenses Accounts,null,Store,null
+OFS_Training and Development,OFS_Outside Services Accounts,null,Store,null
+OFS_Training and Development,OFS_Total Outside Services,null,Store,null
+OFS_Trips,OFS_Travel and Entertainment Expense Drivers,null,Store,null
+OFS_Trips,OFS_Predefined Travel and Entertainment Drivers,null,Store,null
+OFS_Other Travel Expense %,OFS_Travel and Entertainment Expense Drivers,null,Store,null
+OFS_Other Travel Expense %,OFS_Predefined Travel and Entertainment Drivers,null,Store,null
+OFS_Utilities %,OFS_Predefined Facilities Drivers,null,Store,null
+OFS_Utilities %,OFS_Facilities Expenses Drivers,null,Store,null
+OFS_Bad Debt %,OFS_Expense Drivers for Forms,null,Store,null
+OFS_Bad Debt %,OFS_Revenue Drivers on Forms,null,Store,null
+OFS_Bad Debt %,OFS_Predefined Revenue Drivers,null,Store,null
+Actuals As On Date,System Members,null,Store,null
+Spread_Average,System Members,null,Store,null
+OFS_Discount %,OFS_Product Revenue Drivers,null,Store,null
+OFS_Discount %,OFS_Revenue Drivers on Forms,null,Store,null
+Rate per User,IT Chargeback Drivers,<none>,Store,+
+Rate per Mbps,IT Chargeback Drivers,<none>,Store,+
+Storage Qty Tb,IT Chargeback Drivers,<none>,Store,+
+OFS_Predefined Revenue Accounts,OFS_Revenue Planning,null,Store,null
+OFS_Total Cost Of Sales,OFS_Total Expense - All,null,Store,null
+OFS_Total Cost Of Sales,OFS_Gross Profit,null,Store,null
+OFS_Revenue Per Employee,OFS_Revenue KPIs,null,Store,null
+OFS_Predefined Compensation Drivers,OFS_Predefined Expense Drivers,null,Store,null
+Server Machines,IT Spends Expense Drivers,<none>,Store,+
+OFS_Meetings,OFS_Total Travel and Entertainment Expense,null,Store,null
+OFS_Meetings,OFS_Travel and Entertainment Expense Accounts,null,Store,null
+OFS_Other Travel and Entertainment,OFS_Project Integration,null,Store,null
+OFS_Other Travel and Entertainment,OFS_Travel and Entertainment Expense Accounts,null,Store,null
+OFS_Other Travel and Entertainment,OFS_Total Travel and Entertainment Expense,null,Store,null
+OFS_Advertising and Promotion,OFS_Marketing Expense Accounts,null,Store,null
+OFS_Advertising and Promotion,OFS_Total Marketing Expense,null,Store,null
+OFS_Selling Expense,OFS_Selling Expense Accounts,null,Store,null
+OFS_Selling Expense,OFS_Total Selling Expense,null,Store,null
+OFS_Rent Expense,OFS_Total Facilities Expenses,null,Store,null
+OFS_Rent Expense,OFS_Project Integration,null,Store,null
+OFS_Rent Expense,OFS_Facilities Expenses Accounts,null,Store,null
+OFS_Rent Expense,OFS_Capex FinStmt Integration,null,Store,null
+OFS_Utilities,OFS_Total Facilities Expenses,null,Store,null
+OFS_Utilities,OFS_Facilities Expenses Accounts,null,Store,null
+OFS_Professional Fees Accounts,OFS_Predefined Expense Accounts,null,Store,null
+OFS_Taxes,OFS_Tax Accounts,null,Store,null
+OFS_Taxes,OFS_Total Taxes,null,Store,null
+OFS_Other Taxes,OFS_Total Taxes,null,Store,null
+OFS_Other Taxes,OFS_Tax Accounts,null,Store,null
+OFS_Operating Expenses,OFS_Expense KPIs,null,Store,null
+OFS_Operating Expenses,OFS_Total Expenses,null,Store,null
+OFS_Total Travel and Entertainment Expense,OFS_Operating Expenses,null,Store,null
+OFS_Total Facilities Expenses,OFS_Operating Expenses,null,Store,null
+OFS_Total Salary,OFS_Total Compensation,null,Store,null
+OFS_Long Term Notes Receivable,OFS_Asset Accounts,null,Store,null
+OFS_Long Term Notes Receivable,OFS_Non Current Assets,null,Store,null
+OFS_Computer Software,OFS_Capex FinStmt Integration,null,Store,null
+OFS_Computer Software,OFS_Fixed Asset Accounts,null,Store,null
+OFS_Computer Software,OFS_Fixed Assets,null,Store,null
+OFS_Notes Payable,OFS_Liability Accounts,null,Store,null
+OFS_Notes Payable,OFS_Short Term Borrowings,null,Store,null
+OFS_Capitalized Lease Obligation,OFS_Capex FinStmt Integration,null,Store,null
+OFS_Capitalized Lease Obligation,OFS_Liability Accounts,null,Store,null
+OFS_Capitalized Lease Obligation,OFS_Total Non Current Liabilities,null,Store,null
+OFS_Additional Paid-In Capital - Common,OFS_Equity Accounts,null,Store,null
+OFS_Additional Paid-In Capital - Common,OFS_Total Preferred and Common Stock,null,Store,null
+OFS_Dividends,OFS_Equity,null,Store,null
+OFS_Dividends,OFS_Equity Accounts,null,Store,null
+OFS_Dividends,OFS_Total Retained Earnings,null,Store,null
+OFS_Total Assets,OFS_Balance Sheet,null,Store,null
+License and Support,Total IT Expenses,License & Support,Store,+
+OFS_Total Office Expense,OFS_Total Other Expenses,null,Store,null
+OFS_Operating Expense/Headcount,OFS_Expense KPIs,null,Store,null
+Contract Start Date,Detail Planning,<none>,Store,+
+Contract End Date,Detail Planning,<none>,Store,+
+Solution Category,Detail Planning,<none>,Store,+
+License Count,Detail Planning,<none>,Store,+
+OFS_Net Income,OFS_Cash Flow from Operating Activities,null,Store,null
+OFS_Net Income,OFS_Income Statement,null,Store,null
+OFS_Balance Sheet Drivers,OFS_Balance Sheet Planning,null,Store,null
+OFS_Return on Net Assets,OFS_Balance Sheet KPIs,null,Store,null
+OFS_Current Ratio,OFS_Balance Sheet KPIs,null,Store,null
+OFS_Quick Ratio,OFS_Balance Sheet KPIs,null,Store,null
+OWP_Pay Type,OWP_Dynamic Properties,null,Store,null
+OWP_Pay Type,OWP_Workforce Planning Accounts for Forms,null,Store,null
+OWP_Performance,OWP_Dynamic Properties,null,Store,null
+OWP_Performance,OWP_Workforce Planning Accounts for Forms,null,Store,null
+OWP_Applicable Union Code,OWP_Dynamic Properties,null,Store,null
+OWP_Applicable Union Code,OWP_Workforce Planning Accounts for Forms,null,Store,null
+OWP_Annual Salary,OWP_Compensation Assumptions,null,Store,null
+OWP_Total Regular Headcount,OWP_Total Headcount,null,Store,null
+OWP_Departed Headcount,OWP_Total Regular Headcount,null,Store,null
+OWP_No Tier,OWP_Tiers,null,Store,null
+OWP_Options,OWP_Workforce Planning Assumptions,null,Store,null
+Medical,OWP_Options,<none>,Store,+
+Option 1,OWP_Options,<none>,Store,+
+OWP_Start Date,OWP_Workforce Planning Accounts for VC,null,Store,null
+OWP_Start Date,OWP_Employee Properties,null,Store,null
+OFS_Repayments of Borrowings,OFS_Common Method Accounts,null,Store,null
+OFS_Repayments of Borrowings,OFS_Net Cash from Financing Activities,null,Store,null
+OFS_Repayments of Borrowings,OFS_Capex FinStmt Integration,null,Store,null
+OFS_Discount Rate,OFS_Cash Flow KPIs,null,Store,null
+OFS_PV of Cash Flow,OFS_Cash Flow KPIs,null,Store,null
+Electronics,Revenue,<none>,Store,+
+OWP_Workforce Planning - Accounts,Account,null,Store,null
+OWP_FT/PT,OWP_Employee Properties,null,Store,null
+OWP_Workforce Expenses,OWP_Workforce Planning - Accounts,null,Store,null
+OWP_Benefit7,OWP_Total Benefits,null,Store,null
+OWP_Tax10,Total  Taxes,null,Store,null
+OWP_Tax10,OWP_Total Taxes,null,Store,null
+OWP_FYTD Total Salary,OWP_YTD Accounts,null,Store,null
+OWP_FYTD Taxable Compensation,OWP_YTD Accounts,null,Store,null
+OWP_Total Labor Hours,OWP_Workforce Project Integration Accounts,null,Store,null
+OCX_Equipment UOM,OCX_Unit of Measure,null,Store,null
+OCX_Intangible Assets - Indefinite,OCX_Finstatement Accounts for Intangible Assets,null,Store,null
+OCX_Intangible Assets - Indefinite,OCX_Total Fixed Assets Gross,null,Store,null
+OCX_Intangible Assets - Indefinite,"OCX_Intangible Assets, Net",null,Store,null
+OCX_Detailed Planning,OCX_Accounts - Capital Expense,null,Store,null
+OCX_FOG Cost per Year,OCX_Custom Tangible Cost Assumptions,null,Store,null
+OCX_FOG Cost per Year,OCX_Asset Cost Assumptions,null,Store,null
+OCX_Asset Properties,OCX_Capital Assumptions,null,Store,null
+OCX_CAR No.,OCX_Custom Justification and Descriptive Properties New,null,Store,null
+OCX_CAR No.,OCX_Descriptive Properties,null,Store,null
+OCX_Asset Capacity,OCX_Capacity Assumptions,null,Store,null
+OCX_Asset Capacity,OCX_Required Assumption On Forms,null,Store,null
+OCX_Number of Hours,OCX_Asset Properties,null,Store,null
+OCX_Reason delayed,OCX_Custom Date Assumptions,null,Store,null
+OCX_Asset Status,OCX_Asset Control Properties,null,Store,null
+OCX_Retirement Date,OCX_Retirement Assumptions,null,Store,null
+OCX_Impairment Option,OCX_Impairment Assumptions,null,Store,null
+OCX_Impairment Date2,OCX_Impairment Assumptions,null,Store,null
+OCX_Loss/Gain on Sale of Intangibles,OCX_Net Loss/(Gain) on Sale of Assets,null,Store,null
+OCX_Operating Lease Payments,OCX_Capital Cash Flow Impact,null,Store,null
+OCX_Custom Justification and Descriptive Properties New,OCX_Custom Descriptive Properties,null,Store,null
+OCX_Tangible Expenses,OCX_Tangible Asset Planning,null,Store,null
+OPF_Custom Material Assumptions,OPF_Material Assumptions,null,Store,null
+OPF_Custom Other Expense Assumptions,OPF_Other Expense Assumptions,null,Store,null
+Brand,OPF_Custom Direct Input Assumptions,<none>,Store,+
+ServicesandApps,OPF_Custom Direct Input Assumptions,Services/Applications,Store,+
+OPF_Capitalization,OPF_Capital Project Assumptions,null,Store,null
+OPF_Onsite Labor Hours,OPF_Contract Labor Hours,null,Store,null
+OPF_Onsite Labor Hours,OPF_Overhead Drivers,null,Store,null
+OPF_Onsite Labor Hours,OPF_Workforce Project Integration Accounts,null,Store,null
+OPF_Onsite Labor Hours,OPF_Billable Hours,null,Store,null
+OPF_Override Rates on Forms,OPF_Expense Details,null,Store,null
+OCX_Asset Value at Start of Lease,OCX_Required Leased Asset Cost Assumptions,null,Store,null
+OCX_Lease Asset Expense Drivers,OCX_Leased Asset Planning,null,Store,null
+OCX_Leased Asset Optional Assumptions,OCX_Leased Asset Planning,null,Store,null
+OCX_Loaded Asset Cost per UOM,OCX_Asset Cost per UOM,null,Store,null
+OPF_Project Properties,OPF_Project Assumptions,null,Store,null
+OPF_Probability Of Win,OPF_Additional Properties,null,Store,null
+Cost,Weighted Score,<none>,Store,+
+Scenario 4,PA Scenarios,High Benefit,Store,+
+Scenario 5,PA Scenarios,Low Cost,Store,+
+OPF_Basic Line Item Field,OPF_Project Assumptions,null,Store,null
+OPF_Equipment Standard Rate Assumptions,OPF_Standard Rates,null,Store,null
+OPF_Working Hours per Day,OPF_Basic Expense Assumptions,null,Store,null
+OPF_Working Days per Month,OPF_Basic Expense Assumptions,null,Store,null
+OPF_Equipment Expense - Billable,OPF_Financial Integration Accounts,null,Store,null
+OPF_Equipment Expense - Billable,OPF_Capital Project Integration,null,Store,null
+OPF_Equipment Expense - Billable,OPF_Project Expense Drivers,null,Store,null
+OPF_Equipment Expense - Billable,OPF_Total Equipment Expense,null,Store,null
+OPF_Equipment Expense - Billable,OPF_Total Billable Expenses,null,Store,null
+OPF_Total Material Expense,OPF_Expense Total,null,Store,null
+OPF_Total Material Expense,OPF_Expense KPIs,null,Store,null
+OPF_Total Material Expense,OPF_Direct Expenses,null,Store,null
+OPF_Total Material Expense,OPF_Cost Plus Drivers,null,Store,null
+OPF_Manufacturing Overhead,OPF_Financial Integration Accounts,null,Store,null
+OPF_Manufacturing Overhead,OPF_Total Overheads,null,Store,null
+OPF_General and Administrative Pool Residual,OPF_Total General and Administrative Expenses,null,Store,null
+OPF_General and Administrative Pool Residual,OPF_Financial Integration Accounts,null,Store,null
+OPF_Contract Labor Hours - Store,OPF_Overhead Drivers,null,Store,null
+OPF_Time and Material Assumptions,OPF_Required Revenue Assumptions,null,Store,null
+OPF_Billing Rate/Unit,OPF_Revenue Entered Drivers,null,Store,null
+OPF_Billing Rate/Unit,OPF_Time and Material Assumptions,null,Store,null
+OPF_Capital Project Analysis,OPF_Expense Reporting,null,Store,null
+OPF_ROI,OPF_Performance Metrics,null,Store,null
+OPF_ROI,OPF_KPIs,null,Store,null
+OPF_ROI,OPF_KPIs on Forms,null,Store,null
+OPF_Project Cash Flow,OPF_Impact on Financial Statements,null,Store,null
+OPF_Project Cash Flow,OPF_Revenue KPIs,null,Store,null
+OPF_Services,OPF_Total Revenue,null,Store,null
+OPF_Services Revenue,OPF_Total Benefits,null,Store,null
+OPF_Customer Satisfaction Index,OPF_Total Non Financial Benefits,null,Store,null
+OPF_Other Non Financial Benefit,OPF_Total Non Financial Benefits,null,Store,null
+OPF_Impacted Account,OPF_Project Benefit Assumptions,null,Store,null
+OPF_Qualitative Project Benefits,OPF_Project Benefit Assumptions,null,Store,null
+OPF_Uses of Cash,OPF_Project Cash Flow,null,Store,null
+OPF_Materials Purchases,OPF_Uses of Cash,null,Store,null
+OPF_Other Payments,OPF_Uses of Cash,null,Store,null
+OPF_Capital Purchases,OPF_Uses of Cash,null,Store,null
+OPF_PV of Cash Flow,OPF_Cash Flow KPIs,null,Store,null
+OPF_PM-EAC,OPF_EVM,null,Store,null
+A_24620,A_24000,24620-IBNR Claims incurred but not reported,Store,+
+A_24630,A_24000,24630-Unearned premium,Store,+
+A_26000,A_20000,26000-Long Term Liabilities,Store,+
+A_26213,A_26200,26213-Lease Liability Office Equipment,Store,+
+OPF_T&M Labor Planning,OPF_Labor Planning Detail,null,Store,null
+OPF_Contract Labor Hours,OPF_T&M Labor Planning,null,Store,null
+OPF_Non Billable Hours,OPF_Contract Labor Hours,null,Store,null
+OPF_Non Billable Hours,OPF_Total Labor Hours,null,Store,null
+OPF_Non Billable Hours,OPF_Workforce Project Integration Accounts,null,Store,null
+OPF_Expense Calculated,OPF_Expense Details,null,Store,null
+OCX_Purchase Price at End of Lease,OCX_Required Leased Asset Cost Assumptions,null,Store,null
+OCX_Custom Leased Asset Cost Assumptions,OCX_Leased Asset Cost Assumptions,null,Store,null
+OCX_Lease Asset Expenses,OCX_Leased Asset Planning,null,Store,null
+OCX_Calc Asset Cost per UOM,OCX_Asset Cost per UOM,null,Store,null
+OPF_Project Type,OPF_Required Properties,null,Store,null
+OPF_Project Type,OPF_Revenue Project Properties,null,Store,null
+OPF_Project Type,OPF_Project Detail Information,null,Store,null
+OPF_Cash Flow Start Date,OPF_Required Properties,null,Store,null
+OPF_Project Description,OPF_Project Required Properties,null,Store,null
+OPF_Project Description,OPF_Required Properties,null,Store,null
+OPF_Project Description,OPF_Project Detail Information,null,Store,null
+OPF_Properties on Forms,OPF_Project Properties,null,Store,null
+Weighted Score,OPF_Project Custom Properties,<none>,Store,+
+OPF_Basic Expense Assumptions,OPF_Project Expense Planning,null,Store,null
+OPF_Spread End Date,OPF_Basic Expense Assumptions,null,Store,null
+OPF_Line Item End Date,OPF_Basic Expense Assumptions,null,Store,null
+OPF_Equipment Usage,OPF_Basic Expense Assumptions,null,Store,null
+OPF_Unit of Measure,OPF_Expense Assumptions,null,Store,null
+OPF_Total Other Expenses,OPF_Direct Expenses,null,Store,null
+OPF_Total Other Expenses,OPF_Total Other Direct Costs,null,Store,null
+OPF_Total Other Expenses,OPF_Cost Plus Drivers,null,Store,null
+OPF_Total Other Expenses,OPF_Uses of Cash,null,Store,null
+OPF_Other Expenses - Billable,OPF_Project Expense Drivers,null,Store,null
+OPF_Other Expenses - Billable,OPF_Total Billable Expenses,null,Store,null
+OPF_Other Expenses - Billable,OPF_Financial Integration Accounts,null,Store,null
+OPF_Other Expenses - Billable,OPF_Total Other Expenses,null,Store,null
+OPF_Materials Overhead,OPF_Total Overheads,null,Store,null
+OPF_Materials Overhead,OPF_Financial Integration Accounts,null,Store,null
+OPF_Off Site Labor Billing Rate,OPF_Revenue Entered Drivers,null,Store,null
+OPF_Off Site Labor Billing Rate,OPF_Time and Material Assumptions,null,Store,null
+OPF_Revenue Amount,OPF_Revenue Entered Drivers,null,Store,null
+OPF_Revenue Amount,OPF_Direct Input Revenue Assumptions,null,Store,null
+OPF_Obligation Details,OPF_Revenue Recognition Assumptions,null,Store,null
+OPF_Indirect Expenses - Store,OPF_Project Expense Drivers,null,Store,null
+OPF_Total Other Direct Costs,OPF_Expense Total,null,Store,null
+OPF_Contract Project Analysis,OPF_Expense Reporting,null,Store,null
+OPF_Contract Project Expense,OPF_Contract Project Analysis,null,Store,null
+OPF_Revenue KPIs,OPF_KPIs,null,Store,null
+OPF_Expense KPIs,OPF_KPIs,null,Store,null
+OPF_Cash Flow KPIs,OPF_KPIs,null,Store,null
+OPF_Sales Revenue,OPF_Total Revenue,null,Store,null
+OPF_Sales Revenue,OPF_Financial Integration Accounts,null,Store,null
+OPF_Product Revenue,OPF_Total Benefits,null,Store,null
+OPF_Total Non Financial Benefits,OPF_Project Benefit Assumptions,null,Store,null
+OPF_Payback Period,OPF_Performance Metrics,null,Store,null
+OPF_Payback Period,OPF_Cash Flow KPIs,null,Store,null
+OPF_Payback Period,OPF_KPIs on Forms,null,Store,null
+OPF_BCWS,OPF_EVM,null,Store,null
+OPF_BCWP,OPF_EVM,null,Store,null
+OPF_VAC,OPF_EVM,null,Store,null
+A_25300,A_25000,25300-VAT Payable,Store,+
+A_26211,A_26200,26211-Lease Liability Computer Hardware,Store,+
+A_26212,A_26200,26212-Lease Liability Vehicle Standard,Store,+
+A_95001,A_T,95001-Net Income Current Year,Store,+
+A_41180,A_40000,41180-Revenue Warranties,Store,+
+A_49900,A_40000,49900-Revenue - Clearing & Misc.,Store,+
+OPF_Revenue Recognition - Common,OPF_Project Measures,null,Store,null
+OPF_UnRecognized Revenue,OPF_Revenue Recognition - Common,null,Store,null
+FX Rates - Ending,Exchange Rates,<none>,Store,~
+A_All_Corp_Acct_V1,Account,Corporate Account,Store,+
+Consolidated ETR,Financial Drivers,<none>,Store,+
+A_11300,A_11000,11300-Short Term Investment,Store,+
+A_11502,A_11000,11502-Clearing USBNK Treasury Account,Store,+
+A_12101,A_12000,12101-Accounts Receivable,Store,+
+A_12160,A_12000,12160-Remittance,Store,+
+A_12310,A_12000,12310-Unbilled Receivables,Store,+
+A_12360,A_12000,12360-Contract Asset,Store,+
+A_13200,A_13000,13200-Sales Tax Receivable,Store,+
+A_13602,A_13000,13602-LOAN PROJ Project Loan Receivables,Store,+
+A_14100,A_14000,14100-Inventory Material Value,Store,+
+A_14710,A_14000,14710-WIP Material Value,Store,+
+A_15220,A_15200,15220-Right of Use Building,Store,+
+A_15270,A_15200,15270-Right of Use Office Equipment,Store,+
+A_15930,A_15300,15930-CIP Clearing,Store,+
+A_16130,A_16000,16130-Accum. Depr. Machinery and Equipment,Store,+
+Liabilities and Owner's Equity,Balance Sheet,<none>,Store,+
+A_23100,A_23000,23100-Federal Income Taxes Withheld,Store,+
+A_60114,A_60100,60114-Overtime,Store,+
+A_60210,A_60200,60210-Commissions,Store,+
+A_60220,A_60200,60220-Bonus,Store,+
+A_60230,A_60200,60230-Cars,Store,+
+A_60513,A_60500,60513-Car Rental,Store,+
+A_60515,A_60500,60515-Gasoline,Store,+
+A_60520,A_60500,60520-Supplies,Store,+
+A_60540,A_60500,60540-Miscellaneous,Store,+
+A_63543,A_63100,63543-Furniture Maintenance and Repairs,Store,+
+A_63550,A_63100,63550-Office Equipment Rental,Store,+
+Allocation Percentage,Workforce Custom Accounts,<none>,Store,~
+Jan1,WFP Periods,Jan-22,Store,+
+May1,WFP Periods,May-22,Store,+
+Aug2,WFP Periods,Aug-23,Store,+
+Dec2,WFP Periods,Dec-23,Store,+
+Jul3,WFP Periods,Jul-24,Store,+
+Workforce Accts - Custom,Account,<none>,Store,+
+Mileage Rate,Workforce Accts - Custom,<none>,Store,+
+OWP_End Date,OWP_Workforce Planning Accounts for VC,null,Store,null
+OWP_End Date,OWP_Employee Properties,null,Store,null
+OWP_Workforce Planning Accounts for Forms,OWP_Workforce Planning Accounts for VC,null,Store,null
+OFS_Change in Inventory,OFS_Changes in Operating Assets and Liabilities,null,Store,null
+OFS_Change in Inventory,OFS_Indirect Method Accounts,null,Store,null
+OFS_Proceeds from Sales of Marketable Securities and Other Investments,OFS_Common Method Accounts,null,Store,null
+OFS_Proceeds from Sales of Marketable Securities and Other Investments,OFS_Net Cash From Investing Activities,null,Store,null
+OFS_Issuance or Repurchase of Preferred Stock,OFS_Common Method Accounts,null,Store,null
+OFS_Issuance or Repurchase of Preferred Stock,OFS_Net Cash from Financing Activities,null,Store,null
+OFS_Adjustments to Net Income,OFS_Cash Flow from Operating Activities,null,Store,null
+OFS_Net Cash From Investing Activities,OFS_Net Cash Flow,null,Store,null
+OFS_Discount Factor,OFS_Cash Flow KPIs,null,Store,null
+OFS_Unspecified Integration Account,OFS_Cross Module Integration,null,Store,null
+OFS_Integration Reporting,OFS_Cross Module Integration,null,Store,null
+OWP_Total Salary,OWP_Total Compensation,null,Store,null
+OWP_Earning1,OWP_Total Earnings,null,Store,null
+OWP_Earning2,OWP_Total Earnings,null,Store,null
+OWP_Earning6,OWP_Total Earnings,null,Store,null
+OWP_Total Benefits,OWP_Total Compensation,null,Store,null
+OWP_Benefit8,OWP_Total Benefits,null,Store,null
+OWP_Benefit9,OWP_Total Benefits,null,Store,null
+OWP_Tax7,OWP_Total Taxes,null,Store,null
+Recruitment Expense,OWP_Non Compensation Expenses,<none>,Store,+
+OWP_CYTD Total Salary,OWP_YTD Accounts,null,Store,null
+OWP_CYTD Total Salary (Prior),OWP_YTD Accounts,null,Store,null
+OWP_Offsite Labor Hours,OWP_Total Labor Hours,null,Store,null
+OWP_Allocated Project Expense,OWP_Workforce Project Integration Accounts,null,Store,null
+OWP_Labor Expense,OWP_Allocated Project Expense,null,Store,null
+OCX_Justification,OCX_Descriptive Properties,null,Store,null
+OCX_Justification,OCX_Custom Justification and Descriptive Properties New,null,Store,null
+OCX_Justification,OCX_Custom Descriptive Properties  Existing,null,Store,null
+OCX_Standard Rates,OCX_Capital Assumptions On Forms,null,Store,null
+OCX_Equipment Standard Billing Rate,OCX_Standard Rates,null,Store,null
+OCX_Depreciation,OCX_Finstatement Accounts for Lease Assets,null,Store,null
+OCX_Depreciation,OCX_Finstatement Accounts for Assets,null,Store,null
+OCX_Depreciation,OCX_Capital Ownership Costs,null,Store,null
+OCX_Depreciation,OCX_Expenses - Capital,null,Store,null
+"OCX_Intangible Assets Finite, Gross",OCX_Total Fixed Assets Gross,null,Store,null
+"OCX_Intangible Assets Finite, Gross",OCX_Finstatement Accounts for Intangible Assets,null,Store,null
+"OCX_Intangible Assets Finite, Gross","OCX_Intangible Assets Finite, Net",null,Store,null
+OCX_Capital Reserve,OCX_Finstatement Accounts for Intangible Assets,null,Store,null
+OCX_Capital Reserve,OCX_Liabilities,null,Store,null
+OCX_Amortization,OCX_Capital Ownership Costs,null,Store,null
+OCX_Amortization,OCX_Finstatement Accounts for Intangible Assets,null,Store,null
+OCX_Amortization,OCX_Expenses - Capital,null,Store,null
+OCX_Finstatement Accounts for Lease Assets,OCX_Finstatement Expenses,null,Store,null
+OCX_Current Portion of Lease Obligation,OCX_Liabilities,null,Store,null
+OCX_Current Portion of Lease Obligation,OCX_Finstatement Accounts for Lease Assets,null,Store,null
+OCX_Additional Charges,OCX_Custom Tangible Cost Assumptions,null,Store,null
+OCX_Additional Charges,OCX_Required Intangible Cost Drivers,null,Store,null
+OCX_Additional Charges,OCX_Asset Cost Assumptions,null,Store,null
+OCX_Additional Charges,OCX_Capital Work in Progress,null,Store,null
+OCX_Tangible Asset Cost Drivers,OCX_Tangible Asset Planning,null,Store,null
+OCX_Asset Rate,OCX_Required Tangible Cost Assumptions,null,Store,null
+OCX_Asset Rate,OCX_Asset Cost Assumptions,null,Store,null
+OCX_Capital Assumptions,OCX_Accounts - Capital Expense,null,Store,null
+OCX_Tangible Capital Global Assumptions,OCX_Capital Global Assumptions,null,Store,null
+OCX_Low Value Lease Amount,OCX_Tangible Capital Global Assumptions,null,Store,null
+OCX_Amortization Method,OCX_Intangible Capital Global Assumptions,null,Store,null
+OCX_Priority,OCX_Descriptive Properties,null,Store,null
+OCX_Priority,OCX_Custom Justification and Descriptive Properties New,null,Store,null
+OCX_Capacity Assumptions,OCX_Asset Properties,null,Store,null
+OCX_Estimated Yearly Use,OCX_Capacity Assumptions,null,Store,null
+OCX_In Service Date,OCX_Required Assumption On Forms,null,Store,null
+OCX_In Service Date,OCX_Required Date Assumptions,null,Store,null
+OCX_Open Asset Requests,OCX_Asset Control Properties,null,Store,null
+OCX_Asset Cost Assumptions,OCX_Asset Properties,null,Store,null
+OCX_Asset Units,OCX_Required Assumption On Forms,null,Store,null
+OCX_Asset Units,OCX_Asset Cost Assumptions,null,Store,null
+OCX_Sale Value,OCX_Asset Cost Assumptions,null,Store,null
+OCX_Sale Value,OCX_Retirement Cost Assumptions,null,Store,null
+OCX_Funding Incidence,OCX_Cash Flow and Funding Assumptions,null,Store,null
+OCX_Retirement Assumptions,OCX_Capital Assumptions,null,Store,null
+OCX_Impairment Assumptions,OCX_Capital Assumptions,null,Store,null
+OCX_Impairment Fair Value1,OCX_Impairment Value Assumptions,null,Store,null
+OCX_Assets,OCX_Balance Sheet Impact,null,Store,null
+"OCX_Property, Plant, and Equipment Net",OCX_Assets,null,Store,null
+OCX_Tangible Expense Drivers,OCX_Tangible Asset Planning,null,Store,null
+OCX_Intangible Asset Planning,OCX_Detailed Planning,null,Store,null
+OCX_Leased Asset Planning,OCX_Detailed Planning,null,Store,null
+OCX_Leased Asset Assumptions,OCX_Leased Asset Planning,null,Store,null
+OCX_ Required Leased Assets General Assumptions,OCX_Leased Asset General Assumptions,null,Store,null
+OPF_Labor Assumptions,OPF_Expense Drivers on Forms,null,Store,null
+OPF_Required Labor Assumptions,OPF_Labor Assumptions,null,Store,null
+OPF_Job_WF,OPF_Revenue Drivers Read Only,null,Store,null
+OPF_Job_WF,OPF_Required Labor Assumptions,null,Store,null
+OPF_Assignment End Date,OPF_Basic Expense Assumptions,null,Store,null
+OPF_Assignment End Date,OPF_Required Labor Assumptions,null,Store,null
+OPF_Assignment End Date,OPF_Required Equipment Assumptions,null,Store,null
+OPF_Equipment Assumptions,OPF_Expense Drivers on Forms,null,Store,null
+OPF_Equipment_Cpx,OPF_Required Equipment Assumptions,null,Store,null
+OPF_Equipment_Cpx,OPF_Revenue Drivers Read Only,null,Store,null
+OPF_Equipment Description,OPF_Required Equipment Assumptions,null,Store,null
+OPF_Required Material Assumptions,OPF_Material Assumptions,null,Store,null
+OPF_Labor Rate,OPF_Override Rates on Forms,null,Store,null
+OPF_Labor Rate,OPF_Labor Planning Detail,null,Store,null
+OPF_Labor Hours,OPF_Labor Planning Detail,null,Store,null
+OPF_Labor Hours,OPF_Total Labor Hours,null,Store,null
+OPF_Labor Hours,OPF_Workforce Project Integration Accounts,null,Store,null
+OCX_Index Rate Basis,OCX_ Required Leased Assets General Assumptions,null,Store,null
+OCX_Required Leased Asset Cost Assumptions,OCX_Leased Asset Cost Assumptions,null,Store,null
+OCX_Asset Operating Cost per UOM,OCX_Per Unit Cost Detail,null,Store,null
+OCX_New Asset KPI,OCX_KPIs,null,Store,null
+OPF_Required Properties,OPF_Standard Project Properties,null,Store,null
+OPF_Project Manager,OPF_Additional Properties,null,Store,null
+OPF_Project Priority,OPF_Additional Properties,null,Store,null
+OPF_Project Priority,OPF_Project Custom Properties,null,Store,null
+OPF_Rank,OPF_Additional Properties,null,Store,null
+OPF_Rank,OPF_Project Custom Properties,null,Store,null
+OPF_Capital Project Asset,OPF_Capital Project Properties,null,Store,null
+OPF_Revenue Project Properties,OPF_Project Properties,null,Store,null
+Scenario 2,PA Scenarios,Moderate,Store,+
+Scenario 3,PA Scenarios,Aggressive,Store,+
+OPF_Standard Rates,OPF_Project Assumptions,null,Store,null
+OPF_Labor Expense - Billable,OPF_Total Billable Expenses,null,Store,null
+OPF_Labor Expense - Billable,OPF_Total Labor Expense,null,Store,null
+OPF_Labor Expense - Billable,OPF_Workforce Project Integration Accounts,null,Store,null
+OPF_Material Expense,OPF_Financial Integration Accounts,null,Store,null
+OPF_Material Expense,OPF_Total Material Expense,null,Store,null
+OPF_Material Expense,OPF_Total Non Billable Expenses,null,Store,null
+OPF_Material Expense,OPF_Project Expense Drivers,null,Store,null
+OPF_Travel Expense - Billable,OPF_Total Travel,null,Store,null
+OPF_Travel Expense - Billable,OPF_Project Expense Drivers,null,Store,null
+OPF_Travel Expense - Billable,OPF_Financial Integration Accounts,null,Store,null
+OPF_Travel Expense - Billable,OPF_Total Billable Expenses,null,Store,null
+OPF_Training Overhead,OPF_Financial Integration Accounts,null,Store,null
+OPF_Training Overhead,OPF_Total Overheads,null,Store,null
+OPF_Common Overhead,OPF_Total Overheads,null,Store,null
+OPF_Common Overhead,OPF_Financial Integration Accounts,null,Store,null
+OPF_Revenue Assumptions,OPF_Project Revenue Planning,null,Store,null
+OPF_Cost Plus Driver,OPF_Cost Plus Revenue Assumptions,null,Store,null
+OPF_Cost Plus Driver,OPF_Revenue Drivers,null,Store,null
+Overtime Cap,Workforce Accts - Custom,Overtime Cap per Month,Store,+
+Overtime Cap,Hourly Staffing Details,Overtime Cap per Month,Store,+
+Staffed FTE,Total FTE Supply,<none>,Store,+
+A_63560,A_63100,63560-Multiple Risk Insurance,Store,+
+A_63570,A_63100,63570-Cafeteria Subsidies,Store,+
+A_64000,A_60000,64000-Office and Communication,Store,+
+A_65130,A_65000,65130-Commercial Information Fees,Store,+
+A_65220,A_65000,65220-Other Fees,Store,+
+A_68120,A_68000,68120-Depreciation Building and Improvements,Store,+
+A_68220,A_68000,68220-Depreciation on ROU Building,Store,+
+Return on Invested Capital,Profit Performance Ratios,<none>,Store,+
+Return on Equity,Profit Performance Ratios,<none>,Store,+
+Return on Assets,Profit Performance Ratios,<none>,Store,+
+Inventory Turnover,Activity Ratios,<none>,Store,+
+Quick Ratio,Liquidity Ratios,<none>,Store,+
+Working Capital,Liquidity Ratios,<none>,Store,+
+Total Payment,Loan Assumptions,<none>,Store,+
+Rates,Lease Accounts,<none>,Store,+
+Cash Flow Members,Lease Accounts,<none>,Store,+
+PV of Cash Flows,Cash Flow Members,<none>,Store,+
+ProdSelect,EPMO_Accounts,Select Product,Store,+
+End Period,Workforce - Mass Hiring,<none>,Store,+
+Changed?,Workforce - Mass Hiring,Req Name,Store,+
+Staffed Hour Gap to Be Filled by Temp,Temp Hourly Staffing,<none>,Store,+
+YOY Growth,Workforce Accts - Mfg Custom,<none>,Store,+
+Production Hours Available with Current Staff,Workforce Accts - Mfg Custom,<none>,Store,+
+Calculated Demand FTE,Workforce Accts - Mfg Custom,Calculated Demand FTE (includes OT),Store,+
+Labor Hours,IT Spends Expense Drivers,<none>,Store,+
+Labor Rate,IT Spends Expense Drivers,<none>,Store,+
+OFS_Hotel Per Night,OFS_Predefined Travel and Entertainment Drivers,null,Store,null
+OFS_Hotel Per Night,OFS_Travel and Entertainment Expense Drivers,null,Store,null
+OFS_Number of Campaigns,OFS_Predefined Marketing Drivers,null,Store,null
+OFS_Number of Campaigns,OFS_Marketing Expense Drivers,null,Store,null
+OFS_Cost Per Campaign,OFS_Predefined Marketing Drivers,null,Store,null
+OFS_Cost Per Campaign,OFS_Marketing Expense Drivers,null,Store,null
+OFS_Compensation Accounts,OFS_Predefined Expense Accounts,null,Store,null
+OFS_Bonus,OFS_Compensation Accounts,null,Store,null
+OFS_Bonus,OFS_Total Salary,null,Store,null
+No Account,Account,null,Store,null
+Month Count,System Members,null,Store,null
+NumPeriods,System Members,null,Store,null
+YR-Index,System Members,null,Store,null
+Spread_Actual_Actual,System Members,null,Store,null
+OFS_Financials Accounts,Account,null,Store,null
+OFS_Product Revenue Drivers,OFS_Predefined Revenue Drivers,null,Store,null
+OFS_Direct Labor per Unit,OFS_Predefined Cost of Sales Drivers,null,Store,null
+OFS_Direct Labor per Unit,OFS_Revenue Drivers on Forms,null,Store,null
+OFS_Freight %,OFS_Predefined Cost of Sales Drivers,null,Store,null
+OFS_Freight %,OFS_Revenue Drivers on Forms,null,Store,null
+Service Charge Rate,IT Chargeback Drivers,<none>,Store,+
+Applications Supported Service Rate,IT Chargeback Drivers,<none>,Store,+
+OFS_Services Revenue,OFS_Total Revenue,null,Store,null
+OFS_Services Revenue,OFS_Project Integration,null,Store,null
+OFS_Services Revenue,OFS_Revenue Accounts,null,Store,null
+OFS_Cost of Sales Accounts,OFS_Predefined Revenue Accounts,null,Store,null
+I/C Cost of Sales,OFS_Total Cost Of Sales,<none>,Store,+
+IT Chargebacks,OFS_Revenue Planning,<none>,Store,+
+User Services,IT Chargebacks,<none>,Store,+
+Storage,IT Chargebacks,<none>,Store,+
+OFS_Predefined Expense Drivers,OFS_Expense Drivers,null,Store,null
+OFS_Predefined Facilities Drivers,OFS_Predefined Expense Drivers,null,Store,null
+OFS_Airfare,OFS_Total Travel and Entertainment Expense,null,Store,null
+OFS_Airfare,OFS_Travel and Entertainment Expense Accounts,null,Store,null
+OFS_Temporary Help,OFS_Outside Services Accounts,null,Store,null
+OFS_Temporary Help,OFS_Total Outside Services,null,Store,null
+OFS_Amortization,OFS_Depreciation and Amortization,null,Store,null
+OFS_Amortization,OFS_Capex FinStmt Integration,null,Store,null
+OFS_Amortization,OFS_Depreciation and Amortization Accounts,null,Store,null
+OFS_Impairment of Assets,OFS_Capex FinStmt Integration,null,Store,null
+OFS_Impairment of Assets,OFS_Other Income and Expense Accounts,null,Store,null
+OFS_Impairment of Assets,OFS_Other (Income)/Expense,null,Store,null
+OFS_Tax Accounts,OFS_Predefined Expense Accounts,null,Store,null
+OFS_Total Compensation,OFS_Total Other Expenses,null,Store,null
+OFS_Total Compensation,OFS_Workforce FinStmt Integration,null,Store,null
+OFS_Balance Sheet Driver Related Accounts,OFS_Balance Sheet Accounts on Forms,null,Store,null
+OFS_Land,OFS_Fixed Assets,null,Store,null
+OFS_Land,OFS_Fixed Asset Accounts,null,Store,null
+OFS_Land,OFS_Capex FinStmt Integration,null,Store,null
+OFS_Computer Hardware and Equipment,OFS_Fixed Asset Accounts,null,Store,null
+OFS_Computer Hardware and Equipment,OFS_Capex FinStmt Integration,null,Store,null
+OFS_Computer Hardware and Equipment,OFS_Fixed Assets,null,Store,null
+OFS_Total Other Current Liabilities,OFS_Liabilities,null,Store,null
+OFS_Total Other Current Liabilities,OFS_Total Current Liabilities,null,Store,null
+OFS_Income Taxes Payable,OFS_Total Other Current Liabilities,null,Store,null
+OFS_Income Taxes Payable,OFS_Liability Accounts,null,Store,null
+OFS_Other Current Liabilities,OFS_Total Other Current Liabilities,null,Store,null
+OFS_Other Current Liabilities,OFS_Liability Accounts,null,Store,null
+OFS_Total Non Current Liabilities,OFS_Total Liabilities,null,Store,null
+OFS_Total Non Current Liabilities,OFS_Liabilities,null,Store,null
+OFS_Total Cash and Investments,OFS_Total Current Assets,null,Store,null
+Total IT Expenses,OFS_Total Outside Services,<none>,Store,+
+Subscriptions,Total IT Expenses,<none>,Store,+
+Contract Number,Detail Planning,<none>,Store,+
+Contract Description,Detail Planning,<none>,Store,+
+Vendor,Detail Planning,<none>,Store,+
+CPI,External Indicators,Consumer Price Index,Store,+
+OFS_Accrued Comp % of Total Comp,OFS_Predefined Balance Sheet Drivers,null,Store,null
+OFS_Accrued Comp % of Total Comp,OFS_Balance Sheet Drivers on Forms,null,Store,null
+OFS_Asset Accounts,OFS_Predefined Balance Sheet Accounts,null,Store,null
+OFS_Equity Accounts,OFS_Predefined Balance Sheet Accounts,null,Store,null
+OFS_Total Equity,OFS_Total Liabilities and Equity,null,Store,null
+OFS_Total Retained Earnings,OFS_Total Equity,null,Store,null
+OWP_Compensation Assumptions,OWP_Workforce Planning Assumptions,null,Store,null
+OWP_Market Adjustment,OWP_Compensation Assumptions,null,Store,null
+OWP_Hours Per Day,OWP_Compensation Assumptions,null,Store,null
+OWP_Hours Per Day,Net Productive Time,null,Store,null
+OWP_Merit Adjustment %,OWP_Compensation Assumptions,null,Store,null
+Car Allowance,OWP_Options,<none>,Store,+
+Option 2,OWP_Options,<none>,Store,+
+Exceeds Expectations,OWP_Merit Rates,<none>,Store,+
+OFS_Other Non Operating Income/Expense,OFS_Other Income and Expense Accounts,null,Store,null
+OFS_Other Non Operating Income/Expense,OFS_Other (Income)/Expense,null,Store,null
+OFS_Miscellaneous Expenses,OFS_Predefined Expense Accounts,null,Store,null
+OFS_Miscellaneous Expenses,OFS_Total Other Expenses,null,Store,null
+OFS_Miscellaneous Expenses,OFS_Project Integration,null,Store,null
+OFS_Miscellaneous Expenses,OFS_Capex FinStmt Integration,null,Store,null
+OFS_Accounts Receivable,OFS_Total Receivables,null,Store,null
+OFS_Accounts Receivable,OFS_Calculated Assets,null,Store,null
+OFS_Accounts Receivable,OFS_Asset Accounts,null,Store,null
+OFS_Prepaid Expenses,OFS_Calculated Assets,null,Store,null
+OFS_Prepaid Expenses,OFS_Total Current Assets,null,Store,null
+OFS_Prepaid Expenses,OFS_Asset Accounts,null,Store,null
+OFS_Calculated Liabilities,OFS_Balance Sheet Driver Related Accounts,null,Store,null
+OFS_Accrued Compensation,OFS_Calculated Liabilities,null,Store,null
+OFS_Accrued Compensation,OFS_Total Accrued Liabilities,null,Store,null
+OFS_Accrued Compensation,OFS_Liability Accounts,null,Store,null
+OFS_Prior Year Retained Earnings,OFS_Equity Accounts,null,Store,null
+OFS_Prior Year Retained Earnings,OFS_Rolling Accounts Calculated,null,Store,null
+OFS_Prior Year Retained Earnings,OFS_Total Retained Earnings,null,Store,null
+OFS_Cash in Bank,OFS_Assets,null,Store,null
+OFS_Cash in Bank,OFS_Asset Accounts,null,Store,null
+OFS_Cash in Bank,OFS_Cash,null,Store,null
+OFS_Other Long Term Assets,OFS_Non Current Assets,null,Store,null
+OFS_Other Long Term Assets,OFS_Asset Accounts,null,Store,null
+OFS_Machinery and Equipment,OFS_Fixed Asset Accounts,null,Store,null
+OFS_Machinery and Equipment,OFS_Capex FinStmt Integration,null,Store,null
+OFS_Machinery and Equipment,OFS_Fixed Assets,null,Store,null
+OFS_Construction in Progress,OFS_Capex FinStmt Integration,null,Store,null
+OFS_Construction in Progress,OFS_Fixed Assets,null,Store,null
+OFS_Construction in Progress,OFS_Fixed Asset Accounts,null,Store,null
+OFS_Current Portion of Capitalized Leases,OFS_Short Term Borrowings,null,Store,null
+OFS_Current Portion of Capitalized Leases,OFS_Liability Accounts,null,Store,null
+OFS_Current Portion of Capitalized Leases,OFS_Capex FinStmt Integration,null,Store,null
+OFS_Equity,OFS_Balance Sheet Other,null,Store,null
+OFS_Common Stock,OFS_Total Preferred and Common Stock,null,Store,null
+OFS_Common Stock,OFS_Equity Accounts,null,Store,null
+OFS_Preferred Stock,OFS_Total Preferred and Common Stock,null,Store,null
+OFS_Preferred Stock,OFS_Equity Accounts,null,Store,null
+OFS_Total Benefits and Taxes,OFS_Total Compensation,null,Store,null
+Hardware Expenses,Total IT Spends,<none>,Store,+
+OFS_Other (Income)/Expense,OFS_Total Expenses,null,Store,null
+Detail Planning,OFS_Expense Planning,<none>,Store,+
+Contract Manager,Detail Planning,<none>,Store,+
+GDP,External Indicators,Computer and Electronics Products GDP,Store,+
+Unemployment Rate,External Indicators,<none>,Store,+
+Crude Oil Price,External Indicators,<none>,Store,+
+OFS_Income Statement,OFS_Financials Accounts,null,Store,null
+OFS_Other Operating Expense to Revenue,OFS_Income Statement KPIs,null,Store,null
+OFS_Prepaid Expense % of OpEx,OFS_Predefined Balance Sheet Drivers,null,Store,null
+OFS_Prepaid Expense % of OpEx,OFS_Balance Sheet Drivers on Forms,null,Store,null
+OFS_DPO,OFS_Balance Sheet Drivers on Forms,null,Store,null
+OFS_DPO,OFS_Predefined Balance Sheet Drivers,null,Store,null
+OFS_Total Non Current Assets,OFS_Total Assets,null,Store,null
+OFS_Total Liabilities,OFS_Total Liabilities and Equity,null,Store,null
+OFS_Total Current Liabilities,OFS_Total Liabilities,null,Store,null
+OWP_Annual Increase,OWP_Compensation Assumptions,null,Store,null
+OWP_Adjusted Annual Salary,OWP_Compensation Assumptions,null,Store,null
+OWP_Reconciled HeadCount,OWP_Workforce Planning Assumptions,null,Store,null
+OWP_Working Hours per Month,OWP_Workforce Planning Assumptions,null,Store,null
+OWP_IsEmpty,OWP_Workforce Planning Assumptions,null,Store,null
+OWP_Tier1,OWP_Tiers,null,Store,null
+OWP_No Option,OWP_Options,null,Store,null
+Far Exceeds Expectations,OWP_Merit Rates,<none>,Store,+
+OWP_Strategic Headcount Planning,OWP_Workforce Planning Assumptions,null,Store,null
+OWP_Start Month,OWP_Workforce Planning Accounts for VC,null,Store,null
+OWP_Start Month,OWP_Employee Properties,null,Store,null
+OFS_Return on Equity,OFS_Balance Sheet KPIs,null,Store,null
+OFS_Other Operating Adjustment,OFS_Indirect Method Accounts,null,Store,null
+OFS_Change in Other Current Assets,OFS_Changes in Operating Assets and Liabilities,null,Store,null
+OFS_Change in Other Current Assets,OFS_Indirect Method Accounts,null,Store,null
+OFS_Change in Accounts Payable,OFS_Indirect Method Accounts,null,Store,null
+OFS_Change in Accounts Payable,OFS_Changes in Operating Assets and Liabilities,null,Store,null
+OFS_Other Cash from Investing Activities,OFS_Net Cash From Investing Activities,null,Store,null
+OFS_Other Cash from Investing Activities,OFS_Capex FinStmt Integration,null,Store,null
+OFS_Other Cash from Investing Activities,OFS_Common Method Accounts,null,Store,null
+OFS_Cash Flow KPIs,OFS_Cash Planning,null,Store,null
+Staples,Revenue,<none>,Store,+
+OWP_Workforce Planning Assumptions,OWP_Workforce Planning - Accounts,null,Store,null
+OWP_Earning9,OWP_Total Earnings,null,Store,null
+OWP_Benefit1,OWP_Total Benefits,null,Store,null
+OWP_Tax1,OWP_Total Taxes,null,Store,null
+OWP_Tax6,OWP_Total Taxes,null,Store,null
+OWP_Tax9,OWP_Total Taxes,null,Store,null
+OWP_Training Expense,OWP_Non Compensation Expenses,null,Store,null
+OWP_YTD Accounts,OWP_Workforce Planning - Accounts,null,Store,null
+OWP_CYTD Gross Earnings,OWP_YTD Accounts,null,Store,null
+OWP_Workforce Project Integration Accounts,OWP_Workforce Planning - Accounts,null,Store,null
+OWP_Labor Standard Hourly Cost,OWP_Labor Standard Rate Assumptions,null,Store,null
+OWP_On Site Standard Billing Rate,OWP_Labor Standard Rate Assumptions,null,Store,null
+OWP_Cost Charged,OWP_Workforce Project Integration Accounts,null,Store,null
+"OCX_Property, Plant, and Equipment Gross",OCX_Finstatement Accounts for Assets,null,Store,null
+"OCX_Property, Plant, and Equipment Gross",OCX_Total Fixed Assets Gross,null,Store,null
+"OCX_Property, Plant, and Equipment Gross",OCX_Finstatement Accounts for Lease Assets,null,Store,null
+"OCX_Property, Plant, and Equipment Gross","OCX_Property, Plant, and Equipment Net",null,Store,null
+OCX_Impairment of Assets,OCX_Finstatement Accounts for Intangible Assets,null,Store,null
+OCX_Impairment of Assets,OCX_Expenses - Capital,null,Store,null
+OCX_Equipment Units,OCX_Capital Project Integration,null,Store,null
+OCX_Acquisition Costs,OCX_Capital Work in Progress,null,Store,null
+OCX_Acquisition Costs,OCX_Asset Cost Assumptions,null,Store,null
+OCX_Acquisition Costs,OCX_Required Intangible Cost Drivers,null,Store,null
+OCX_General Asset Properties,OCX_Asset Properties,null,Store,null
+OCX_Descriptive Properties,OCX_Asset Properties,null,Store,null
+OCX_Asset Usage,OCX_Asset Properties,null,Store,null
+OCX_Per Unit Cost,OCX_Asset Properties,null,Store,null
+OCX_Asset Date Assumptions,OCX_Asset Properties,null,Store,null
+OCX_Required Date Assumptions,OCX_Asset Date Assumptions,null,Store,null
+OCX_Purchase Date,OCX_Required Date Assumptions,null,Store,null
+OCX_Purchase Date,OCX_Required Assumption On Forms,null,Store,null
+OCX_Asset Inventory,OCX_Asset Control Properties,null,Store,null
+OCX_Cash Flow and Funding Assumptions,OCX_Capital Assumptions,null,Store,null
+OCX_Retirement Cost Assumptions,OCX_Capital Assumptions,null,Store,null
+OCX_Impairment Value Assumptions,OCX_Capital Assumptions,null,Store,null
+OCX_Net Loss/(Gain) on Sale of Assets,OCX_Expenses - Capital,null,Store,null
+OCX_Capital Assumptions On Forms,OCX_Accounts - Capital Expense,null,Store,null
+OCX_Intangible Cost Drivers,OCX_Intangible Asset Planning,null,Store,null
+OCX_Required Intangible Cost Drivers,OCX_Intangible Cost Drivers,null,Store,null
+OCX_Payment Frequency,OCX_ Required Leased Assets General Assumptions,null,Store,null
+OCX_Ownership After Lease Term,OCX_ Required Leased Assets General Assumptions,null,Store,null
+OPF_Phases Assumptions,OPF_Expense Drivers on Forms,null,Store,null
+OPF_Phase,OPF_Phases Assumptions,null,Store,null
+OPF_FTE,OPF_Workforce Project Integration Accounts,null,Store,null
+OPF_FTE,OPF_Expense KPIs,null,Store,null
+OPF_FTE,OPF_Required Labor Assumptions,null,Store,null
+OPF_FTE,OPF_Overhead Drivers,null,Store,null
+OPF_FTE,OPF_Override Rates on Forms,null,Store,null
+OPF_T&M Labor Assumptions,OPF_Labor Assumptions,null,Store,null
+OPF_Material Assumptions,OPF_Expense Drivers on Forms,null,Store,null
+OPF_Required Other Expense Assumptions,OPF_Other Expense Assumptions,null,Store,null
+OPF_Labor Planning Detail,OPF_Expense Details,null,Store,null
+A_17000,A_10000,17000-Long Term Receivables,Store,+
+A_20000,Liabilities and Owner's Equity,20000-Liabilities,Store,+
+A_21200,A_21000,21200-Short Term Debt,Store,+
+A_23200,A_23000,23200-FICA Withheld,Store,+
+A_23400,A_23000,23400-Other Tax Withholdings,Store,+
+A_52180,A_50100,52180-Cost Variance,Store,+
+A_54100,A_50100,54100-Amortization of deferred policy acquistion,Store,+
+A_59000,A_50000,59000-PPM Expenses,Store,+
+A_59210,A_59000,59210-Project Usage Cost,Store,+
+A_59910,A_59000,59910-Project Cost Clearing,Store,+
+A_59950,A_59000,59950-Project Conversion Rate Variance Cost,Store,+
+A_95021,Pretax Income,95021-Expenses,Store,+
+A_60511,A_60500,60511-Rail & Other Travel,Store,+
+A_60512,A_60500,60512-Airfare,Store,+
+A_62020,A_62000,62020-Technical Documentation,Store,+
+A_63520,A_63100,63520-Infrastructure Material,Store,+
+A_63530,A_63100,63530-Electricity / Water,Store,+
+A_63540,A_63100,63540-Parking Maintenance,Store,+
+Actions,WFP Mass Actions,<none>,Store,+
+New Entity,WFP Mass Actions,<none>,Store,+
+Jul1,WFP Periods,Jul-22,Store,+
+Sep1,WFP Periods,Sep-22,Store,+
+Dec1,WFP Periods,Dec-22,Store,+
+Nov2,WFP Periods,Nov-23,Store,+
+Average Service Length,Workforce Demand Drivers,<none>,Store,+
+FTE Demand,Labor Demand,<none>,Store,+
+Departures/Terminations,Hourly Staffing Details,<none>,Store,+
+A_63596,A_63100,63596-Other Tax,Store,+
+A_64400,A_64000,64400-Partner Fees,Store,+
+A_65210,A_65000,65210-Legal Fees,Store,+
+A_65600,A_65000,65600-Contractor Expenses,Store,+
+A_77300,A_77001,77300-Bad Debt Write-off,Store,+
+A_77700,A_77001,77700-Discounts earned,Store,+
+A_77800,A_77001,77800-Discounts unearned,Store,+
+A_78810,A_77001,78810-Exceptional Profits Current FY,Store,+
+A_78820,A_77001,78820-Exceptional Profits Previous FY,Store,+
+A_79200,A_79001,79200-Federal Income Tax,Store,+
+Activity Ratios,Ratios,<none>,Store,+
+Fixed Asset Turnover,Activity Ratios,<none>,Store,+
+Custom Ratios,Ratios,<none>,Store,+
+Principal Payment,Loan Assumptions,<none>,Store,+
+Disc Value,Rates,<none>,Store,+
+FTE Staffed Hours,Hourly Staffing Details,<none>,Store,+
+Overtime Required,Hourly Staffing Details,<none>,Store,+
+Total Regular Hours with Current Staff,Workforce Accts - Mfg Custom,<none>,Store,+
+Supply vs Demand FTE,Workforce Accts - Mfg Custom,<none>,Store,+
+OFS_Avg Airfare per Trip,OFS_Predefined Travel and Entertainment Drivers,null,Store,null
+OFS_Avg Airfare per Trip,OFS_Travel and Entertainment Expense Drivers,null,Store,null
+OFS_Predefined Expense Accounts,OFS_Expense Planning,null,Store,null
+OFS_Pension Plan,OFS_Total Benefits and Taxes,null,Store,null
+OFS_Pension Plan,OFS_Compensation Accounts,null,Store,null
+IsEmpty,System Members,null,Store,null
+Spread_Balance,System Members,null,Store,null
+Spread_544,System Members,null,Store,null
+OFS_Avg Selling Price,OFS_Revenue Drivers on Forms,null,Store,null
+OFS_Avg Selling Price,OFS_Product Revenue Drivers,null,Store,null
+OFS_Overhead %,OFS_Revenue Drivers on Forms,null,Store,null
+OFS_Overhead %,OFS_Predefined Cost of Sales Drivers,null,Store,null
+Service Charge Unit,IT Chargeback Drivers,<none>,Store,+
+Processing Power Mbps,IT Chargeback Drivers,<none>,Store,+
+OFS_Revenue Accounts,OFS_Predefined Revenue Accounts,null,Store,null
+OFS_Labor Expense,OFS_Cost of Sales Accounts,null,Store,null
+OFS_Labor Expense,OFS_Total Cost Of Sales,null,Store,null
+OFS_Labor Expense,OFS_Project Integration,null,Store,null
+Processing Power,IT Chargebacks,<none>,Store,+
+IT Spends Expense Drivers,OFS_Expense Drivers for Forms,<none>,Store,+
+OFS_Other Benefits,OFS_Project Integration,null,Store,null
+OFS_Other Benefits,OFS_Compensation Accounts,null,Store,null
+OFS_Other Benefits,OFS_Total Benefits and Taxes,null,Store,null
+OFS_Travel and Entertainment Expense Accounts,OFS_Predefined Expense Accounts,null,Store,null
+OFS_Other Selling Expense,OFS_Project Integration,null,Store,null
+OFS_Other Selling Expense,OFS_Selling Expense Accounts,null,Store,null
+OFS_Other Selling Expense,OFS_Total Selling Expense,null,Store,null
+OFS_Insurance,OFS_Total Facilities Expenses,null,Store,null
+OFS_Insurance,OFS_Facilities Expenses Accounts,null,Store,null
+OFS_Insurance,OFS_Capex FinStmt Integration,null,Store,null
+OFS_Outside Legal Fees,OFS_Professional Fees Accounts,null,Store,null
+OFS_Outside Legal Fees,OFS_Total Professional Fees,null,Store,null
+OFS_Depreciation,OFS_Depreciation and Amortization Accounts,null,Store,null
+OFS_Depreciation,OFS_Capex FinStmt Integration,null,Store,null
+OFS_Depreciation,OFS_Depreciation and Amortization,null,Store,null
+OFS_Balance Sheet Accounts on Forms,OFS_Balance Sheet Planning,null,Store,null
+OFS_Accumulated Amortization,OFS_Rolling Accounts Calculated,null,Store,null
+OFS_Accumulated Amortization,OFS_Capex FinStmt Integration,null,Store,null
+OFS_Accumulated Amortization,OFS_Fixed Asset Accounts,null,Store,null
+OFS_Accumulated Amortization,OFS_Accumulated Depreciation and Amortization,null,Store,null
+OFS_Current Year Retained Earnings,OFS_Equity Accounts,null,Store,null
+OFS_Current Year Retained Earnings,OFS_Rolling Accounts Calculated,null,Store,null
+OFS_Current Year Retained Earnings,OFS_Total Retained Earnings,null,Store,null
+OFS_Balance Sheet Other,OFS_Balance Sheet Accounts on Forms,null,Store,null
+OFS_Assets,OFS_Balance Sheet Other,null,Store,null
+"OFS_Intangible Assets Finite, Gross",OFS_Asset Accounts,null,Store,null
+"OFS_Intangible Assets Finite, Gross",OFS_Fixed Assets,null,Store,null
+"OFS_Intangible Assets Finite, Gross",OFS_Capex FinStmt Integration,null,Store,null
+OFS_Current Portion of Long Term Debt,OFS_Liability Accounts,null,Store,null
+OFS_Current Portion of Long Term Debt,OFS_Short Term Borrowings,null,Store,null
+OFS_Total Selling Expense,OFS_Total Other Expenses,null,Store,null
+IT Expenses,Total IT Expenses,<none>,Store,+
+OFS_Total Professional Fees,OFS_Total Other Expenses,null,Store,null
+Training Expenses,Total IT Spends,<none>,Store,+
+Client Maintenance,Total IT Spends,<none>,Store,+
+OFS_Net Income %,OFS_Income Statement KPIs,null,Store,null
+OFS_Sales and Marketing Expenses To Revenue,OFS_Income Statement KPIs,null,Store,null
+OFS_Balance Sheet Planning,OFS_Financials Accounts,null,Store,null
+OFS_Liability Accounts,OFS_Predefined Balance Sheet Accounts,null,Store,null
+OFS_Total Liabilities and Equity,OFS_Balance Sheet,null,Store,null
+OPF_Quantative Measure,OPF_Project Benefit Assumptions,null,Store,null
+OPF_Financial Benefits,OPF_Sources of Cash,null,Store,null
+OPF_Financial Benefits,OPF_Project Benefit Assumptions,null,Store,null
+OPF_Benefit Description,OPF_Project Benefit Assumptions,null,Store,null
+OPF_Non Financial Benefits,OPF_Project Benefit Assumptions,null,Store,null
+OPF_Financial Integration Accounts,OPF_Cross Module Integration,null,Store,null
+OPF_Total Other Expenses - Store,OPF_Project Expense Drivers,null,Store,null
+OPF_Cumulative Cash Outflow,OPF_Cash Flow KPIs,null,Store,null
+OPF_% Complete,OPF_EVM,null,Store,null
+OPF_EAC,OPF_EVM,null,Store,null
+OPF_ISAC,OPF_EVM,null,Store,null
+OPF_PM - Estimated Completion Date,OPF_EVM,null,Store,null
+OPF_Project Detail Information,OPF_Financial Review,null,Store,null
+OPF_Performance Metrics,OPF_Financial Review,null,Store,null
+A_25400,A_25000,25400-Withholding Tax Payable,Store,+
+A_26100,A_26000,26100-Longer Term Debt,Store,+
+A_26700,A_26000,26700-Product Warranty,Store,+
+A_29100,A_29000,29100-I/C Payable,Store,+
+A_30000,Liabilities and Owner's Equity,30000-Owner`s Equity,Store,+
+A_33150,A_30000,33150-Other Comprehensive Income (Gain/Loss),Store,+
+A_95011,Gross Margin,95011-Revenue,Store,+
+A_49901,A_40000,49901-Revenue - Document Clearing,Store,+
+A_50500,A_50100,50500-Expenses Burden,Store,+
+A_11101,A_11000,11101-USBNK Checking Account,Store,+
+A_11200,A_11000,11200-Cash,Store,+
+A_11503,A_11000,11503-Clearing USBNK2 Checking Account,Store,+
+A_12110,A_12000,12110-On Account Receipts,Store,+
+A_12130,A_12000,12130-Unidentified Receipts,Store,+
+A_12140,A_12000,12140-Unapplied Cash,Store,+
+A_13601,A_13000,13601-LOAN Loan Receivables,Store,+
+A_13603,A_13000,13603-LOAN TERM Term Loan Receivables,Store,+
+A_14720,A_14000,14720-WIP Material Overhead Value,Store,+
+A_14740,A_14000,14740-WIP Resource Value,Store,+
+A_15120,A_15100,15120-Buildings and Improvements,Store,+
+A_15130,A_15100,15130-Machinery and Equipment,Store,+
+A_15230,A_15200,15230-Right of Use Computer Hardware,Store,+
+A_15350,A_15300,15350-Goodwill,Store,+
+A_16600,A_16000,16600-Revaluation Reserve,Store,+
+A_17500,A_17000,17500-Long Term Investments,Store,+
+A_22185,A_22000,22185-Joint Venture Partner Contribution Account,Store,+
+A_23210,A_23000,23210-FICA Employer Withheld,Store,+
+A_23510,A_23000,23510-Accrued Sick,Store,+
+A_59510,A_59000,59510-Project Inventory  Cost,Store,+
+A_60110,A_60100,60110-Salaries,Store,+
+A_60120,A_60100,60120-Holidays Paid,Store,+
+A_60200,A_60000,60200-Other Employee Benefits,Store,+
+A_60510,A_60500,60510-Taxis/parking/other,Store,+
+A_60550,A_60500,60550-Travel Agency,Store,+
+A_62510,A_62000,62510-Freight Expenses on Purchases,Store,+
+A_62530,A_62000,62530-Freight Expenses on Admin,Store,+
+A_62540,A_62000,62540-Warehousing,Store,+
+A_63130,A_63100,63130-Gifts,Store,+
+A_63150,A_63100,63150-Tradeshow Space Rental,Store,+
+New Job,WFP Mass Actions,<none>,Store,+
+Feb1,WFP Periods,Feb-22,Store,+
+Nov1,WFP Periods,Nov-22,Store,+
+Oct2,WFP Periods,Oct-23,Store,+
+May3,WFP Periods,May-24,Store,+
+Net Productive Time,Workforce Accts - Custom,Default Net Daily Productive Time,Store,+
+FTE Over/(Under) Staffed,Labor Demand,<none>,Store,+
+Overtime Cap,Workforce Accts - Custom,Overtime Cap per Month,Store,+
+Overtime Cap,Hourly Staffing Details,Overtime Cap per Month,Store,+
+A_65110,A_65000,65110-Professional Fees - All others,Store,+
+A_65420,A_65000,65420-HR Recruiting  Fees,Store,+
+A_68170,A_68000,68170-Depreciation Office Equipment,Store,+
+A_77001,A_70000,77001-Extraordinaries,Store,+
+A_78510,A_77001,78510-Gain on Retirement-Proceeds of Sale,Store,+
+A_78520,A_77001,78520-Loss on Retirement-Proceeds of Sale,Store,+
+A_78610,A_77001,78610-Realised Gain,Store,+
+A_79300,A_79001,79300-State Income Tax,Store,+
+Gross Margin %,Profit Performance Ratios,<none>,Store,+
+Return on Sales,Profit Performance Ratios,<none>,Store,+
+Debt to Capital,Leverage Ratios,<none>,Store,+
+Days in Receivables,Activity Ratios,<none>,Store,+
+SG&A Expense to Revenue,Custom Ratios,<none>,Store,+
+Compensation Expense to Revenue,Custom Ratios,<none>,Store,+
+Workforce - Mass Hiring,Workforce Custom Accounts,<none>,Store,~
+Override Job Default Salary Basis,Workforce - Mass Hiring,<none>,Store,+
+Total Adjusted Staffed FTE,Hourly Staffing Details,<none>,Store,+
+Temp Staffed Hours,Temp Hourly Staffing,<none>,Store,+
+Temp FTE,Temp Hourly Staffing,<none>,Store,+
+Temp FTE,Total FTE Supply,<none>,Store,+
+I/C Accounts Payable,OFS_Total Current Liabilities,<none>,Store,+
+OFS_Balance Sheet KPIs,OFS_Balance Sheet Planning,null,Store,null
+OWP_Merit Month,OWP_Workforce Planning Accounts for Forms,null,Store,null
+OWP_Merit Month,OWP_Dynamic Properties,null,Store,null
+OWP_Employee Type,OWP_Workforce Planning Accounts for Forms,null,Store,null
+OWP_Employee Type,OWP_Dynamic Properties,null,Store,null
+OWP_FTE,OWP_Dynamic Properties,null,Store,null
+OWP_FTE,OWP_Workforce Planning Accounts for Forms,null,Store,null
+OWP_FTE,OWP_Workforce Project Integration Accounts,null,Store,null
+OWP_Highest Education Degree,OWP_Employee Demographics,null,Store,null
+OWP_Contractor Headcount,OWP_Total Headcount,null,Store,null
+OWP_Reconciled FTE,OWP_Workforce Planning Assumptions,null,Store,null
+OWP_FTE Variance,OWP_Workforce Planning Assumptions,null,Store,null
+OWP_Tier3,OWP_Tiers,null,Store,null
+OWP_Default Merit,OWP_Merit Rates,null,Store,null
+OFS_Change in Accounts Receivable,OFS_Indirect Method Accounts,null,Store,null
+OFS_Change in Accounts Receivable,OFS_Changes in Operating Assets and Liabilities,null,Store,null
+OFS_Indirect Cash Flow Statement,OFS_Cash Planning,null,Store,null
+OFS_Cash Flow from Operating Activities,OFS_Net Cash Flow,null,Store,null
+OFS_Dividends Paid,OFS_Net Cash from Financing Activities,null,Store,null
+OFS_Cash Flow Check,OFS_Indirect Cash Flow Statement,null,Store,null
+OFS_NPV,OFS_Cash Flow KPIs,null,Store,null
+OWP_Cut-off Date,OWP_Employee Properties,null,Store,null
+OWP_Hiring Status,OWP_Employee Properties,null,Store,null
+OWP_Dynamic Properties,OWP_Employee Properties,null,Store,null
+OWP_Basic Salary,Total  Salary,null,Store,null
+OWP_Basic Salary,OWP_Total Salary,null,Store,null
+OWP_Total Earnings,OWP_Total Compensation,null,Store,null
+OWP_Earning5,OWP_Total Earnings,null,Store,null
+OWP_Earning8,OWP_Total Earnings,null,Store,null
+OWP_Tax2,OWP_Total Taxes,null,Store,null
+OWP_Off Site Standard Billing Rate,OWP_Labor Standard Rate Assumptions,null,Store,null
+OWP_Onsite Labor Hours,OWP_Total Labor Hours,null,Store,null
+OWP_Labor Expense - Billable,OWP_Allocated Project Expense,null,Store,null
+OCX_Maintenance,OCX_Intangible Expenses,null,Store,null
+OCX_Maintenance,OCX_Capital Operating Expenses,null,Store,null
+OCX_Maintenance,OCX_Fixed Assets Related Expenses,null,Store,null
+OCX_Maintenance,OCX_Lease Asset Expenses,null,Store,null
+OCX_Maintenance,OCX_Tangible Expenses,null,Store,null
+OCX_Maintenance,OCX_Finstatement Accounts for Assets,null,Store,null
+OCX_Repairs,OCX_Tangible Expenses,null,Store,null
+OCX_Repairs,OCX_Finstatement Accounts for Assets,null,Store,null
+OCX_Repairs,OCX_Finstatement Accounts for Lease Assets,null,Store,null
+OCX_Repairs,OCX_Capital Operating Expenses,null,Store,null
+OCX_Repairs,OCX_Fixed Assets Related Expenses,null,Store,null
+OCX_Repairs,OCX_Lease Asset Expenses,null,Store,null
+OCX_Accumulated Depreciation,OCX_Finstatement Accounts for Lease Assets,null,Store,null
+OCX_Accumulated Depreciation,OCX_Finstatement Accounts for Assets,null,Store,null
+OCX_Accumulated Depreciation,"OCX_Property, Plant, and Equipment Net",null,Store,null
+OCX_Cash Inflow from Funding,OCX_Finstatement Accounts for Assets,null,Store,null
+OCX_Cash Inflow from Funding,OCX_Finstatement Accounts for Intangible Assets,null,Store,null
+OCX_Cash Inflow from Funding,OCX_Capital Cash Flow Impact,null,Store,null
+OCX_Finstatement Accounts for Intangible Assets,OCX_Finstatement Expenses,null,Store,null
+OCX_Long Term Debt: Lease Obligation,OCX_Finstatement Accounts for Lease Assets,null,Store,null
+OCX_Long Term Debt: Lease Obligation,OCX_Liabilities,null,Store,null
+OCX_Interest,OCX_Capital Ownership Costs,null,Store,null
+OCX_Interest,OCX_Expenses - Capital,null,Store,null
+OCX_Interest,OCX_Finstatement Accounts for Lease Assets,null,Store,null
+OCX_Required Tangible Cost Assumptions,OCX_Tangible Asset Cost Drivers,null,Store,null
+OCX_Tax Amount,OCX_Custom Tangible Cost Assumptions,null,Store,null
+OCX_Tax Amount,OCX_Fixed Assets Related Expenses,null,Store,null
+OCX_Tax Amount,OCX_Tangible Expenses,null,Store,null
+OCX_Low Value Lease Term (in Months),OCX_Tangible Capital Global Assumptions,null,Store,null
+OCX_Intangible Capital Global Assumptions,OCX_Capital Global Assumptions,null,Store,null
+OCX_Delayed Start Date,OCX_Custom Date Assumptions,null,Store,null
+OCX_Reason ended,OCX_Custom Date Assumptions,null,Store,null
+OCX_Asset Control Properties,OCX_Asset Properties,null,Store,null
+OCX_Asset Requisition Status,OCX_Asset Control Properties,null,Store,null
+OCX_Salvage Input,OCX_Asset Cost Assumptions,null,Store,null
+OCX_Cash Flow Allocator,OCX_Capital Assumptions,null,Store,null
+OCX_Funding %,OCX_Cash Flow and Funding Assumptions,null,Store,null
+OCX_Liabilities,OCX_Balance Sheet Impact,null,Store,null
+OCX_Asset Retirement Liability,OCX_Liabilities,null,Store,null
+OCX_Intangible Expense Drivers,OCX_Intangible Asset Planning,null,Store,null
+OCX_Leased Asset General Assumptions,OCX_Leased Asset Assumptions,null,Store,null
+OCX_Lease Date,OCX_ Required Leased Assets General Assumptions,null,Store,null
+OCX_Estimated Useful Life (Years),OCX_ Required Leased Assets General Assumptions,null,Store,null
+OPF_Assignment Location,OPF_Custom Labor Assumptions,null,Store,null
+OPF_Assignment Type,OPF_Revenue Drivers Read Only,null,Store,null
+OPF_Assignment Type,OPF_T&M Labor Assumptions,null,Store,null
+OPF_Expense Cash Flow Incidence,OPF_Required Material Assumptions,null,Store,null
+OPF_Expense Cash Flow Incidence,OPF_Required Other Expense Assumptions,null,Store,null
+OPF_Expense Cash Flow Incidence,OPF_Basic Expense Assumptions,null,Store,null
+OPF_Direct Input Expense Assumptions,OPF_Expense Drivers on Forms,null,Store,null
+OPF_Expense Type,OPF_Direct Input Expense Assumptions,null,Store,null
+OPF_Capital Expenses,OPF_Capital Project Assumptions,null,Store,null
+OPF_Asset Class,OPF_Capital Project Assumptions,null,Store,null
+OPF_T&M Assumptions,OPF_Expense Drivers on Forms,null,Store,null
+OPF_Material Expense Detail,OPF_Expense Details Entered,null,Store,null
+OPF_Units,OPF_Material Expense Detail,null,Store,null
+OPF_Direct Expense Amount,OPF_Direct Entry Detail,null,Store,null
+OCX_Implicit Interest Rate,OCX_ Required Leased Assets General Assumptions,null,Store,null
+OCX_Asset Cost per Unit/Month,OCX_Per Unit Cost Detail,null,Store,null
+OPF_Project Assumptions,Accounts - Project,null,Store,null
+OPF_Override Standard Labor Rates,OPF_Required Properties,null,Store,null
+OPF_Override Standard Labor Rates,OPF_Project Required Properties,null,Store,null
+OPF_Override Standard Equipment Rates,OPF_Required Properties,null,Store,null
+OPF_Override Standard Equipment Rates,OPF_Project Required Properties,null,Store,null
+OPF_Source Name,OPF_Capital Project Properties,null,Store,null
+OPF_Revenue Cash Flow Incidence,OPF_Revenue Project Properties,null,Store,null
+OPF_Revenue Cash Flow Incidence,OPF_Project Required Properties,null,Store,null
+OPF_Labor Standard Hourly Cost,OPF_Labor Standard Rate Assumptions,null,Store,null
+OPF_Equipment Standard Billing Rate,OPF_Equipment Standard Rate Assumptions,null,Store,null
+OPF_Project Range,OPF_Basic Expense Assumptions,null,Store,null
+OPF_Line Item Start Date,OPF_Basic Expense Assumptions,null,Store,null
+OPF_Material UOM,OPF_Basic Expense Assumptions,null,Store,null
+OPF_Material UOM,OPF_Unit of Measure,null,Store,null
+OPF_Total Equipment Expense,OPF_Direct Expenses,null,Store,null
+OPF_Total Equipment Expense,OPF_Expense Total,null,Store,null
+OPF_Total Equipment Expense,OPF_Cost Plus Drivers,null,Store,null
+OPF_Total Equipment Expense,OPF_Uses of Cash,null,Store,null
+OPF_Equipment Expense,OPF_Project Expense Drivers,null,Store,null
+OPF_Equipment Expense,OPF_Total Equipment Expense,null,Store,null
+OPF_Equipment Expense,OPF_Financial Integration Accounts,null,Store,null
+OPF_Equipment Expense,OPF_Capital Project Integration,null,Store,null
+OPF_Equipment Expense,OPF_Total Non Billable Expenses,null,Store,null
+OPF_Other Direct Costs,OPF_Total Other Direct Costs,null,Store,null
+OPF_Other Direct Costs,OPF_Direct Expenses,null,Store,null
+OPF_Other Direct Costs,OPF_Uses of Cash,null,Store,null
+OPF_Engineering Overhead,OPF_Financial Integration Accounts,null,Store,null
+OPF_Engineering Overhead,OPF_Total Overheads,null,Store,null
+OPF_Revenue Recognition Assumptions,OPF_Required Revenue Assumptions,null,Store,null
+OPF_Revenue Recognition %,OPF_Revenue Recognition Assumptions,null,Store,null
+OPF_Total Expenses - Store,OPF_Project Expense Drivers,null,Store,null
+OPF_Total Non Billable Expenses,OPF_Contract Project Expense,null,Store,null
+OPF_Project Expense Drivers,OPF_Cross Module Integration,null,Store,null
+OPF_Project Expense Drivers,OPF_Capital Project Analysis,null,Store,null
+OPF_Discounting Factor,OPF_Cash Flow KPIs,null,Store,null
+OPF_When Period,OPF_Revenue Recognition Assumptions,null,Store,null
+OPF_Revenue Drivers Read Only,OPF_Revenue Drivers on Forms,null,Store,null
+OPF_Contract Revenue - Time and Material,OPF_Contract Revenue,null,Store,null
+OPF_Project Benefit Assumptions,Accounts - Project,null,Store,null
+OPF_User Base,OPF_Total Non Financial Benefits,null,Store,null
+OPF_On Site Labor Billing Rate,OPF_Time and Material Assumptions,null,Store,null
+OPF_On Site Labor Billing Rate,OPF_Revenue Entered Drivers,null,Store,null
+OPF_Direct Input Revenue Assumptions,OPF_Required Revenue Assumptions,null,Store,null
+OPF_Total Travel - Store,OPF_Project Expense Drivers,null,Store,null
+OPF_Total Overheads - Store,OPF_Project Expense Drivers,null,Store,null
+OPF_Expense Total,OPF_Expense Reporting,null,Store,null
+OPF_Billable Hours,OPF_Total Labor Hours,null,Store,null
+OPF_Billable Hours,OPF_Revenue KPIs,null,Store,null
+OPF_Total Investment,OPF_KPIs,null,Store,null
+OPF_Total Investment,OPF_Performance Metrics,null,Store,null
+OPF_Total Investment,OPF_KPIs on Forms,null,Store,null
+OPF_Total Revenue and Benefits,OPF_KPIs,null,Store,null
+OPF_Revenue Drivers on Forms,OPF_Revenue Assumptions,null,Store,null
+OPF_Contract Revenue - Cost Plus,OPF_Contract Revenue,null,Store,null
+OPF_Contract Revenue - Cost Plus,OPF_Financial Integration Accounts,null,Store,null
+OPF_Contract Revenue - Equipment,OPF_Financial Integration Accounts,null,Store,null
+OPF_Contract Revenue - Equipment,OPF_Contract Revenue - Time and Material,null,Store,null
+OPF_Maintenance Revenue,OPF_Services,null,Store,null
+OPF_Maintenance Revenue,OPF_Financial Integration Accounts,null,Store,null
+OPF_Financial Benefit Amount,OPF_Project Benefit Assumptions,null,Store,null
+OPF_Project Benefit,OPF_Impact on Financial Statements,null,Store,null
+OPF_Project Benefit,OPF_Financial Performance Measures,null,Store,null
+OPF_Workforce Project Integration Accounts,OPF_Cross Module Integration,null,Store,null
+OPF_NPV,OPF_Cash Flow KPIs,null,Store,null
+OPF_NPV,OPF_KPIs on Forms,null,Store,null
+OPF_BAC,OPF_EVM,null,Store,null
+OPF_Estimated Completion Date,OPF_EVM,null,Store,null
+A_24000,A_20000,24000-Accrued Expense and Deferred Income,Store,+
+A_24610,A_24000,24610-Unpaid claims and adjustment expenses,Store,+
+A_25200,A_25000,25200-State Sales and Use Tax Payable,Store,+
+A_29000,A_20000,29000-I/C Payable,Store,+
+A_35000,A_30000,35000-Cumulative Translation Adjustment,Store,+
+A_39999,A_30000,39999-Minority Interest Equity,Store,+
+Pretax Income,A_95001,<none>,Store,+
+A_40000,A_95011,40000-Revenues,Store,+
+A_41100,A_40000,41100-Revenue Hardware,Store,+
+A_44000,A_40000,44000-Revenue - Intra-EU,Store,+
+A_47000,A_40000,47000-Revenue - Miscellaneous,Store,+
+A_48100,A_40000,48100-Earned Premiums,Store,+
+A_49000,A_40000,49000-Revenue - Unallocated,Store,+
+A_51100,A_50100,51100-Cost of Goods Sold,Store,+
+Financial Drivers,A_All_Corp_Acct_V1,<none>,Store,+
+A_12000,A_10000,12000-Accounts Receivables,Store,+
+A_12104,A_12000,12104-Revenue Clearing,Store,+
+A_12145,A_12000,12145-Cash Clearing,Store,+
+A_12170,A_12000,12170-Confirmed Receipts,Store,+
+A_13000,A_10000,13000-Other Receivables,Store,+
+A_13100,A_13000,13100-Interest Receivable,Store,+
+A_14300,A_14000,14300-Inventory Overhead Value,Store,+
+OPF_Expense Details,OPF_Expense Assumptions,null,Store,null
+OPF_Cost/Unit,OPF_Expense Calculated,null,Store,null
+OCX_Low Value Override,OCX_ Required Leased Assets General Assumptions,null,Store,null
+OCX_Leased Asset Cost Assumptions,OCX_Leased Asset Assumptions,null,Store,null
+OCX_PV of Lease,OCX_Required Leased Asset Cost Assumptions,null,Store,null
+OCX_Down Payment,OCX_Required Leased Asset Cost Assumptions,null,Store,null
+OCX_Capital Expense Variance %,OCX_KPIs,null,Store,null
+OPF_Project Status,OPF_Project Detail Information,null,Store,null
+OPF_Project Status,OPF_Project Required Properties,null,Store,null
+OPF_Project Status,OPF_Required Properties,null,Store,null
+OPF_Project Location,OPF_Additional Properties,null,Store,null
+OPF_Project Read Only Properties,OPF_Properties on Forms,null,Store,null
+OPF_Duration (In Days),OPF_Basic Line Item Field,null,Store,null
+OPF_Equipment Standard Cost,OPF_Equipment Standard Rate Assumptions,null,Store,null
+OPF_Material Expense - Billable,OPF_Total Material Expense,null,Store,null
+OPF_Material Expense - Billable,OPF_Project Expense Drivers,null,Store,null
+OPF_Material Expense - Billable,OPF_Total Billable Expenses,null,Store,null
+OPF_Material Expense - Billable,OPF_Financial Integration Accounts,null,Store,null
+OPF_Miscellaneous Expense,OPF_Other Direct Costs,null,Store,null
+OPF_Miscellaneous Expense,OPF_Financial Integration Accounts,null,Store,null
+OPF_Miscellaneous Expense,OPF_Project Expense Drivers,null,Store,null
+OPF_Total Overheads,OPF_Indirect Expenses,null,Store,null
+OPF_Facilities Allocation,OPF_Financial Integration Accounts,null,Store,null
+OPF_Facilities Allocation,OPF_Total Overheads,null,Store,null
+OPF_Information Systems Overhead,OPF_Total Overheads,null,Store,null
+OPF_Information Systems Overhead,OPF_Financial Integration Accounts,null,Store,null
+OPF_Fringe Overhead,OPF_Total Overheads,null,Store,null
+OPF_Fringe Overhead,OPF_Financial Integration Accounts,null,Store,null
+OPF_Corporate General and Administrative,OPF_Total General and Administrative Expenses,null,Store,null
+OPF_Corporate General and Administrative,OPF_Financial Integration Accounts,null,Store,null
+OPF_Recognized Revenue,OPF_Revenue Recognition Assumptions,null,Store,null
+OPF_Revenue Recognition Indicator,OPF_Revenue Recognition Assumptions,null,Store,null
+OPF_Project Measures,Accounts - Project,null,Store,null
+OPF_Total Billable Expenses,OPF_Contract Project Expense,null,Store,null
+OPF_Project Profitability,OPF_Revenue KPIs,null,Store,null
+OPF_Project Profitability,OPF_Impact on Financial Statements,null,Store,null
+OPF_Project Profitability,OPF_Financial Performance Measures,null,Store,null
+OPF_Contract Revenue,OPF_Total Revenue,null,Store,null
+OPF_Contract Revenue - Subcontracts,OPF_Contract Revenue - Time and Material,null,Store,null
+OPF_Contract Revenue - Material,OPF_Financial Integration Accounts,null,Store,null
+OPF_Contract Revenue - Material,OPF_Contract Revenue - Time and Material,null,Store,null
+OPF_Employee Satisfaction Index,OPF_Total Non Financial Benefits,null,Store,null
+OPF_Impact on Financial Statements,Accounts - Project,null,Store,null
+OPF_Cash from Financing Activities,OPF_Sources of Cash,null,Store,null
+OPF_Equipment Operating Expenses,OPF_Uses of Cash,null,Store,null
+OPF_Cumulative Cash Inflow,OPF_Cash Flow KPIs,null,Store,null
+OPF_Financial Performance Measures,OPF_Financial Review,null,Store,null
+A_23900,A_23000,23900-Payroll Clearing,Store,+
+A_24510,A_24000,24510-Contract Liability for Performance Obligations,Store,+
+A_25100,A_25000,25100-Property Tax Payable,Store,+
+Gross Margin,Pretax Income,<none>,Store,+
+A_41000,A_40000,41000-Revenue - Domestic,Store,+
+A_49100,A_40000,49100-Revenue - Unbilled,Store,+
+A_49902,A_40000,49902-Revenue - MEA Carve-out Clearing,Store,+
+A_50300,A_50100,50300-Chargeback Burden,Store,+
+OPF_Effective Discount Rate,OPF_Project Measures,null,Store,null
+Balance Sheet,A_T,<none>,Store,+
+A_10000,Balance Sheet,10000-Assets,Store,+
+A_12102,A_12000,12102-Accounts Receivable (Low Risk),Store,+
+A_12103,A_12000,12103-Accounts Receivable (High Risk),Store,+
+A_12111,A_12000,12111-Accounts Receivable - JVM,Store,+
+A_12120,A_12000,12120-Unapplied Receipts,Store,+
+A_13300,A_13000,13300-VAT Receivable,Store,+
+A_13400,A_13000,13400-Withholding Tax Receivable,Store,+
+A_13500,A_13000,13500-Prepayments,Store,+
+A_14500,A_14000,14500-Inventory Outside Processing Value,Store,+
+A_15100,A_15000,15100-Tangible Fixed Assets,Store,+
+A_15110,A_15100,15110-Land,Store,+
+A_15140,A_15100,15140-Furnitures & Fixtures,Store,+
+A_15160,A_15100,15160-Computers and Software,Store,+
+A_15250,A_15200,15250-Right of Use Vehicle Standard,Store,+
+A_15300,A_15000,15300-Intangible Assets,Store,+
+A_15500,A_15300,15500-Leased Assets,Store,+
+A_16220,A_16200,16220-Accum. Depr. Right of Use Buildings,Store,+
+A_16700,A_16000,16700-Revaluation Amortization,Store,+
+A_21000,A_20000,21000-Short Term Payables,Store,+
+A_22110,A_22000,22110-Accounts Payables (Third Party Ctr Acct),Store,+
+A_22180,A_22000,22180-Interest Payable,Store,+
+A_22210,A_22000,22210-Accrued Receipts,Store,+
+A_23300,A_23000,23300-State Income Tax Withheld,Store,+
+A_23500,A_23000,23500-Accrued Salaries & Wages,Store,+
+A_23600,A_23000,23600-Other Payroll Withholdings Payable,Store,+
+A_52150,A_50100,52150-Invoice Price Variance,Store,+
+A_59110,A_59000,59110-Project Labor Cost,Store,+
+A_59920,A_59000,59920-Project Burden Clearing,Store,+
+A_60000,A_95021,60000-Operating Expenses,Store,+
+A_60111,A_60100,60111-Other part of Salaries,Store,+
+A_60112,A_60100,60112-Personnel Lent / other Subsidiary,Store,+
+A_60531,A_60500,60531-Hotel / Invoices,Store,+
+A_63100,A_60000,63100-Other Purchases and Supplies,Store,+
+A_63120,A_63100,63120-Marketing,Store,+
+A_63180,A_63100,63180-Advertising,Store,+
+A_63551,A_63100,63551-Movables Leasing,Store,+
+Changed,WFP Mass Actions,<none>,Store,+
+Jan2,WFP Periods,Jan-23,Store,+
+Feb2,WFP Periods,Feb-23,Store,+
+May2,WFP Periods,May-23,Store,+
+Feb3,WFP Periods,Feb-24,Store,+
+Apr3,WFP Periods,Apr-24,Store,+
+Labor Demand,Workforce Accts - Custom,<none>,Store,+
+Overtime Hours,Hourly Staffing Details,<none>,Store,+
+A_63595,A_63100,63595-Property Tax,Store,+
+A_64510,A_64000,64510-Communications costs,Store,+
+A_64570,A_64000,64570-Bank Charges,Store,+
+A_65120,A_65000,65120-Other Studies excl. Marketing,Store,+
+A_68150,A_68000,68150-Depreciation Vehicles,Store,+
+A_68190,A_68000,68190-Depreciation Intangible Assets,Store,+
+A_68270,A_68000,68270-Depreciation on ROU Office Equipment,Store,+
+Allocations In,Allocations,<none>,Store,+
+A_78210,A_77001,78210-Interest Expenses,Store,+
+Loan Amount,Loan Assumptions,<none>,Store,+
+Total Operating Expenses,Cash Flow Members,<none>,Store,+
+Total Cash Out Flows,Cash Flow Members,<none>,Store,+
+Mileage,Total  Benefits,<none>,Store,+
+Total  Taxes,Total  Compensation,<none>,Store,+
+Client Maintenance Cost per Machine,IT Spends Expense Drivers,<none>,Store,+
+Training Cost per Headcount,IT Spends Expense Drivers,<none>,Store,+
+OFS_Meal Expense %,OFS_Travel and Entertainment Expense Drivers,null,Store,null
+OFS_Meal Expense %,OFS_Predefined Compensation Drivers,null,Store,null
+OFS_Marketing Expense Drivers,OFS_Expense Drivers for Forms,null,Store,null
+OFS_Cost Per Event,OFS_Predefined Marketing Drivers,null,Store,null
+OFS_Cost Per Event,OFS_Marketing Expense Drivers,null,Store,null
+OFS_Number of Advertisements,OFS_Marketing Expense Drivers,null,Store,null
+OFS_Number of Advertisements,OFS_Predefined Marketing Drivers,null,Store,null
+OFS_Cost per Advertisement,OFS_Marketing Expense Drivers,null,Store,null
+OFS_Cost per Advertisement,OFS_Predefined Marketing Drivers,null,Store,null
+OFS_Other Marketing %,OFS_Marketing Expense Drivers,null,Store,null
+OFS_Other Marketing %,OFS_Predefined Marketing Drivers,null,Store,null
+TP-Days,System Members,null,Store,null
+isExpenseLineUsed,System Members,null,Store,null
+Cost Plus Driver Count,System Members,null,Store,null
+Forecast Data Present,System Members,null,Store,null
+OFS_Revenue Planning,OFS_Financials Accounts,null,Store,null
+OFS_Other Revenue,OFS_Total Revenue,null,Store,null
+OFS_Other Revenue,OFS_Project Integration,null,Store,null
+OFS_Other Revenue,OFS_Revenue Accounts,null,Store,null
+OFS_Material,OFS_Total Cost Of Sales,null,Store,null
+OFS_Material,OFS_Cost of Sales Accounts,null,Store,null
+OFS_Material,OFS_Project Integration,null,Store,null
+I/C Revenue,OFS_Total Revenue,<none>,Store,+
+OFS_Revenue KPIs,OFS_Revenue Planning,null,Store,null
+OFS_Common Expense Drivers,OFS_Predefined Expense Drivers,null,Store,null
+OFS_Expense Drivers for Forms,OFS_Expense Drivers,null,Store,null
+Support Calls,IT Spends Expense Drivers,<none>,Store,+
+OFS_Meals,OFS_Total Travel and Entertainment Expense,null,Store,null
+OFS_Meals,OFS_Travel and Entertainment Expense Accounts,null,Store,null
+OFS_Marketing Expense Accounts,OFS_Predefined Expense Accounts,null,Store,null
+OPF_Material Standard Rate Assumptions,OPF_Standard Rates,null,Store,null
+OPF_Spread Start Date,OPF_Basic Expense Assumptions,null,Store,null
+OPF_Equipment UOM,OPF_Basic Expense Assumptions,null,Store,null
+OPF_Equipment UOM,OPF_Unit of Measure,null,Store,null
+OPF_Onsite Labor Expense,OPF_Labor Expense - Billable,null,Store,null
+OPF_Onsite Labor Expense,OPF_Financial Integration Accounts,null,Store,null
+OPF_Onsite Labor Expense,OPF_Overhead Drivers,null,Store,null
+OPF_Onsite Labor Expense,OPF_Project Expense Drivers,null,Store,null
+OPF_Total Travel,OPF_Other Direct Costs,null,Store,null
+OPF_General and Administrative,OPF_Total General and Administrative Expenses,null,Store,null
+OPF_General and Administrative,OPF_Financial Integration Accounts,null,Store,null
+OPF_Overhead Drivers,OPF_Project Expense Planning,null,Store,null
+OPF_Direct Expenses - Store,OPF_Overhead Drivers,null,Store,null
+OPF_Direct Expenses - Store,OPF_Project Expense Drivers,null,Store,null
+OPF_Total Labor Expense - Store,OPF_Overhead Drivers,null,Store,null
+OPF_Total Labor Expense - Store,OPF_Project Expense Drivers,null,Store,null
+OPF_Total Equipment Expense - Store,OPF_Overhead Drivers,null,Store,null
+OPF_Total Equipment Expense - Store,OPF_Project Expense Drivers,null,Store,null
+OPF_Cost Plus Revenue Assumptions,OPF_Required Revenue Assumptions,null,Store,null
+OPF_Cost Plus Margin %,OPF_Revenue Drivers,null,Store,null
+OPF_Cost Plus Margin %,OPF_Cost Plus Revenue Assumptions,null,Store,null
+OPF_Cost Plus Margin %,OPF_Revenue Entered Drivers,null,Store,null
+OPF_Equipment Billing Rate,OPF_Time and Material Assumptions,null,Store,null
+OPF_Equipment Billing Rate,OPF_Revenue Entered Drivers,null,Store,null
+OPF_Revenue Type,OPF_Direct Input Revenue Assumptions,null,Store,null
+OPF_Revenue Type,OPF_Revenue Drivers,null,Store,null
+OPF_Billable %,OPF_Contract Project Analysis,null,Store,null
+OPF_Billable %,OPF_Revenue KPIs,null,Store,null
+OPF_Labor Analysis,OPF_Expense Reporting,null,Store,null
+OPF_Utilization,OPF_Labor Analysis,null,Store,null
+OPF_Revenue Entered Drivers,OPF_Revenue Drivers on Forms,null,Store,null
+OPF_Contract Revenue - Fixed Price,OPF_Contract Revenue,null,Store,null
+OPF_Contract Revenue - Fixed Price,OPF_Financial Integration Accounts,null,Store,null
+OPF_Other Revenues,OPF_Financial Integration Accounts,null,Store,null
+OPF_Other Revenues,OPF_Total Benefits,null,Store,null
+OPF_Other Revenues,OPF_Services,null,Store,null
+OPF_Project Fixed Assets,OPF_Project Assets,null,Store,null
+OPF_Sources of Cash,OPF_Project Cash Flow,null,Store,null
+OPF_Capital Project Integration,OPF_Cross Module Integration,null,Store,null
+OPF_Labor Expense - Billable - Store,OPF_Project Expense Drivers,null,Store,null
+OPF_ACWP,OPF_EVM,null,Store,null
+OPF_SPI,OPF_EVM,null,Store,null
+OPF_Financial Review,OPF_Project Measures,null,Store,null
+A_23700,A_23000,23700-Other Employer Taxes Payable,Store,+
+A_24520,A_24000,24250-Contract Discount,Store,+
+A_25210,A_25000,25210-Accrued Taxes,Store,+
+A_26200,A_26000,26200-Lease Liability,Store,+
+A_32000,A_30000,32000-Paid in Capital,Store,+
+A_33300,A_30000,33300-Temporary Close Account,Store,+
+A_42000,A_40000,42000-Revenue - International,Store,+
+A_46000,A_40000,46000-Revenue - Services,Store,+
+A_50400,A_50100,50400-Contractor Burden,Store,+
+A_52110,A_50100,52110-Purchase Price Variance,Store,+
+FX Rates - Average,Exchange Rates,<none>,Store,~
+A_11000,A_10000,11000-Cash and Short Term Investment,Store,+
+A_15310,A_15300,15310-Intangible Assets,Store,+
+A_15920,A_15300,15920-Lease Clearing,Store,+
+A_16120,A_16000,16120-Accum. Depr. Buildings and Improvements,Store,+
+OFS_Marketing Events,OFS_Marketing Expense Accounts,null,Store,null
+OFS_Marketing Events,OFS_Total Marketing Expense,null,Store,null
+OFS_Repairs and Maintenance,OFS_Facilities Expenses Accounts,null,Store,null
+OFS_Repairs and Maintenance,OFS_Total Facilities Expenses,null,Store,null
+OFS_Repairs and Maintenance,OFS_Capex FinStmt Integration,null,Store,null
+OFS_Repairs and Maintenance,OFS_Project Integration,null,Store,null
+OFS_FOG Expense,OFS_Capex FinStmt Integration,null,Store,null
+OFS_FOG Expense,OFS_Facilities Expenses Accounts,null,Store,null
+OFS_FOG Expense,OFS_Total Facilities Expenses,null,Store,null
+OFS_Other Outside Services,OFS_Total Outside Services,null,Store,null
+OFS_Other Outside Services,OFS_Outside Services Accounts,null,Store,null
+OFS_Other Outside Services,OFS_Project Integration,null,Store,null
+OFS_Recruitment Fees,OFS_Professional Fees Accounts,null,Store,null
+OFS_Recruitment Fees,OFS_Total Professional Fees,null,Store,null
+OFS_Office Expense Accounts,OFS_Predefined Expense Accounts,null,Store,null
+OFS_Interest (Income)/Expense,OFS_Capex FinStmt Integration,null,Store,null
+OFS_Interest (Income)/Expense,OFS_Other Income and Expense Accounts,null,Store,null
+OFS_Interest (Income)/Expense,OFS_Other (Income)/Expense,null,Store,null
+OFS_Total Marketing Expense,OFS_Operating Expenses,null,Store,null
+OFS_Total Other Expenses,OFS_Operating Expenses,null,Store,null
+OFS_Other Cash,OFS_Asset Accounts,null,Store,null
+OFS_Other Cash,OFS_Cash,null,Store,null
+OFS_Other Cash,OFS_Assets,null,Store,null
+OFS_Long Term Investments,OFS_Asset Accounts,null,Store,null
+OFS_Long Term Investments,OFS_Non Current Assets,null,Store,null
+OFS_Fixed Assets,OFS_Assets,null,Store,null
+OFS_Fixed Assets,OFS_Net Fixed Assets,null,Store,null
+OFS_Liabilities,OFS_Balance Sheet Other,null,Store,null
+OFS_Short Term Borrowings,OFS_Liabilities,null,Store,null
+OFS_Short Term Borrowings,OFS_Total Current Liabilities,null,Store,null
+OFS_Other Long Term Liabilities,OFS_Total Non Current Liabilities,null,Store,null
+OFS_Other Long Term Liabilities,OFS_Liability Accounts,null,Store,null
+OFS_Total Receivables,OFS_Total Current Assets,null,Store,null
+OFS_Total Outside Services,OFS_Total Other Expenses,null,Store,null
+Total IT Spends,OFS_Operating Expenses,<none>,Store,+
+OFS_Depreciation and Amortization,OFS_Adjustments to Net Income,null,Store,null
+OFS_Depreciation and Amortization,OFS_Total Expenses,null,Store,null
+External Indicators,OFS_Expense Planning,<none>,Store,~
+OFS_Accumulated Depreciation and Amortization,OFS_Net Fixed Assets,null,Store,null
+OFS_Total Accrued Liabilities,OFS_Total Current Liabilities,null,Store,null
+OFS_Cash Ratio,OFS_Balance Sheet KPIs,null,Store,null
+OWP_Employee Demographics,OWP_Workforce Planning Assumptions,null,Store,null
+OWP_Partial Payment Factor,OWP_Compensation Assumptions,null,Store,null
+OWP_Regular Headcount,OWP_Total Regular Headcount,null,Store,null
+OWP_Other Headcount,OWP_Total Headcount,null,Store,null
+Meets Expectations,OWP_Merit Rates,<none>,Store,+
+Needs Improvement,OWP_Merit Rates,<none>,Store,+
+Fails to Meet Expectations,OWP_Merit Rates,<none>,Store,+
+OFS_Predefined Cash Flow Accounts,OFS_Cash Planning,null,Store,null
+OFS_Change in Prepaid Expenses,OFS_Indirect Method Accounts,null,Store,null
+OFS_Change in Prepaid Expenses,OFS_Changes in Operating Assets and Liabilities,null,Store,null
+OFS_Purchase or Sale of Fixed Assets,OFS_Capex FinStmt Integration,null,Store,null
+OFS_Purchase or Sale of Fixed Assets,OFS_Indirect Method Accounts,null,Store,null
+OFS_Purchase or Sale of Fixed Assets,OFS_Net Cash From Investing Activities,null,Store,null
+OFS_Common Method Accounts,OFS_Predefined Cash Flow Accounts,null,Store,null
+OFS_Issuance or Repurchase of Common Stock,OFS_Net Cash from Financing Activities,null,Store,null
+OFS_Issuance or Repurchase of Common Stock,OFS_Common Method Accounts,null,Store,null
+OFS_Net Cash from Financing Activities,OFS_Net Cash Flow,null,Store,null
+IPM Accounts,OFS_Financials Accounts,<none>,Store,~
+OFS_Capex FinStmt Integration,OFS_Cross Module Integration,null,Store,null
+OWP_Total Compensation,OWP_Workforce Expenses,null,Store,null
+OWP_Transferred Salary,OWP_Total Salary,null,Store,null
+OWP_Transferred Salary,Total  Salary,null,Store,null
+OWP_Earning3,OWP_Total Earnings,null,Store,null
+OWP_Earning7,OWP_Total Earnings,null,Store,null
+OWP_Benefit3,OWP_Total Benefits,null,Store,null
+OWP_Benefit4,OWP_Total Benefits,null,Store,null
+OWP_wCount,OWP_Workforce Planning - Accounts,null,Store,null
+OCX_Finstatement Accounts for Assets,OCX_Finstatement Expenses,null,Store,null
+OCX_Insurance,OCX_Finstatement Accounts for Assets,null,Store,null
+OCX_Insurance,OCX_Fixed Assets Related Expenses,null,Store,null
+OCX_Insurance,OCX_Lease Asset Expenses,null,Store,null
+OCX_Insurance,OCX_Capital Ownership Costs,null,Store,null
+OCX_Insurance,OCX_Finstatement Accounts for Lease Assets,null,Store,null
+OCX_Insurance,OCX_Tangible Expenses,null,Store,null
+OCX_Insurance,OCX_Capital Operating Expenses,null,Store,null
+OCX_Insurance,OCX_Intangible Expenses,null,Store,null
+OCX_Cash Outflow from Capital Additions,OCX_Finstatement Accounts for Assets,null,Store,null
+OCX_Cash Outflow from Capital Additions,OCX_Finstatement Accounts for Intangible Assets,null,Store,null
+OCX_Cash Outflow from Capital Additions,OCX_Capital Cash Flow Impact,null,Store,null
+OCX_Proceeds from Sale of Intangibles,OCX_Finstatement Accounts for Intangible Assets,null,Store,null
+OCX_Proceeds from Sale of Intangibles,OCX_Capital Cash Flow Impact,null,Store,null
+OCX_Installation,OCX_Capital Work in Progress,null,Store,null
+OCX_Installation,OCX_Asset Cost Assumptions,null,Store,null
+OCX_Salvage,OCX_Required Tangible Cost Assumptions,null,Store,null
+OCX_Salvage,OCX_Asset Cost Assumptions,null,Store,null
+OCX_Salvage,OCX_Custom Intangible Drivers,null,Store,null
+OCX_Salvage,OCX_Required Intangible Cost Drivers,null,Store,null
+OCX_Calculated Cost Assumptions,OCX_Tangible Asset Cost Drivers,null,Store,null
+OCX_Useful Life (in Years),OCX_Required Assumption On Forms,null,Store,null
+OCX_Useful Life (in Years),OCX_Intangible Capital Global Assumptions,null,Store,null
+OCX_Useful Life (in Years),OCX_Capital Assumptions,null,Store,null
+OCX_Useful Life (in Years),OCX_Tangible Capital Global Assumptions,null,Store,null
+OCX_Depreciation Method,OCX_Tangible Capital Global Assumptions,null,Store,null
+OCX_Asset Name,OCX_General Asset Properties,null,Store,null
+OCX_Premature End Date,OCX_Custom Date Assumptions,null,Store,null
+OCX_Funding Allocator,OCX_Capital Assumptions,null,Store,null
+OCX_Quantity Multiplier,OCX_Capital Assumptions,null,Store,null
+OCX_Retirement Obligation,OCX_Retirement Cost Assumptions,null,Store,null
+OCX_Impairment Date1,OCX_Impairment Assumptions,null,Store,null
+OCX_Financial Statement Impact,OCX_Accounts - Capital Expense,null,Store,null
+OCX_Balance Sheet Impact,OCX_Financial Statement Impact,null,Store,null
+OCX_Fixed Assets Related Expenses,OCX_Expenses - Capital,null,Store,null
+"OCX_Loss/(Gain) on Sale of Property, Plant, and Equipment",OCX_Net Loss/(Gain) on Sale of Assets,null,Store,null
+OCX_Other Custom Assumptions,OCX_Capital Assumptions On Forms,null,Store,null
+OCX_Intangible Expenses,OCX_Intangible Asset Planning,null,Store,null
+OCX_Asset Age at start of lease (years),OCX_ Required Leased Assets General Assumptions,null,Store,null
+OPF_Custom Direct Input Assumptions,OPF_Direct Input Expense Assumptions,null,Store,null
+OPF_Capital Project Assumptions,OPF_Expense Drivers on Forms,null,Store,null
+OPF_Capitalized Expense,OPF_Capital Project Assumptions,null,Store,null
+OPF_Other Expenses,OPF_Total Other Expenses,null,Store,null
+OPF_Other Expenses,OPF_Other Expense Detail,null,Store,null
+OPF_Other Expenses,OPF_Project Expense Drivers,null,Store,null
+OPF_Other Expenses,OPF_Total Non Billable Expenses,null,Store,null
+OPF_Other Expenses,OPF_Financial Integration Accounts,null,Store,null
+OPF_Other Expenses,OPF_Total Benefits,null,Store,null
+OPF_Direct Entry Detail,OPF_Expense Details Entered,null,Store,null
+OCX_Lease Payment,OCX_Required Leased Asset Cost Assumptions,null,Store,null
+OCX_Estimated Asset Value at End,OCX_Required Leased Asset Cost Assumptions,null,Store,null
+OCX_LeaseRentFreePeriod,OCX_Leased Asset Optional Assumptions,null,Store,null
+OCX_Total Fixed Assets Gross,OCX_KPIs,null,Store,null
+OCX_Capital Operating Expenses,OCX_Per Unit Cost Detail,null,Store,null
+Name,OPF_Required Properties,null,Store,null
+OPF_Project Classification,OPF_Project Detail Information,null,Store,null
+OPF_Project Classification,OPF_Required Properties,null,Store,null
+OPF_End Date,OPF_Required Properties,null,Store,null
+OPF_End Date,OPF_Project Detail Information,null,Store,null
+OPF_End Date,OPF_Project Required Properties,null,Store,null
+OPF_Additional Properties,OPF_Standard Project Properties,null,Store,null
+OPF_Capital Project Properties,OPF_Project Properties,null,Store,null
+OPF_Capitalizable,OPF_Project Required Properties,null,Store,null
+OPF_Capitalizable,OPF_Capital Project Properties,null,Store,null
+OPF_Capitalizable,OPF_Basic Expense Assumptions,null,Store,null
+Effort,Weighted Score,<none>,Store,+
+Benefit / Revenue,Weighted Score,<none>,Store,+
+Technical Risk,Weighted Score,<none>,Store,+
+Market Risk,Weighted Score,<none>,Store,+
+Scenario 1,PA Scenarios,Conservative,Store,+
+Tax Rate on Compensation,Workforce Accts - Custom,<none>,Store,+
+Total  Salary,Total  Compensation,<none>,Store,+
+Production Hours per Unit,Workforce Accts - Mfg Custom,<none>,Store,+
+OFS_Car Rental %,OFS_Travel and Entertainment Expense Drivers,null,Store,null
+OFS_Car Rental %,OFS_Predefined Travel and Entertainment Drivers,null,Store,null
+OFS_Number of Events,OFS_Predefined Marketing Drivers,null,Store,null
+OFS_Number of Events,OFS_Marketing Expense Drivers,null,Store,null
+OFS_Communications Rate,OFS_Facilities Expenses Drivers,null,Store,null
+OFS_Communications Rate,OFS_Predefined Facilities Drivers,null,Store,null
+OFS_Cost Per Square Foot,OFS_Predefined Facilities Drivers,null,Store,null
+OFS_Cost Per Square Foot,OFS_Facilities Expenses Drivers,null,Store,null
+OFS_Salaries,OFS_Compensation Accounts,null,Store,null
+OFS_Salaries,OFS_Project Integration,null,Store,null
+OFS_Salaries,OFS_Total Salary,null,Store,null
+OFS_Overtime,OFS_Total Salary,null,Store,null
+OFS_Overtime,OFS_Compensation Accounts,null,Store,null
+OCX_No Account,Account,null,Store,null
+TP-Date,System Members,null,Store,null
+isRevenueLineUsed,System Members,null,Store,null
+Spread_Flow,System Members,null,Store,null
+Spread_454,System Members,null,Store,null
+tempEquipCashflow,System Members,null,Store,null
+OFS_Predefined Revenue Drivers,OFS_Revenue Drivers,null,Store,null
+OFS_Revenue Drivers on Forms,OFS_Revenue Drivers,null,Store,null
+Number of Users,IT Chargeback Drivers,<none>,Store,+
+OFS_Overhead,OFS_Total Cost Of Sales,null,Store,null
+OFS_Overhead,OFS_Cost of Sales Accounts,null,Store,null
+OFS_Overhead,OFS_Project Integration,null,Store,null
+OFS_Freight,OFS_Cost of Sales Accounts,null,Store,null
+OFS_Freight,OFS_Project Integration,null,Store,null
+OFS_Freight,OFS_Total Cost Of Sales,null,Store,null
+Services Catalog,IT Chargebacks,<none>,Store,+
+OFS_Expense Drivers,OFS_Expense Planning,null,Store,null
+Server Maintenance Cost per Machine,IT Spends Expense Drivers,<none>,Store,+
+OFS_Marketing Campaigns,OFS_Marketing Expense Accounts,null,Store,null
+OFS_Marketing Campaigns,OFS_Total Marketing Expense,null,Store,null
+OFS_Facilities Expenses Accounts,OFS_Predefined Expense Accounts,null,Store,null
+OFS_Outside Services Accounts,OFS_Predefined Expense Accounts,null,Store,null
+OFS_Depreciation and Amortization Accounts,OFS_Predefined Expense Accounts,null,Store,null
+OFS_Other Income and Expense Accounts,OFS_Predefined Expense Accounts,null,Store,null
+OFS_Calculated Assets,OFS_Balance Sheet Driver Related Accounts,null,Store,null
+OFS_Rolling Accounts Calculated,OFS_Balance Sheet Accounts on Forms,null,Store,null
+OFS_Short Term Investments,OFS_Assets,null,Store,null
+OFS_Short Term Investments,OFS_Total Cash and Investments,null,Store,null
+OFS_Short Term Investments,OFS_Asset Accounts,null,Store,null
+OFS_Other Current Assets,OFS_Assets,null,Store,null
+OFS_Other Current Assets,OFS_Total Current Assets,null,Store,null
+OFS_Other Current Assets,OFS_Asset Accounts,null,Store,null
+OFS_Total Preferred and Common Stock,OFS_Equity,null,Store,null
+OFS_Total Preferred and Common Stock,OFS_Total Equity,null,Store,null
+OFS_Additional Paid-In Capital - Preferred,OFS_Total Preferred and Common Stock,null,Store,null
+OFS_Additional Paid-In Capital - Preferred,OFS_Equity Accounts,null,Store,null
+OFS_Total Current Assets,OFS_Total Assets,null,Store,null
+OFS_Cash,OFS_Total Cash and Investments,null,Store,null
+OFS_Cash,OFS_Balance Sheet KPIs,null,Store,null
+License Metric,Detail Planning,<none>,Store,+
+Inflation Rate,External Indicators,<none>,Store,+
+OFS_DSO,OFS_Balance Sheet Drivers on Forms,null,Store,null
+OFS_DSO,OFS_Predefined Balance Sheet Drivers,null,Store,null
+OFS_Accrued Expense % of OpEx,OFS_Predefined Balance Sheet Drivers,null,Store,null
+OFS_Accrued Expense % of OpEx,OFS_Balance Sheet Drivers on Forms,null,Store,null
+OFS_Short Term Investment - Calc to Balance,OFS_Total Assets,null,Store,null
+OFS_Return on Assets,OFS_Balance Sheet KPIs,null,Store,null
+OWP_Skill Set,OWP_Dynamic Properties,null,Store,null
+OWP_Skill Set,OWP_Workforce Planning Accounts for Forms,null,Store,null
+OWP_Gender,OWP_Employee Demographics,null,Store,null
+OWP_Age Band,OWP_Employee Demographics,null,Store,null
+OWP_Total Headcount,OWP_Workforce Planning Assumptions,null,Store,null
+OWP_Addt_Demand,OWP_Total Regular Headcount,null,Store,null
+OWP_Temporary Headcount,OWP_Total Headcount,null,Store,null
+OWP_Headcount Driver,OWP_Strategic Headcount Planning,null,Store,null
+OWP_Headcount Driver Rate,OWP_Strategic Headcount Planning,null,Store,null
+OFS_Debt To Equity,OFS_Balance Sheet KPIs,null,Store,null
+OFS_Indirect Method Accounts,OFS_Predefined Cash Flow Accounts,null,Store,null
+OFS_Change in Other Current Liabilities,OFS_Indirect Method Accounts,null,Store,null
+OFS_Change in Other Current Liabilities,OFS_Changes in Operating Assets and Liabilities,null,Store,null
+Revenue,IPM Accounts,<none>,Store,+
+OFS_Financials Overview,OFS_Cross Module Integration,null,Store,null
+OWP_Merit,OWP_Total Salary,null,Store,null
+OWP_Benefit2,OWP_Total Benefits,null,Store,null
+OWP_Total Taxes,OWP_Total Compensation,null,Store,null
+OWP_Tax5,OWP_Total Taxes,null,Store,null
+OWP_Tax8,OWP_Total Taxes,null,Store,null
+OWP_Compensation Expenses,OWP_Workforce Expenses,null,Store,null
+OWP_FYTD Total Salary (Prior),OWP_YTD Accounts,null,Store,null
+OWP_Labor Standard Rate Assumptions,OWP_Workforce Project Integration Accounts,null,Store,null
+OWP_Non Billable Hours,OWP_Total Labor Hours,null,Store,null
+OWP_Utilization,OWP_Workforce Project Integration Accounts,null,Store,null
+OCX_Unit of Measure,OCX_Capital Assumptions On Forms,null,Store,null
+OCX_FOG Expense,OCX_Fixed Assets Related Expenses,null,Store,null
+OCX_FOG Expense,OCX_Finstatement Accounts for Assets,null,Store,null
+OCX_FOG Expense,OCX_Tangible Expenses,null,Store,null
+OCX_FOG Expense,OCX_Capital Operating Expenses,null,Store,null
+OCX_FOG Expense,OCX_Finstatement Accounts for Lease Assets,null,Store,null
+OCX_FOG Expense,OCX_Lease Asset Expenses,null,Store,null
+OCX_Other Operational Costs,OCX_Fixed Assets Related Expenses,null,Store,null
+OCX_Other Operational Costs,OCX_Finstatement Accounts for Assets,null,Store,null
+OCX_Other Operational Costs,OCX_Capital Operating Expenses,null,Store,null
+OCX_Other Operational Costs,OCX_Finstatement Accounts for Lease Assets,null,Store,null
+OCX_Rent Expense - Leased Assets,OCX_Finstatement Accounts for Lease Assets,null,Store,null
+OCX_Rent Expense - Leased Assets,OCX_Expenses - Capital,null,Store,null
+OCX_Rent Expense - Leased Assets,OCX_Capital Ownership Costs,null,Store,null
+OCX_Freight,OCX_Custom Tangible Cost Assumptions,null,Store,null
+OCX_Freight,OCX_Asset Cost Assumptions,null,Store,null
+OCX_Freight,OCX_Capital Work in Progress,null,Store,null
+OCX_Tangible Asset Planning,OCX_Detailed Planning,null,Store,null
+OCX_Custom Tangible Cost Assumptions,OCX_Tangible Asset Cost Drivers,null,Store,null
+OCX_Asset ID,OCX_General Asset Properties,null,Store,null
+OCX_Purchase Reason Code,OCX_Descriptive Properties,null,Store,null
+OCX_Purchase Reason Code,OCX_Custom Justification and Descriptive Properties New,null,Store,null
+OCX_Capacity UOM,OCX_Other Custom Assumptions,null,Store,null
+OCX_Capacity UOM,OCX_Capacity Assumptions,null,Store,null
+OCX_Asset Value,OCX_Asset Properties,null,Store,null
+OCX_Cash Flow Incidence,OCX_Cash Flow and Funding Assumptions,null,Store,null
+OCX_Retirement Costs,OCX_Retirement Cost Assumptions,null,Store,null
+"OCX_Intangible Assets Finite, Net","OCX_Intangible Assets, Net",null,Store,null
+OCX_Basic Details,OCX_Capital Assumptions On Forms,null,Store,null
+OCX_Custom Intangible Drivers,OCX_Intangible Cost Drivers,null,Store,null
+OCX_Payment Timing,OCX_ Required Leased Assets General Assumptions,null,Store,null
+OCX_Lease Type,OCX_ Required Leased Assets General Assumptions,null,Store,null
+OPF_Expense Assumptions,OPF_Project Expense Planning,null,Store,null
+OPF_Expense Drivers on Forms,OPF_Expense Assumptions,null,Store,null
+OPF_Required Equipment Assumptions,OPF_Equipment Assumptions,null,Store,null
+OPF_Equipment Units,OPF_Capital Project Integration,null,Store,null
+OPF_Equipment Units,OPF_Required Equipment Assumptions,null,Store,null
+OPF_Equipment Units,OPF_Equipment Expense Detail,null,Store,null
+OPF_Resource Name,OPF_Basic Line Item Field,null,Store,null
+OPF_Resource Name,OPF_Required Other Expense Assumptions,null,Store,null
+OPF_Project Expenses,OPF_Capital Project Assumptions,null,Store,null
+OPF_Asset Details,OPF_Capital Project Assumptions,null,Store,null
+Override Job Default Salary Rate,Workforce - Mass Hiring,<none>,Store,+
+Temp Hourly Staffing,Hourly Staffing Details,<none>,Store,+
+Temp Hourly Rate,Workforce Accts - Custom,<none>,Store,+
+Total  Earnings,Total  Compensation,<none>,Store,+
+Workforce Accts - Mfg Custom,Account,<none>,Store,+
+Inventory,Workforce Accts - Mfg Custom,<none>,Store,+
+Production Hours to Satisfy Demand,Workforce Accts - Mfg Custom,<none>,Store,+
+OFS_Headcount,OFS_Predefined Compensation Drivers,null,Store,null
+OFS_Headcount,IT Spends Expense Drivers,null,Store,null
+OFS_Headcount,OFS_Expense KPIs,null,Store,null
+OFS_Headcount,OFS_Facilities Expenses Drivers,null,Store,null
+OFS_Headcount,OFS_Common Expense Drivers,null,Store,null
+OFS_Headcount,OFS_Predefined Outside Services Drivers,null,Store,null
+OFS_Headcount,OFS_Predefined Facilities Drivers,null,Store,null
+OFS_Travel and Entertainment Expense Drivers,OFS_Expense Drivers for Forms,null,Store,null
+OFS_Nights per Trip,OFS_Travel and Entertainment Expense Drivers,null,Store,null
+OFS_Nights per Trip,OFS_Predefined Travel and Entertainment Drivers,null,Store,null
+Fiscal TP-Index,System Members,null,Store,null
+TP-EndDate,System Members,null,Store,null
+Spread_445,System Members,null,Store,null
+Calendar Index Of Fiscal Start Month,System Members,null,Store,null
+OFS_Volume,OFS_Product Revenue Drivers,null,Store,null
+OFS_Volume,OFS_Revenue Drivers on Forms,null,Store,null
+OFS_Predefined Cost of Sales Drivers,OFS_Revenue Drivers,null,Store,null
+OFS_Material Unit Cost,OFS_Predefined Cost of Sales Drivers,null,Store,null
+OFS_Material Unit Cost,OFS_Revenue Drivers on Forms,null,Store,null
+Rate per Tb,IT Chargeback Drivers,<none>,Store,+
+OFS_Gross Profit,OFS_Revenue Planning,null,Store,null
+OFS_Gross Profit,OFS_Integration Reporting,null,Store,null
+OFS_Total Revenue,OFS_Gross Profit,null,Store,null
+OFS_Total Revenue,OFS_Financials Overview,null,Store,null
+OFS_Total Revenue,OFS_Net Income,null,Store,null
+OFS_Margin %,OFS_Revenue KPIs,null,Store,null
+Client Machines,IT Spends Expense Drivers,<none>,Store,+
+OFS_Audit Related Fees,OFS_Total Professional Fees,null,Store,null
+OFS_Audit Related Fees,OFS_Professional Fees Accounts,null,Store,null
+OFS_Other Office Supplies,OFS_Office Expense Accounts,null,Store,null
+OFS_Other Office Supplies,OFS_Total Office Expense,null,Store,null
+OFS_Dues and Subscriptions,OFS_Total Office Expense,null,Store,null
+OFS_Dues and Subscriptions,OFS_Office Expense Accounts,null,Store,null
+OFS_VAT,OFS_Tax Accounts,null,Store,null
+OFS_VAT,OFS_Total Taxes,null,Store,null
+OFS_Total Expenses,OFS_Expense Planning,null,Store,null
+OFS_Total Expenses,OFS_Total Expense - All,null,Store,null
+OFS_Total Expenses,OFS_Integration Reporting,null,Store,null
+OFS_Total Expenses,OFS_Financials Overview,null,Store,null
+OFS_Inventory,OFS_Calculated Assets,null,Store,null
+OFS_Inventory,OFS_Total Current Assets,null,Store,null
+OFS_Inventory,OFS_Asset Accounts,null,Store,null
+OFS_Accounts Payable,OFS_Calculated Liabilities,null,Store,null
+OFS_Accounts Payable,OFS_Liability Accounts,null,Store,null
+OFS_Accounts Payable,OFS_Total Current Liabilities,null,Store,null
+OFS_Accrued Expense,OFS_Total Accrued Liabilities,null,Store,null
+OFS_Accrued Expense,OFS_Calculated Liabilities,null,Store,null
+OFS_Accrued Expense,OFS_Liability Accounts,null,Store,null
+OFS_Accumulated Depreciation,OFS_Fixed Asset Accounts,null,Store,null
+OFS_Accumulated Depreciation,OFS_Rolling Accounts Calculated,null,Store,null
+OFS_Accumulated Depreciation,OFS_Accumulated Depreciation and Amortization,null,Store,null
+OFS_Accumulated Depreciation,OFS_Capex FinStmt Integration,null,Store,null
+OFS_Non Current Assets,OFS_Assets,null,Store,null
+OFS_Non Current Assets,OFS_Total Non Current Assets,null,Store,null
+OFS_Buildings and Lease Improvements,OFS_Fixed Asset Accounts,null,Store,null
+OFS_Buildings and Lease Improvements,OFS_Fixed Assets,null,Store,null
+OFS_Buildings and Lease Improvements,OFS_Capex FinStmt Integration,null,Store,null
+OFS_Intangible Assets - Indefinite,OFS_Asset Accounts,null,Store,null
+OFS_Intangible Assets - Indefinite,OFS_Capex FinStmt Integration,null,Store,null
+OFS_Intangible Assets - Indefinite,OFS_Fixed Assets,null,Store,null
+OFS_Long Term Debt,OFS_Total Non Current Liabilities,null,Store,null
+OFS_Long Term Debt,OFS_Liability Accounts,null,Store,null
+OFS_Long Term Debt,OFS_Capex FinStmt Integration,null,Store,null
+Server Maintenance,Total IT Spends,<none>,Store,+
+Amount,Detail Planning,<none>,Store,+
+OFS_Total Expense - All,OFS_Net Income,null,Store,null
+EBITDA,OFS_Income Statement KPIs,<none>,Store,+
+OFS_Predefined Balance Sheet Drivers,OFS_Balance Sheet Drivers,null,Store,null
+OFS_Balance Sheet Drivers on Forms,OFS_Balance Sheet Drivers,null,Store,null
+OFS_Goodwill,OFS_Capex FinStmt Integration,null,Store,null
+OFS_Goodwill,OFS_Fixed Asset Accounts,null,Store,null
+OFS_Capital Liability,OFS_Liability Accounts,null,Store,null
+OFS_Capital Liability,OFS_Total Current Liabilities,null,Store,null
+OFS_Capital Liability,OFS_Capex FinStmt Integration,null,Store,null
+Workforce Demand Drivers,Workforce Accts - Custom,Demand Drivers,Store,+
+Temp FTE,Temp Hourly Staffing,<none>,Store,+
+Temp FTE,Total FTE Supply,<none>,Store,+
+Service Hours Gap,Hourly Staffing Details,<none>,Store,+
+A_64520,A_64000,64520-Communications Maintenance,Store,+
+A_64550,A_64000,64550-Postage,Store,+
+A_65410,A_65000,65410-Recruiting expenses,Store,+
+A_68130,A_68000,68130-Depreciation Machinery and Equipment,Store,+
+A_68250,A_68000,68250-Depreciation on ROU Vehicles,Store,+
+A_77600,A_77001,77600-Discounts taken,Store,+
+A_78110,A_77001,78110-Interest Income,Store,+
+A_78300,A_77001,78300-I/C  interest Income,Store,+
+A_78540,A_77001,78540-Loss on Retirement-Cost of Removal,Store,+
+A_78560,A_77001,78560-Rounding Cross-Currency,Store,+
+A_79999,A_79001,79999-Net Income,Store,+
+Ratios,A_All_Corp_Acct_V1,<none>,Store,+
+Profit Performance Ratios,Ratios,<none>,Store,+
+Days in Payables,Activity Ratios,<none>,Store,+
+Selling and Marketing Expense to Revenue,Custom Ratios,<none>,Store,+
+Purchase Down Payment,Loan Assumptions,<none>,Store,+
+ProdFactor,EPMO_Accounts,New Volumes,Store,+
+Workforce Custom Accounts,Account,<none>,Store,~
+Start Period,Workforce - Mass Hiring,<none>,Store,+
+Changed Job,Workforce - Mass Hiring,<none>,Store,+
+Total  Benefits,Total  Compensation,<none>,Store,+
+OT Hours by Job per Day,Workforce Accts - Mfg Custom,<none>,Store,+
+OFS_Car Allowance,OFS_Total Benefits and Taxes,null,Store,null
+OFS_Car Allowance,OFS_Compensation Accounts,null,Store,null
+System Members,Account,null,Store,null
+Cal TP-Index,System Members,null,Store,null
+PeriodsInQtr,System Members,null,Store,null
+OFS_Revenue Drivers,OFS_Revenue Planning,null,Store,null
+OFS_Return %,OFS_Product Revenue Drivers,null,Store,null
+OFS_Return %,OFS_Revenue Drivers on Forms,null,Store,null
+OFS_Support %,OFS_Revenue Drivers on Forms,null,Store,null
+OFS_Support %,OFS_Predefined Revenue Drivers,null,Store,null
+Applications Supported,IT Chargeback Drivers,<none>,Store,+
+OFS_Bad Debt,OFS_Revenue Accounts,null,Store,null
+OFS_Bad Debt,OFS_Total Expenses,null,Store,null
+OFS_Adjustments to Revenue,OFS_Total Revenue,null,Store,null
+OFS_COS to Revenue%,OFS_Revenue KPIs,null,Store,null
+Apps Support,IT Chargebacks,<none>,Store,+
+OFS_Expense Planning,OFS_Financials Accounts,null,Store,null
+OFS_Payroll Taxes,OFS_Compensation Accounts,null,Store,null
+OFS_Payroll Taxes,OFS_Total Benefits and Taxes,null,Store,null
+OFS_Hotel,OFS_Total Travel and Entertainment Expense,null,Store,null
+OFS_Hotel,OFS_Travel and Entertainment Expense Accounts,null,Store,null
+OFS_Car Rental,OFS_Travel and Entertainment Expense Accounts,null,Store,null
+OFS_Car Rental,OFS_Total Travel and Entertainment Expense,null,Store,null
+OFS_Other Marketing,OFS_Project Integration,null,Store,null
+OFS_Other Marketing,OFS_Marketing Expense Accounts,null,Store,null
+OFS_Other Marketing,OFS_Total Marketing Expense,null,Store,null
+OFS_Office and General Expense,OFS_Office Expense Accounts,null,Store,null
+OFS_Office and General Expense,OFS_Total Office Expense,null,Store,null
+OFS_Office and General Expense,OFS_Project Integration,null,Store,null
+OFS_Gain/(Loss) On Sale of Assets,OFS_Other Income and Expense Accounts,null,Store,null
+OFS_Gain/(Loss) On Sale of Assets,OFS_Other (Income)/Expense,null,Store,null
+OFS_Gain/(Loss) On Sale of Assets,OFS_Capex FinStmt Integration,null,Store,null
+OFS_Allowance for Doubtful Accounts,OFS_Total Receivables,null,Store,null
+OFS_Allowance for Doubtful Accounts,OFS_Calculated Assets,null,Store,null
+OFS_Allowance for Doubtful Accounts,OFS_Asset Accounts,null,Store,null
+OFS_Office Furniture and Equipment,OFS_Fixed Asset Accounts,null,Store,null
+OFS_Office Furniture and Equipment,OFS_Fixed Assets,null,Store,null
+OFS_Office Furniture and Equipment,OFS_Capex FinStmt Integration,null,Store,null
+OFS_Asset Retirement Liability,OFS_Total Other Current Liabilities,null,Store,null
+OFS_Asset Retirement Liability,OFS_Capex FinStmt Integration,null,Store,null
+OFS_Asset Retirement Liability,OFS_Liability Accounts,null,Store,null
+OFS_Capital Reserve,OFS_Liability Accounts,null,Store,null
+OFS_Capital Reserve,OFS_Total Non Current Liabilities,null,Store,null
+OFS_Capital Reserve,OFS_Capex FinStmt Integration,null,Store,null
+OFS_Balance Sheet,OFS_Balance Sheet Planning,null,Store,null
+I/C Accounts Receivable,OFS_Total Receivables,<none>,Store,+
+Labor Expenses,Total IT Spends,<none>,Store,+
+Support,Total IT Spends,<none>,Store,+
+Software Expenses,Total IT Spends,<none>,Store,+
+OFS_Total Taxes,OFS_Total Expenses,null,Store,null
+OFS_Expense KPIs,OFS_Expense Planning,null,Store,null
+Travel/Opex %,OFS_Expense KPIs,<none>,Store,+
+OFS_Income Statement KPIs,OFS_Income Statement,null,Store,null
+OFS_Days in Inventory,OFS_Balance Sheet Drivers on Forms,null,Store,null
+OFS_Days in Inventory,OFS_Predefined Balance Sheet Drivers,null,Store,null
+OFS_Number of Days in Period,OFS_Predefined Balance Sheet Drivers,null,Store,null
+OFS_Predefined Balance Sheet Accounts,OFS_Balance Sheet Planning,null,Store,null
+OFS_Fixed Asset Accounts,OFS_Asset Accounts,null,Store,null
+OFS_Net Fixed Assets,OFS_Total Non Current Assets,null,Store,null
+OFS_Return on Invested Capital,OFS_Balance Sheet KPIs,null,Store,null
+OFS_Working Capital,OFS_Balance Sheet KPIs,null,Store,null
+OWP_Rec. Merit %,OWP_Workforce Planning Accounts for Forms,null,Store,null
+OWP_Rec. Merit %,OWP_Dynamic Properties,null,Store,null
+OWP_LOA Headcount,OWP_Total Regular Headcount,null,Store,null
+OWP_On Sabbatical Headcount,OWP_Total Regular Headcount,null,Store,null
+OWP_Total FTE,OWP_Workforce Planning Assumptions,null,Store,null
+OWP_Contractor FTE,OWP_Total FTE,null,Store,null
+OWP_Temporary FTE,OWP_Total FTE,null,Store,null
+Option 3,OWP_Options,<none>,Store,+
+OWP_Merit Rates,OWP_Workforce Planning Assumptions,null,Store,null
+OWP_No Merit,OWP_Merit Rates,null,Store,null
+OFS_Working Capital Turnover,OFS_Balance Sheet KPIs,null,Store,null
+OFS_Cash Planning,OFS_Financials Accounts,null,Store,null
+OFS_Change in Accrued Liabilities,OFS_Indirect Method Accounts,null,Store,null
+OFS_Change in Accrued Liabilities,OFS_Changes in Operating Assets and Liabilities,null,Store,null
+OFS_Purchases of Marketable Securities and Other Investments,OFS_Common Method Accounts,null,Store,null
+OFS_Purchases of Marketable Securities and Other Investments,OFS_Net Cash From Investing Activities,null,Store,null
+OFS_Proceeds from Borrowings,OFS_Capex FinStmt Integration,null,Store,null
+OFS_Proceeds from Borrowings,OFS_Common Method Accounts,null,Store,null
+OFS_Proceeds from Borrowings,OFS_Net Cash from Financing Activities,null,Store,null
+OFS_Cash Beginning Balance,OFS_Predefined Cash Flow Accounts,null,Store,null
+OFS_Net Cash Flow,OFS_Indirect Cash Flow Statement,null,Store,null
+OFS_Net Cash Flow,OFS_Financials Overview,null,Store,null
+Consumer Channel,Revenue,<none>,Store,+
+Health Care,Revenue,Medical,Store,+
+OFS_Cross Module Integration,Account,null,Store,null
+OFS_Project Integration,OFS_Cross Module Integration,null,Store,null
+OFS_Workforce FinStmt Integration,OFS_Cross Module Integration,null,Store,null
+OWP_Comments,OWP_Employee Properties,null,Store,null
+OFS_Short Term Borrowing - Calc to Balance,OFS_Total Liabilities and Equity,null,Store,null
+OFS_Debt Ratio,OFS_Balance Sheet KPIs,null,Store,null
+OWP_Headcount,OWP_Dynamic Properties,null,Store,null
+OWP_Headcount,OWP_Workforce Planning Accounts for Forms,null,Store,null
+OWP_Status,OWP_Dynamic Properties,null,Store,null
+OWP_Status,OWP_Workforce Planning Accounts for Forms,null,Store,null
+OWP_Override Merit %,OWP_Dynamic Properties,null,Store,null
+OWP_Override Merit %,OWP_Workforce Planning Accounts for Forms,null,Store,null
+OWP_Hours per Week,OWP_Compensation Assumptions,null,Store,null
+OWP_Merit Adjustment % Cum,OWP_Compensation Assumptions,null,Store,null
+OWP_Maternity Headcount,OWP_Total Regular Headcount,null,Store,null
+OWP_Regular FTE,OWP_Total FTE,null,Store,null
+OWP_Other FTE,OWP_Total FTE,null,Store,null
+OWP_Tiers,OWP_Workforce Planning Assumptions,null,Store,null
+OWP_Tier2,OWP_Tiers,null,Store,null
+Fringe Rate,OWP_Options,<none>,Store,+
+OWP_Attrition Rate,OWP_Strategic Headcount Planning,null,Store,null
+OWP_Workforce Planning Accounts for VC,OWP_Workforce Planning Assumptions,null,Store,null
+OFS_Long Term Debt to Equity,OFS_Balance Sheet KPIs,null,Store,null
+OFS_Other Cash from Financing Activities,OFS_Common Method Accounts,null,Store,null
+OFS_Other Cash from Financing Activities,OFS_Net Cash from Financing Activities,null,Store,null
+OFS_Changes in Operating Assets and Liabilities,OFS_Adjustments to Net Income,null,Store,null
+North Channel,Revenue,<none>,Store,+
+OWP_Employee Properties,OWP_Workforce Planning Assumptions,null,Store,null
+OWP_Action,OWP_Employee Properties,null,Store,null
+OWP_Earning10,OWP_Total Earnings,null,Store,null
+OWP_Earning10,Total  Earnings,null,Store,null
+OWP_Benefit5,OWP_Total Benefits,null,Store,null
+OWP_Tax3,OWP_Total Taxes,null,Store,null
+OWP_Tax4,OWP_Total Taxes,null,Store,null
+OWP_Labor Hours,OWP_Total Labor Hours,null,Store,null
+OCX_Equipment Standard Cost,OCX_Standard Rates,null,Store,null
+OCX_Expense Account Integration,OCX_Accounts - Capital Expense,null,Store,null
+OCX_Finstatement Expenses,OCX_Expense Account Integration,null,Store,null
+OCX_Accumulated Amortization,OCX_Finstatement Accounts for Intangible Assets,null,Store,null
+OCX_Accumulated Amortization,"OCX_Intangible Assets Finite, Net",null,Store,null
+OCX_Basic Cost,OCX_Calculated Cost Assumptions,null,Store,null
+OCX_Basic Cost,OCX_Asset Cost Assumptions,null,Store,null
+OCX_Capital Global Assumptions,OCX_Capital Assumptions,null,Store,null
+OCX_Asset Description,OCX_General Asset Properties,null,Store,null
+OCX_Asset Description,OCX_Basic Details,null,Store,null
+OCX_UOM,OCX_Asset Properties,null,Store,null
+OCX_Asset Acquired,OCX_Asset Properties,null,Store,null
+OCX_Custom Date Assumptions,OCX_Asset Date Assumptions,null,Store,null
+OCX_Asset Count,OCX_Asset Control Properties,null,Store,null
+OCX_Maintenance %,OCX_Asset Cost Assumptions,null,Store,null
+OCX_Maintenance %,OCX_Tangible Expense Drivers,null,Store,null
+OCX_Maintenance %,OCX_Intangible Expense Drivers,null,Store,null
+OCX_Maintenance %,OCX_Lease Asset Expense Drivers,null,Store,null
+OCX_Taxes %,OCX_Asset Cost Assumptions,null,Store,null
+OCX_Taxes %,OCX_Tangible Expense Drivers,null,Store,null
+OCX_Partial Capitalize %,OCX_Asset Cost Assumptions,null,Store,null
+OCX_Cash Staggered Value,OCX_Cash Flow and Funding Assumptions,null,Store,null
+OCX_Funding Staggered Value,OCX_Cash Flow and Funding Assumptions,null,Store,null
+"OCX_Intangible Assets, Net",OCX_Assets,null,Store,null
+OCX_Expenses - Capital,OCX_Financial Statement Impact,null,Store,null
+OCX_Retirement Expenses,OCX_Net Loss/(Gain) on Sale of Assets,null,Store,null
+OCX_Capital Cash Flow Impact,OCX_Financial Statement Impact,null,Store,null
+OCX_Required Assumption On Forms,OCX_Capital Assumptions On Forms,null,Store,null
+OCX_Custom Descriptive Properties,OCX_Capital Assumptions On Forms,null,Store,null
+OCX_Lease Term (In Years),OCX_ Required Leased Assets General Assumptions,null,Store,null
+OPF_Assignment Start Date,OPF_Basic Expense Assumptions,null,Store,null
+OPF_Assignment Start Date,OPF_Required Equipment Assumptions,null,Store,null
+OPF_Assignment Start Date,OPF_Required Labor Assumptions,null,Store,null
+OPF_Custom Labor Assumptions,OPF_Labor Assumptions,null,Store,null
+OPF_Skill Set,OPF_Custom Labor Assumptions,null,Store,null
+OPF_Material,OPF_Revenue Drivers Read Only,null,Store,null
+OPF_Material,OPF_Required Material Assumptions,null,Store,null
+OPF_Billable,OPF_Basic Expense Assumptions,null,Store,null
+OPF_Billable,OPF_T&M Assumptions,null,Store,null
+OPF_Billable,OPF_Revenue Drivers Read Only,null,Store,null
+OPF_Offsite Labor Hours,OPF_Contract Labor Hours,null,Store,null
+OPF_Offsite Labor Hours,OPF_Overhead Drivers,null,Store,null
+OPF_Offsite Labor Hours,OPF_Billable Hours,null,Store,null
+OPF_Offsite Labor Hours,OPF_Workforce Project Integration Accounts,null,Store,null
+OPF_Equipment Expense Detail,OPF_Expense Details,null,Store,null
+OPF_Expense Details Entered,OPF_Expense Details,null,Store,null
+OCX_Custom Leased Assets General Assumptions,OCX_Leased Asset General Assumptions,null,Store,null
+OCX_Second hand market value (Salvage Value),OCX_Required Leased Asset Cost Assumptions,null,Store,null
+OCX_Assets Variance %,OCX_KPIs,null,Store,null
+OCX_Per Unit Cost Detail,OCX_KPIs,null,Store,null
+OCX_Asset Operating Cost,OCX_Per Unit Cost Detail,null,Store,null
+OCX_Asset Cost per UOM,OCX_Per Unit Cost Detail,null,Store,null
+OCX_Capital Expenditure,OCX_KPIs,null,Store,null
+OCX_Capital Expenditure,OCX_New Asset KPI,null,Store,null
+OPF_Override Standard Material Rates,OPF_Project Required Properties,null,Store,null
+OPF_Override Standard Material Rates,OPF_Required Properties,null,Store,null
+OPF_Project Customer Name,OPF_Additional Properties,null,Store,null
+OPF_Revenue Recognition,OPF_Revenue Project Properties,null,Store,null
+OPF_Revenue Recognition,OPF_Project Required Properties,null,Store,null
+OPF_Project Custom Properties,OPF_Properties on Forms,null,Store,null
+PA Scenarios,OPF_Project Custom Properties,<none>,Store,+
+OPF_Labor Standard Rate Assumptions,OPF_Standard Rates,null,Store,null
+OPF_On Site Standard Billing Rate,OPF_Labor Standard Rate Assumptions,null,Store,null
+OPF_Off Site Standard Billing Rate,OPF_Labor Standard Rate Assumptions,null,Store,null
+OPF_Material Standard Billing Rate,OPF_Material Standard Rate Assumptions,null,Store,null
+OPF_Total Expenses,OPF_Financial Performance Measures,null,Store,null
+OPF_Total Expenses,OPF_Project Expense Planning,null,Store,null
+OPF_Total Expenses,OPF_Project Benefit,null,Store,null
+OPF_Total Expenses,OPF_Expense KPIs,null,Store,null
+OPF_Total Expenses,OPF_Project Profitability,null,Store,null
+OPF_Total Expenses,OPF_Cost Plus Drivers,null,Store,null
+OPF_Direct Expenses,OPF_Expense KPIs,null,Store,null
+OPF_Direct Expenses,OPF_Total Expenses,null,Store,null
+OPF_Labor Expense,OPF_Total Labor Expense,null,Store,null
+OPF_Labor Expense,OPF_Workforce Project Integration Accounts,null,Store,null
+OPF_Labor Expense,OPF_Total Non Billable Expenses,null,Store,null
+OPF_Labor Expense,OPF_Financial Integration Accounts,null,Store,null
+OPF_Labor Expense,OPF_Project Expense Drivers,null,Store,null
+OPF_Offsite Labor Expense,OPF_Labor Expense - Billable,null,Store,null
+OPF_Offsite Labor Expense,OPF_Overhead Drivers,null,Store,null
+OPF_Offsite Labor Expense,OPF_Financial Integration Accounts,null,Store,null
+OPF_Offsite Labor Expense,OPF_Project Expense Drivers,null,Store,null
+OPF_Indirect Expenses,OPF_Total Expenses,null,Store,null
+OPF_Indirect Expenses,OPF_Uses of Cash,null,Store,null
+OPF_Indirect Expenses,OPF_Expense Total,null,Store,null
+OPF

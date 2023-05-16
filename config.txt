@@ -1,0 +1,16 @@
+dbUrl|jdbc:oracle:thin:@oas.usa-env.com:1521/orclpdb
+dbUserName|OA_PLAN_STG
+dbPassword|STG_Pl#n4oa5
+serverUrl|https://epm-273198-plan.hap.fra.demoservices003.oraclepdemos.com
+serverUserName|epm_default_cloud_admin
+sereverPassword|eighahki4Q
+path|C:\\temp\\
+dflt_Entity|'No Entity'
+dflt_Period|'No Period'
+dflt_Product|'No Product'
+dflt_Scenario|'No Scenario'
+dflt_Version|'No Version'
+dflt_Year|'No Year'
+dflt_PlanElmnt|'No Plan Element'
+dflt_Market|'No Market'
+dflt_Currency|'No Currency'
